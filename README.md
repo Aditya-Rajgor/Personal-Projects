@@ -1,2 +1,2 @@
-# Personal-Projects
+# Kaggle-Projects
 Its me
