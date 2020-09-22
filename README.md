@@ -58,7 +58,10 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
 Kaggle provides us train and test data sets, which containts details like **Sex,Age,Passenger Class,Embarked etc**,.Our job is to find who survived in test data set.
 
-* Handeling Missing Values
+## OverView
+There is many **missing values**, some hidden imoportant features like name **Prefix,Family Size**,which plays good role predicting person's survive chance,
+we imputed missing values with **Random Forest Regressor** which is way more accurate than filling with **Mean,Median or most frequent value(Mode)**.
+Then we used different models and tune them and pick the best model.
 ```sh
 df.isna().sum()
 ```
@@ -74,9 +77,12 @@ Ticket           0
 Fare             1
 Embarked         2
 ```
+**Filling Fare with median value cause there is too many outliers to affect our mean**
 <div>
     <a href="https://plotly.com/~Aditya1112/1/?share_key=XvEsaVIjQk5BfDfei4pvWg" target="_blank" title="box" style="display: block; text-align: center;"><img src="https://plotly.com/~Aditya1112/1.png?share_key=XvEsaVIjQk5BfDfei4pvWg" alt="box" style="max-width: 100%;width: 800px;"  width="800" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
 </div>
+**Family Size and Their Survive Chance**
+
 
 
 
