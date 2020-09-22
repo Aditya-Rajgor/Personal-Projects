@@ -86,6 +86,26 @@ Embarked         2
 
 ![](Graphs/familysize.png)   ![](Graphs/prefix.png)
 
+**Family Size with 2,3 and 4 had higher chance of Survive,
+Similarly,prefix Mr[Married Man :(  ] had very low chance of Survive**
+
+**Tuning Diffrent model and predict the future with best model**
+KNN model's accuracy over K values
+<div>
+    <a href="https://plotly.com/~Aditya1112/3/?share_key=ELO7dxrEVylMHSaYk1tPKp" target="_blank" title="knn_lie" style="display: block; text-align: center;"><img src="https://plotly.com/~Aditya1112/3.png?share_key=ELO7dxrEVylMHSaYk1tPKp" alt="knn_lie" style="max-width: 100%;width: 700px;"  width="700" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+    <script data-plotly="Aditya1112:3" sharekey-plotly="ELO7dxrEVylMHSaYk1tPKp" src="https://plotly.com/embed.js" async></script>
+</div>
+After fitting some other models **Random Forest** gave the best results
+```sh
+confusion_matrix(y_test,y_pred_rfc)
+```
+Output:
+```sh
+array([[268,   5],
+       [  2, 171]])
+```
+Feature Importance:
+![feature-importance](Graphs/rf_feature_importance.png)
 
 
 
