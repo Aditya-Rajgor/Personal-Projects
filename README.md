@@ -24,11 +24,11 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
-  <h3 align="center">Titanic ML Problem</h3>
+<p align="left">
+  <h3 align="left">Titanic ML Problem</h3>
 </p>
 
-[![Titanic][product-screenshot]
+![][product-screenshot]
 
 
 <!-- TABLE OF CONTENTS -->
@@ -58,9 +58,27 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
 Kaggle provides us train and test data sets, which containts details like **Sex,Age,Passenger Class,Embarked etc**,.Our job is to find who survived in test data set.
 
+* Handeling Missing Values
+```sh
+df.isna().sum()
+```
+```sh
+PassengerId      0
+Survived       418
+Pclass           0
+Sex              0
+Age            263
+SibSp            0
+Parch            0
+Ticket           0
+Fare             1
+Embarked         2
+```
+![](https://chart-studio.plotly.com/~Aditya1112/1.embed)
+![](
 
-###
-=
+
+
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Juputer Notebook](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
