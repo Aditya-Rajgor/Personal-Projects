@@ -74,8 +74,10 @@ Ticket           0
 Fare             1
 Embarked         2
 ```
-![](https://chart-studio.plotly.com/~Aditya1112/1.embed)
-![](
+<div>
+    <a href="https://plotly.com/~Aditya1112/1/?share_key=XvEsaVIjQk5BfDfei4pvWg" target="_blank" title="box" style="display: block; text-align: center;"><img src="https://plotly.com/~Aditya1112/1.png?share_key=XvEsaVIjQk5BfDfei4pvWg" alt="box" style="max-width: 100%;width: 800px;"  width="800" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+    <script data-plotly="Aditya1112:1" sharekey-plotly="XvEsaVIjQk5BfDfei4pvWg" src="https://plotly.com/embed.js" async></script>
+</div>
 
 
 
