@@ -20,35 +20,6 @@
 [![Gmail][Gmail-shield]][Gmail-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
-<!-- PROJECT LOGO -->
-<br />
-<p align="left">
-  <h3 align="left">Titanic ML Problem</h3>
-</p>
-
-![][product-screenshot]
-
-
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-* [About the Compitition](#about-the-compitition)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
-
-
-
-<!-- ABOUT THE PROJECT -->
 ## About The Compitition
 
 
@@ -58,7 +29,25 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
 Kaggle provides us train and test data sets, which containts details like **Sex,Age,Passenger Class,Embarked etc**,.Our job is to find who survived in test data set.
 
-## OverView
+<!-- PROJECT LOGO -->
+![][product-screenshot]
+
+
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
+
+* [About the Compitition](#about-the-compitition)
+* [Brief Overview](#brief-overview)
+* [Libraries used in Jupyter Notebook](#Libraries-used-in-Jupyter-Notebook)
+* [Prerequisites](#prerequisites)
+* [Contributing](#contributing)
+
+
+
+<!-- ABOUT THE PROJECT -->
+
+
+## Brief Overview
 There is many **missing values**, some hidden imoportant features like name **Prefix,Family Size**,which plays good role predicting person's survive chance,
 we imputed missing values with **Random Forest Regressor** which is way more accurate than filling with **Mean,Median or most frequent value(Mode)**.
 Then we used different models and tune them and pick the best model.
@@ -77,7 +66,6 @@ Ticket           0
 Fare             1
 Embarked         2
 ```
-###  Brief Overview
 **Filling Fare with median value cause there is too many outliers to affect our mean**
 <div>
     <a href="https://plotly.com/~Aditya1112/1/?share_key=XvEsaVIjQk5BfDfei4pvWg" target="_blank" title="box" style="display: block; text-align: center;"><img src="https://plotly.com/~Aditya1112/1.png?share_key=XvEsaVIjQk5BfDfei4pvWg" alt="box" style="max-width: 100%;width: 800px;"  width="800" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
@@ -87,10 +75,11 @@ Embarked         2
 
 ![](Graphs/familysize.png)   ![](Graphs/prefix.png)
 
-**Family Size with 2,3 and 4 had higher chance of Survive,
-Similarly,prefix Mr[Married Man :(  ] had very low chance of Survive**
+**Family Size with 2,3 and 4 had higher chance of Survive,**
+**Similarly,prefix Mr[Married Man :(  ] had very low chance of Survive**
 
 **Tuning Diffrent model and predict the future with best model**
+
 KNN model's accuracy over K values
 <div>
     <a href="https://plotly.com/~Aditya1112/3/?share_key=ELO7dxrEVylMHSaYk1tPKp" target="_blank" title="knn_lie" style="display: block; text-align: center;"><img src="https://plotly.com/~Aditya1112/3.png?share_key=ELO7dxrEVylMHSaYk1tPKp" alt="knn_lie" style="max-width: 100%;width: 700px;"  width="700" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
@@ -107,6 +96,7 @@ array([[268,   5],
 ```
 **Feature Importance**:
 ![feature-importance](Graphs/rf_feature_importance.png)
+
 Prefix Mr,Sex_male and Passenger Class Highly correlate to Wheather pearson survive or not.
 
 
@@ -129,9 +119,8 @@ Prefix Mr,Sex_male and Passenger Class Highly correlate to Wheather pearson surv
 ```sh
 pip install notebook
 ```
-* Titanic Data Set
-[Kaggle](https://www.kaggle.com/c/titanic)
-* Necessary Libraries(#Libraries used in Jupyter Notebook)
+* [Titanic Data Set](https://www.kaggle.com/c/titanic)
+* Necessary Libraries(#Libraries-used-in-Jupyter-Notebook)
 * And also a computer ;)
 
 
