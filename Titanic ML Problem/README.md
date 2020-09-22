@@ -81,7 +81,10 @@ Embarked         2
 <div>
     <a href="https://plotly.com/~Aditya1112/1/?share_key=XvEsaVIjQk5BfDfei4pvWg" target="_blank" title="box" style="display: block; text-align: center;"><img src="https://plotly.com/~Aditya1112/1.png?share_key=XvEsaVIjQk5BfDfei4pvWg" alt="box" style="max-width: 100%;width: 800px;"  width="800" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
 </div>
+
 **Family Size and Their Survive Chance**
+
+![](Graphs/familysize.png)
 
 
 
