@@ -83,7 +83,8 @@ Embarked         2
 </div>
 
 **Family Size,Name Prefix and Their Survive Chance**
-![](Graphs/familysize.png)      ![](Graphs/prefix.png)
+
+![](Graphs/familysize.png)![](Graphs/prefix.png)
 
 
 
