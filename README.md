@@ -19,8 +19,7 @@
 -->
 [![Gmail][Gmail-shield]][Gmail-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![<img src="https://www.analyticsvidhya.com/wp-content/uploads/2015/06/kaggle-logo-transparent-300.png" width="400" height="200"/>][kaggle-url]
-
+![<img src="https://www.analyticsvidhya.com/wp-content/uploads/2015/06/kaggle-logo-transparent-300.png" width="90" height="45"/>]
 
 
 
