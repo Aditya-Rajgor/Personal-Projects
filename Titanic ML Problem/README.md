@@ -4,7 +4,7 @@
 
 ## About The Compitition
 We all know about legendary movie **Titanic**,that romatic story is unfortunately fictional, but the disaster was real.
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
+On April 15, 1912, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
 While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
 Kaggle provides us train and test data sets, which containts details like **Sex,Age,Passenger Class,Embarked etc**,.Our job is to find who had survived in test data set.
 
@@ -24,7 +24,7 @@ Kaggle provides us train and test data sets, which containts details like **Sex,
 
 
 ## Brief Overview
-There are **missing values**, some hidden but important features like name **Prefix,Family Size**,which plays good role predicting person's survive chance,
+In data set there are **missing values**, some hidden but important features like name **Prefix,Family Size**,which plays good role predicting person's survive chance,
 we imputed missing values with **Random Forest Regressor** which is way more accurate than filling with **Mean,Median or most frequent value(Mode)**.
 Then we used different models and tune them and pick the best model for our final prediction.
 ```sh
