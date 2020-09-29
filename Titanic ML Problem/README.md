@@ -76,13 +76,12 @@ array([[268,   5],
 Prefix Mr,Sex_male and Passenger Class are **Highly correlate** to Wheather pearson survive or not.
 
 
-# Will You Survive Titanic 2.0?
-### Deployment of Titanic 2.0
-Deployment Part was quite tricky for me, 'cause I was doing it for first time. For deployment I've used full titanic dataset rather than only training datase to make performance more better. 
- Final Heroku app takes some user inputs like Passenger Class,Age,Sex,etc,.And predict weather you have balls to Survive Titanic 2.0 or Not.It's 
+# What If You were on Titanic?
+Suppose you were on Titanic (1912) and you are using widest network sim Airtel.you want to know weather you survive or not if titanic disaster happen. Figure out by given link.
+### Deployment of Titanic Survivor Classifier
+For deployment I've used full titanic dataset rather than only training datase to make performance much better. 
+Final Heroku app takes some user inputs like Passenger Class,Age,Sex,etc,.And predict weather person will Survivr or Not using Machine Learning Model. It's completly based on previous titanic data and being predict by Random Forest algorythm's patterns. Trainnig accuracy is 77.07%, there is always some errors in predictons but we are more confidence with these results.
 
-
-* App Link:
 
 [<img src="https://cdn.worldvectorlogo.com/logos/heroku.svg" width="100" height="64" />][heroku-url]
 
@@ -108,11 +107,8 @@ Deployment Part was quite tricky for me, 'cause I was doing it for first time. F
 
 
 <!-- GETTING STARTED -->
-**Data Set:**
+* Data Set:
 * [Titanic Data Set](https://www.kaggle.com/c/titanic)
-* Necessary Libraries(#Libraries-used-in-Jupyter-Notebook)
-* And also a computer ;)
-
 * background image source:History-uk.com: The Sinking of RMS Titanic
 
 
