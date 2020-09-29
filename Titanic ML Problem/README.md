@@ -76,15 +76,26 @@ array([[268,   5],
 Prefix Mr,Sex_male and Passenger Class are **Highly correlate** to Wheather pearson survive or not.
 
 
-### Deployment
+# Will You Survive Titanic 2.0?
+### Deployment of Titanic 2.0
 Deployment Part was quite tricky for me, 'cause I was doing it for first time. For deployment I've used full titanic dataset rather than only training datase to make performance more better. 
- Final Heroku app takes some user inputs 
+ Final Heroku app takes some user inputs like Passenger Class,Age,Sex,etc,.And predict weather you have balls to Survive Titanic 2.0 or Not.It's 
 
 
-App Link:
+* App Link:
 
 [<img src="https://cdn.worldvectorlogo.com/logos/heroku.svg" width="100" height="64" />][heroku-url]
 
+
+
+### Deployment Dependencies:
+ * PyCharm
+ * Django
+ * Heroku
+ * Joblib
+ * postgresql
+ * gunicorn
+ 
 ### Libraries used in Jupyter Notebook
 * Pandas
 * Numpy
@@ -94,19 +105,15 @@ App Link:
 * Sklearn
 * xgboost
 
-### Deployment Dependencies:
- * PyCharm
- * Django
- * Heroku
- * Joblib
- * postgresql
- * gunicorn
+
 
 <!-- GETTING STARTED -->
 **Data Set:**
 * [Titanic Data Set](https://www.kaggle.com/c/titanic)
 * Necessary Libraries(#Libraries-used-in-Jupyter-Notebook)
 * And also a computer ;)
+
+* background image source:History-uk.com: The Sinking of RMS Titanic
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
