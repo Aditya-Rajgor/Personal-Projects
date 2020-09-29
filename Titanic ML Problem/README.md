@@ -77,11 +77,13 @@ Prefix Mr,Sex_male and Passenger Class are **Highly correlate** to Wheather pear
 
 
 ### Deployment
-Deployment Part was quite tricky for me, 'cause I was doing it first time. For deployment I've used full titanic dataset rather than only traiing datase to make performance more better.
+Deployment Part was quite tricky for me, 'cause I was doing it for first time. For deployment I've used full titanic dataset rather than only training datase to make performance more better. 
+ Final Heroku app takes some user inputs 
 
 
-App Link
-[<img src="https://cdn.worldvectorlogo.com/logos/heroku.svg" width="10" height="64" />][heroku-url]
+App Link:
+
+[<img src="https://cdn.worldvectorlogo.com/logos/heroku.svg" width="100" height="64" />][heroku-url]
 
 ### Libraries used in Jupyter Notebook
 * Pandas
@@ -91,21 +93,17 @@ App Link
 * Dataprep
 * Sklearn
 * xgboost
-### For Deployment
- * Joblib
+
+### Deployment Dependencies:
+ * PyCharm
  * Django
  * Heroku
- * postgresql 
+ * Joblib
+ * postgresql
  * gunicorn
 
 <!-- GETTING STARTED -->
-
-### Prerequisites
-
-* Juputer Notebook
-```sh
-pip install notebook
-```
+**Data Set:**
 * [Titanic Data Set](https://www.kaggle.com/c/titanic)
 * Necessary Libraries(#Libraries-used-in-Jupyter-Notebook)
 * And also a computer ;)
