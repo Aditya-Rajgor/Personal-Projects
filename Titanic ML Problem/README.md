@@ -17,13 +17,14 @@ Kaggle provides us train and test data sets, which containts details like **Sex,
 
 * [About the Compitition](#about-the-compitition)
 * [Brief Overview](#brief-overview)
-* [Deployment](#deployment)
-* [Libraries used in Jupyter Notebook](#Libraries-used-in-Jupyter-Notebook)
-* [Prerequisites](#prerequisites)
-* [Contributing](#contributing)
+* [What If You were on Titanic?](#what-if-you-were-on-titanic)
+* [Deployment of Titanic Survivor Classifier](#deployment-of-titanic-survivor-classifier)
+* [Deployment Dependencies](#deployment-dependencies)
+* [Libraries used in Jupyter Notebook](#Libraries-used-in-jupyter-notebook)
+
 
 ## Brief Overview
-There is  **missing values**, some hidden but important features like name **Prefix,Family Size**,which plays good role predicting person's survive chance,
+There are **missing values**, some hidden but important features like name **Prefix,Family Size**,which plays good role predicting person's survive chance,
 we imputed missing values with **Random Forest Regressor** which is way more accurate than filling with **Mean,Median or most frequent value(Mode)**.
 Then we used different models and tune them and pick the best model for our final prediction.
 ```sh
@@ -77,7 +78,8 @@ Prefix Mr,Sex_male and Passenger Class are **Highly correlate** to Wheather pear
 
 
 # What If You were on Titanic?
-Suppose you were on Titanic (1912) and you are using widest network sim Airtel.you want to know weather you survive or not if titanic disaster happen. Figure out by given link.
+Suppose you were on Titanic (1912) and you are using widest network sim Airtel.you want to know weather you survive or not if titanic disaster happen. Let's figure out by given heroku app link.
+
 ### Deployment of Titanic Survivor Classifier
 For deployment I've used full titanic dataset rather than only training datase to make performance much better. 
 Final Heroku app takes some user inputs like Passenger Class,Age,Sex,etc,.And predict weather person will Survivr or Not using Machine Learning Model. It's completly based on previous titanic data and being predict by Random Forest algorythm's patterns. Trainnig accuracy is 77.07%, there is always some errors in predictons but we are more confidence with these results.
@@ -106,10 +108,9 @@ Final Heroku app takes some user inputs like Passenger Class,Age,Sex,etc,.And pr
 
 
 
-<!-- GETTING STARTED -->
-* Data Set:
-* [Titanic Data Set](https://www.kaggle.com/c/titanic)
-* background image source:History-uk.com: The Sinking of RMS Titanic
+
+[Titanic Data Set](https://www.kaggle.com/c/titanic)
+background image source:History-uk.com: The Sinking of RMS Titanic
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
