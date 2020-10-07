@@ -10,6 +10,7 @@ Kaggle provides us train and test data sets, which containts details like **Sex,
 
 <!-- PROJECT LOGO -->
 ![][product-screenshot]
+![car-image](images/car.png)
 
 
 <!-- TABLE OF CONTENTS -->
