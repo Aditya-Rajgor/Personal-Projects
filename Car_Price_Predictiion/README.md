@@ -9,8 +9,7 @@ While there was some element of luck involved in surviving, it seems some groups
 Kaggle provides us train and test data sets, which containts details like **Sex,Age,Passenger Class,Embarked etc**,.Our job is to find who had survived in test data set.
 
 <!-- PROJECT LOGO -->
-![][product-screenshot]
-![car-image](images/car.png)
+![car-image](images/ultr.jpg)
 
 
 <!-- TABLE OF CONTENTS -->
@@ -22,6 +21,63 @@ Kaggle provides us train and test data sets, which containts details like **Sex,
 * [Deployment of Titanic Survivor Classifier](#deployment-of-titanic-survivor-classifier)
 * [Deployment Dependencies](#deployment-dependencies)
 * [Libraries used in Jupyter Notebook](#Libraries-used-in-jupyter-notebook)
+
+
+```python
+df[df['Kms_Driven']==500000]
+```
+
+
+
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Car_Name</th>
+      <th>Year</th>
+      <th>Selling_Price</th>
+      <th>Present_Price</th>
+      <th>Kms_Driven</th>
+      <th>Fuel_Type</th>
+      <th>Seller_Type</th>
+      <th>Transmission</th>
+      <th>Owner</th>
+      <th>Price_Diff</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>196</th>
+      <td>Activa 3g</td>
+      <td>11</td>
+      <td>0.17</td>
+      <td>0.52</td>
+      <td>500000</td>
+      <td>Petrol</td>
+      <td>Individual</td>
+      <td>Automatic</td>
+      <td>0</td>
+      <td>0.35</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
 
 
 ## Brief Overview
