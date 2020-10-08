@@ -22,6 +22,28 @@ note: Data set is based on car's in India, prediction very accoding to your coun
 * [Libraries used in Jupyter Notebook](#Libraries-used-in-jupyter-notebook)
 
 
+
+
+## Brief Overview
+We want to predict selling price of the car, which is continuous feature. So it's a Regresson problem. Our data set has 2 intresting outliers, and is free of missing values. Created price differece feature from taking differences of Present price and Selling price, which helps to compare how much selling price depend on given specific feature.
+
+**Category Feature and Price Difference of Present Price and Selling Price**
+![Category ~ Price Difference](images/priceVscategory.png)
+
+*Observation* Having huge difference means Selling Price is far less than Showroom Price. From diagram it's clear that fuel type Diesel,transmission automatic,and selling through Dealer are more responsible for this difference. We are not clear about owner feature, because for 3 number of owners, we have very less data.\
+
+**Categorycal features and there counts**
+![count-plot](images/count.png)
+
+**Price of car decrease as no. of years car get used**
+![year~price_diff](images/yearVsprice.png) 
+
+**Scatter Plot of Showroom Price and Selling Price**
+<div>
+    <a href="https://plotly.com/~Aditya1112/13/?share_key=7SR25p2fva3nop5mp6R7sv" target="_blank" title="Plot 13" style="display: block; text-align: center;"><img src="https://plotly.com/~Aditya1112/13.png?share_key=7SR25p2fva3nop5mp6R7sv" alt="Plot 13" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+</div>
+Selling price is positively correlated with Showroom price, but there is two outliers out there, streching our whole plot, and one of the outlier is intresting to look for. Click the plot to see it's values.
+
 ```python
 df[df['Kms_Driven']==500000]
 ```
@@ -60,52 +82,16 @@ df[df['Kms_Driven']==500000]
 </table>
 </div>
 
-## Brief Overview
-We want to predict selling price of the car, which is continuous feature. So it's a Regresson problem. Our data set has 2 intresting outliers, and is free of missing values. Created price differece feature from taking differences of Present price and Selling price, which helps to compare how much selling price depend on given specific feature.
-
-**Category Feature and Price Difference of Present Price and Selling Price**
-![Category ~ Price Difference](images/priceVscategory.png)
-
-*Observation* Having huge difference means Selling Price is far less than Showroom Price. From diagram it's clear that fuel type Diesel,transmission automatic,and selling through Dealer are more responsible for this difference. We are not clear about owner feature, because for 3 number of owners, we have very less data.\
-
-**Categorycal features and there counts**
-![count-plot](images/count.png)
-
-
-**Filling Fare with median value 'cause there is too many outliers to affect our mean**
+**Intrestingy index 196, Car name is Activa 3g (hahaha).It's a scooter not a car. It's fair to have price difference of 35k after running 500k kms for a scooter not for a car. It's a just a error made on collecting data, but we have to remove these 2 outliers to prevent error in prediction**
+**Done**
 <div>
-    <a href="https://plotly.com/~Aditya1112/1/?share_key=XvEsaVIjQk5BfDfei4pvWg" target="_blank" title="box" style="display: block; text-align: center;"><img src="https://plotly.com/~Aditya1112/1.png?share_key=XvEsaVIjQk5BfDfei4pvWg" alt="click to redirect" style="max-width: 100%;width: 800px;"  width="800" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+    <a href="https://plotly.com/~Aditya1112/11/?share_key=gMI6KsmfoOOKifzOsvrUle" target="_blank" title="Plot 11" style="display: block; text-align: center;"><img src="https://plotly.com/~Aditya1112/11.png?share_key=gMI6KsmfoOOKifzOsvrUle" alt="Plot 11" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
 </div>
-
-**Family Size,Name Prefix and Their Survive Chance**
-
-![FamSize-Survive](Graphs/familysize.png)   ![Prefix-Survive](Graphs/prefix.png)
-
-**Family Size with 2,3 and 4 had higher chance of Survive,**
-
-**Similarly,prefix Mr[Married Man :(  ] had very low chance of Survive**
 
 **Tuning Diffrent model and predict the future with best model**
-
-KNN model's accuracy over K values
-<div>
-    <a href="https://plotly.com/~Aditya1112/3/?share_key=ELO7dxrEVylMHSaYk1tPKp" target="_blank" title="knn_lie" style="display: block; text-align: center;"><img src="https://plotly.com/~Aditya1112/3.png?share_key=ELO7dxrEVylMHSaYk1tPKp" alt="knn_line" style="max-width: 100%;width: 700px;"  width="700" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
-</div>
-
-After some try and error **Random Forest** stand out
-```sh
-confusion_matrix(y_test,y_pred_rfc)
-```
-Output:
-```sh
-array([[268,   5],
-       [  2, 171]])
-```
-**Feature Importance**:
-![feature-importance](Graphs/rf_feature_importance.png)
-
-Prefix Mr,Sex_male and Passenger Class are **Highly correlate** to Wheather pearson survive or not.
-
+After some try and error **Random Forest** stands out
+Here is prediction over actually values line diagram on testing dataset
+![rfr](images\rfr_car_price.png)
 
 # What If You were on Titanic?
 Suppose you were on Titanic (1912) and you are using widest network sim Airtel.you want to know weather you survive or not if titanic disaster happen. Let's figure out by given heroku app link.
