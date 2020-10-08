@@ -9,7 +9,7 @@ After marrige you might want another car for your long drive. So, you start to w
 
 <!-- PROJECT LOGO -->
 ![car-image](images/ultr.jpg)
-[Data Set](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho)
+
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -20,7 +20,7 @@ After marrige you might want another car for your long drive. So, you start to w
 * [Deployment Dependencies](#deployment-dependencies)
 * [Libraries used in Jupyter Notebook](#libraries-used-in-jupyter-notebook)
 
-r^2 value : 0.904
+
 
 
 ## Brief Overview
