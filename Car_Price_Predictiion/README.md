@@ -1,12 +1,11 @@
-[![Gmail][Gmail-shield]][Gmail-url]
+ [![Gmail][Gmail-shield]][Gmail-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [<img src="https://www.analyticsvidhya.com/wp-content/uploads/2015/06/kaggle-logo-transparent-300.png" width="60" height="30"/>][kaggle-url]
 
-## About The Compitition
-We all know about legendary movie **Titanic**,that romatic story is unfortunately fictional, but the disaster was real.
-On April 15, 1912, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
-While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
-Kaggle provides us train and test data sets, which containts details like **Sex,Age,Passenger Class,Embarked etc**,.Our job is to find who had survived in test data set.
+## About The Propject
+After marrige you might want another car for your long drive. So, you start to wonder how much you're present car worth? Well data has the answer. From data of car's showroom price,selling price,fuel type,total driven kilometers,number of owner's car had,etc,.and help of machine learning algorhythms we can tell how much your car would make. Achived **1.1874 mse** and **0.6087 absolute error**. Data is openly availble on Kaggle and given by CarDekho.com
+note: Data set is based on car's in India, prediction very accoding to your country. 
+
 
 <!-- PROJECT LOGO -->
 ![car-image](images/ultr.jpg)
@@ -15,7 +14,7 @@ Kaggle provides us train and test data sets, which containts details like **Sex,
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About the Compitition](#about-the-compitition)
+* [About the Project](#about-the-compitition)
 * [Brief Overview](#brief-overview)
 * [What If You were on Titanic?](#what-if-you-were-on-titanic)
 * [Deployment of Titanic Survivor Classifier](#deployment-of-titanic-survivor-classifier)
@@ -60,25 +59,19 @@ df[df['Kms_Driven']==500000]
   </tbody>
 </table>
 </div>
+
 ## Brief Overview
-In data set there are **missing values**, some hidden but important features like name **Prefix,Family Size**,which plays good role predicting person's survive chance,
-we imputed missing values with **Random Forest Regressor** which is way more accurate than filling with **Mean,Median or most frequent value(Mode)**.
-Then we used different models and tune them and pick the best model for our final prediction.
-```sh
-df.isna().sum()
-```
-```sh
-PassengerId      0
-Survived       418
-Pclass           0
-Sex              0
-Age            263
-SibSp            0
-Parch            0
-Ticket           0
-Fare             1
-Embarked         2
-```
+We want to predict selling price of the car, which is continuous feature. So it's a Regresson problem. Our data set has 2 intresting outliers, and is free of missing values. Created price differece feature from taking differences of Present price and Selling price, which helps to compare how much selling price depend on given specific feature.
+
+**Category Feature and Price Difference of Present Price and Selling Price**
+![Category ~ Price Difference](images/priceVscategory.png)
+
+*Observation* Having huge difference means Selling Price is far less than Showroom Price. From diagram it's clear that fuel type Diesel,transmission automatic,and selling through Dealer are more responsible for this difference. We are not clear about owner feature, because for 3 number of owners, we have very less data.\
+
+**Categorycal features and there counts**
+![count-plot](images/count.png)
+
+
 **Filling Fare with median value 'cause there is too many outliers to affect our mean**
 <div>
     <a href="https://plotly.com/~Aditya1112/1/?share_key=XvEsaVIjQk5BfDfei4pvWg" target="_blank" title="box" style="display: block; text-align: center;"><img src="https://plotly.com/~Aditya1112/1.png?share_key=XvEsaVIjQk5BfDfei4pvWg" alt="click to redirect" style="max-width: 100%;width: 800px;"  width="800" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
