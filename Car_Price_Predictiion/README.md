@@ -2,7 +2,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [<img src="https://www.analyticsvidhya.com/wp-content/uploads/2015/06/kaggle-logo-transparent-300.png" width="60" height="30"/>][kaggle-url]
 
-## About The Propject
+## About The Project
 After marrige you might want another car for your long drive. So, you start to wonder how much you're present car worth? Well data has the answer. From data of car's showroom price,selling price,fuel type,total driven kilometers,number of owner's car had,etc,.and help of machine learning algorhythms we can tell how much your car would make. Achived **1.1874 mse** and **0.6087 absolute error**. Data is openly availble on Kaggle and given by CarDekho.com
 
 
@@ -14,12 +14,11 @@ After marrige you might want another car for your long drive. So, you start to w
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About the Project](#about-the-compitition)
+* [About the Project](#about-the-project)
 * [Brief Overview](#brief-overview)
-* [What If You were on Titanic?](#what-if-you-were-on-titanic)
-* [Deployment of Titanic Survivor Classifier](#deployment-of-titanic-survivor-classifier)
+* [How much your car worth?](#how-much-your-car-worth)
 * [Deployment Dependencies](#deployment-dependencies)
-* [Libraries used in Jupyter Notebook](#Libraries-used-in-jupyter-notebook)
+* [Libraries used in Jupyter Notebook](#libraries-used-in-jupyter-notebook)
 
 
 
