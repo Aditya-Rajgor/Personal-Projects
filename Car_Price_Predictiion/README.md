@@ -82,7 +82,7 @@ df[df['Kms_Driven']==500000]
 </table>
 </div>
 
-Intrestingy index **196**, Car name is **Activa 3g** (hahaha).It's a **scooter** not a **car**. It's fair to have price difference of 35k after running 500k kms for a scooter not for a car. It's a just a error made on collecting data, but we have to remove these 2 outliers to prevent error in prediction
+Intrestingy index **196**, Car name is **Activa 3g** (hahaha).It's a **scooter** not a **car**. It's fair to have price difference of 35k after running 500k kms for a scooter not for a car. It's a just a error made during collection of data, but we have to remove these 2 outliers to prevent error in prediction
 **Done**
 <div>
     <a href="https://plotly.com/~Aditya1112/11/?share_key=gMI6KsmfoOOKifzOsvrUle" target="_blank" title="Plot 11" style="display: block; text-align: center;"><img src="https://plotly.com/~Aditya1112/11.png?share_key=gMI6KsmfoOOKifzOsvrUle" alt="Plot 11" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
