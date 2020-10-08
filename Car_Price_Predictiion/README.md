@@ -9,7 +9,7 @@ After marrige you might want another car for your long drive. So, you start to w
 
 <!-- PROJECT LOGO -->
 ![car-image](images/ultr.jpg)
-
+[Data Set](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho)
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -20,7 +20,7 @@ After marrige you might want another car for your long drive. So, you start to w
 * [Deployment Dependencies](#deployment-dependencies)
 * [Libraries used in Jupyter Notebook](#libraries-used-in-jupyter-notebook)
 
-
+r^2 value : 0.904
 
 
 ## Brief Overview
@@ -69,7 +69,7 @@ df[df['Kms_Driven']==500000]
       <th>196</th>
       <td>Activa 3g</td>
       <td>11</td>
-      <td>0.17</td>
+      <td>0.17</td>r^2 value : 0.904
       <td>0.52</td>
       <td>500000</td>
       <td>Petrol</td>
@@ -82,14 +82,14 @@ df[df['Kms_Driven']==500000]
 </table>
 </div>
 
-**Intrestingy index 196, Car name is Activa 3g (hahaha).It's a scooter not a car. It's fair to have price difference of 35k after running 500k kms for a scooter not for a car. It's a just a error made on collecting data, but we have to remove these 2 outliers to prevent error in prediction**
+Intrestingy index **196**, Car name is **Activa 3g** (hahaha).It's a **scooter** not a **car**. It's fair to have price difference of 35k after running 500k kms for a scooter not for a car. It's a just a error made on collecting data, but we have to remove these 2 outliers to prevent error in prediction
 **Done**
 <div>
     <a href="https://plotly.com/~Aditya1112/11/?share_key=gMI6KsmfoOOKifzOsvrUle" target="_blank" title="Plot 11" style="display: block; text-align: center;"><img src="https://plotly.com/~Aditya1112/11.png?share_key=gMI6KsmfoOOKifzOsvrUle" alt="Plot 11" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
 </div>
 
 **Tuning Diffrent model and predict the future with best model**
-After some try and error **Random Forest** stands out
+After some try and error **Random Forest** stands out with **1.1874 mse**,**0.6087 absolute error** and **0.904 R2 score**.
 Here is prediction over actually values line diagram on testing dataset
 
 ![rfr](images/rfr_car_price.png)
@@ -122,7 +122,7 @@ Final Heroku app takes some user inputs like Passenger Class,Age,Sex,etc,.And pr
 * Sklearn
 * chart_studio
 
-[Data Set](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho)
+
 ***END***
 
 
