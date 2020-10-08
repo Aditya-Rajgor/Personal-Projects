@@ -99,9 +99,6 @@ Here is prediction over actually values line diagram on testing dataset
 Now that we have model let's estimate how much your car would cut off for your new car.  Deployed these model on heroku platform, because its easy and free. Final heroku app takes car features as input and returns car selling price. 
 
 **Note:Data set is based on cars in India, prediction very accoding to your country.** 
-For deployment I've used full titanic dataset rather than only training datase to make performance much better. 
-Final Heroku app takes some user inputs like Passenger Class,Age,Sex,etc,.And predict weather person will Survivr or Not using Machine Learning Model. It's completly based on previous titanic data and being predict by Random Forest algorythm's patterns. Trainnig accuracy is 77.07%, there is always some errors in predictons but we are more confidence with these results.
-
 
 [<img src="https://cdn.worldvectorlogo.com/logos/heroku.svg" width="100" height="64" />][heroku-url]
 
