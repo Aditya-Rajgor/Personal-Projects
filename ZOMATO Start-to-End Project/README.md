@@ -30,8 +30,8 @@ The Project is devided into 3 parts Web Scrapping, Data Cleaning and Data Analys
 
 ### Web Scrapping n' Cleaning
  I've done webscrapping for the first time and to be honest it was frustrating. If someone is using BeautifulSoup for the first time I bet he/she will stuck between **find** and **find_all**. After some try and error it's fine.
-![shantushti-image](Images/Screenshot_2020-10-19 Vadodara Restaurants, Restaurants in Vadodara Page 4 - Zomato.png)
-
+![both_rating-image](Images/santusti.png)
+![only_rating](Images/only_rating.png) ![only_delivery_rating](Images/only_delivery_rating.png)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
