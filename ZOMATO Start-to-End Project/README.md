@@ -30,8 +30,15 @@ The Project is devided into 3 parts Web Scrapping, Data Cleaning and Data Analys
 
 ### Web Scrapping n' Cleaning
  I've done webscrapping for the first time and to be honest it was frustrating. If someone is using BeautifulSoup for the first time I bet he/she will stuck between **find** and **find_all**. After some try and error it's fine.
-![both_rating-image](Images/santusti.png)
-![only_rating](Images/only_rating.png) ![only_delivery_rating](Images/only_delivery_rating.png)
+ 
+**The restaurents we want**
+
+<img src='Images/santusti.png' height=195>
+          
+**The restaurents we get**
+
+<img src='Images/only_rating.png' height=195> <img src='Images/only_delivery_rating.png' height=195>
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
