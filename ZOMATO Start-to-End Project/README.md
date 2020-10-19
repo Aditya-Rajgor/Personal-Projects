@@ -3,7 +3,34 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [<img src="https://www.analyticsvidhya.com/wp-content/uploads/2015/06/kaggle-logo-transparent-300.png" width="60" height="30"/>][kaggle-url]
 
+## About The Project
+ZOMATO ZOMATO ZOMATO
 
+I bet you definetly ordered online food from ZOMATO at least for once. Me and my hostel roommates, We used to order online when we were in Hostel. Hate to tell but this is corona time(Stay Home Stay between Data). Anyways, one day I was looking for an awesome data science project to work with and then in youtube I was getting zomato ads. I know probabily all Indians are seeing(facing) zomato's ad on youtube. That's what spark the idea of making this project.
+
+This Project includes **Some-Business Questions** like **In Particular area of Vadodara which cousine is most popular?** all the way to **At 7:00am in the morning If I am in Alkapuri which top 5 restaurents are open?**
+
+![zomato-image](Images/zomato.jpg)
+
+## Table of Contents
+
+* [About the Project](#about-the-project)
+* [Brief Overview](#brief-overview)
+  * []
+  * []
+  * []
+* [How much your car worth?](#how-much-your-car-worth)
+* [Deployment Dependencies](#deployment-dependencies)
+* [Libraries used in Jupyter Notebook](#libraries-used-in-jupyter-notebook)
+
+
+## Brief-Overview
+Welcome to ZOMATO's Start-to-End Project! 
+The Project is devided into 3 parts Web Scrapping, Data Cleaning and Data Analysis by vizualizations. All three parts has separte jupyter notebook. In the notebook I put all the tiny details, so make sure to check out. And also I've uploaded both csv file one which I scrapped from website and oter one is cleaned csv file. You are free to use these files. 
+
+### Web Scrapping n' Cleaning
+ I've done webscrapping for the first time and to be honest it was frustrating. If someone is using BeautifulSoup for the first time I bet he/she will stuck between **find** and **find_all**. After some try and error it's fine.
+![shantushti-image](Images/Screenshot_2020-10-19 Vadodara Restaurants, Restaurants in Vadodara Page 4 - Zomato.png)
 
 
 
