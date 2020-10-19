@@ -29,16 +29,53 @@ Welcome to ZOMATO's Start-to-End Project!
 The Project is devided into 3 parts Web Scrapping, Data Cleaning and Data Analysis by vizualizations. All three parts has separte jupyter notebook. In the notebook I put all the tiny details, so make sure to check out. And also I've uploaded both csv file one which I scrapped from website and oter one is cleaned csv file. You are free to use these files. 
 
 ### Web Scrapping n' Cleaning
- I've done webscrapping for the first time and to be honest it was frustrating. If someone is using BeautifulSoup for the first time I bet he/she will stuck between **find** and **find_all**. After some try and error it's fine.
+ I've done webscrapping for the first time and to be honest it was frustrating. If someone is using BeautifulSoup for the first time I bet he/she will stuck between **find** and **find_all**. After some try and error it's fine. One of the probelem I faced was passing Null value on Ratings and Delivery Ratings.
  
-**The restaurents we want**
+**The restaurents I wanted**
 
 <img src='Images/santusti.png' height=195>
           
-**The restaurents we get**
+**The restaurents I get**
 
 <img src='Images/only_rating.png' height=195> <img src='Images/only_delivery_rating.png' height=195>
 
+Delivery rating and rating are only different from the color of star. It was really one of the most challenging problem.
+
+All the restaurents have **opening time and closing time**. So other challange was to change this opening hours time into **pandas date-time series**. This problem's aprroch was as easy as it looks complicated.
+
+```
+In [998]:
+
+df['1st_time_open']='2020-10-15'+' '+df['1st_time_open_hour']+':'+df['1st_time_open_minute']+df['1st_time_open_ampm']
+df['1st_time_close']='2020-10-15'+' '+df['1st_time_close_hour']+':'+df['1st_time_close_minute']+df['1st_time_close_ampm']
+
+df['2nd_time_open']='2020-10-15'+' '+df['2nd_time_open_hour']+':'+df['2nd_time_open_minute']+df['2nd_time_open_ampm']
+df['2nd_time_close']='2020-10-15'+' '+df['2nd_time_close_hour']+':'+df['2nd_time_close_minute']+df['2nd_time_close_ampm']
+
+In [999]:
+
+df['1st_time_open']=pd.to_datetime(df['1st_time_open'])
+df['1st_time_close']=pd.to_datetime(df['1st_time_close'])
+
+df['2nd_time_open']=pd.to_datetime(df['2nd_time_open'])
+df['2nd_time_close']=pd.to_datetime(df['2nd_time_close'])
+```
+I used **dummy date, month and year** to change these columns into **date-time**. Now we'll be consider **Hours** only. BOOM! Again I point out lots of things inside of notebook.
+
+## Data Analysis by Vizualization
+**Let's put life on this dataset**
+
+<img src='Images/sayajigunj.png' height=400>
+
+**Sayajigunj is the area where my hostel and college located. Therefore Most of the customers are students in that area, who order lunch and dinner. Because we are students we prefer Classic Gujarati dish above others.**
+
+<img src='Images/probability1.png'>
+
+**Both rating counts graphs are intresting, for me Rating counts follows left sided skewed normal distribution whereas Delivery rating counts follow exponential distribution. We can find probability of any given point with distribution's parameter**
+
+<img src='Images/price_pop.png'>
+
+**This plot shows restaurents popularity in red line and each bar shows price of two person's in different cousines 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
