@@ -18,7 +18,7 @@ This Project includes **Some-Business Questions** like **In Particular area of V
 * [Brief Overview](#brief-overview)
   * [Web Scrapping n' Cleaning](#web-scrapping-n-cleaning)
   * [Data Analysis by Vizualization](#data-analysis-by-vizualization)
-  * [Questions](questions)
+  * [Questions](#questions)
 * [Dependencies](#dependencies)
   * [Libraries](#libraries)
   * [Used Notebook and Softwares](#used-notebook-and-softwares)
@@ -104,7 +104,7 @@ I used **dummy date, month and year** to change these columns into **date-time**
 **This plot shows that when time is 7:00 am there is only one restaurent open in Alkapuri(Chaa ni Lari) and when time is 8:00 am there is lots of restaurents being opened but we are seeing the result of top 5 restaurents. Pretty cool right!**
 
 
-There is tons of intresting plots in Notebook. But Here I want to put one **useless chart**, which I made to find relationship between opening time and Area. I'm putting it just because I think its cool.
+There is tons of intresting plots to put. But lemme just put one **useless chart**, which I made to find relationship between **opening time** and **Area**. This project was quite long, I enjoyed it alot. Next time maybe I'll compare Zomato with Swiggy.
 
 <img src = 'Images/robot_plot.png'>
 
