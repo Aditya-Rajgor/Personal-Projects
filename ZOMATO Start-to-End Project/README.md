@@ -4,7 +4,7 @@
 
 
 ## About The Project
-**ZOMATO ZOMATO ZOMATO**
+----------------------------------------**ZOMATO ZOMATO ZOMATO**----------------------------------------
 
 I bet you definetly ordered online food from ZOMATO at least for once. Me and my hostel roommates, We used to order online when we were in Hostel. Hate to tell but this is corona time(Stay Home Stay between Data). Anyways, one day I was looking for an awesome data science project to work with and then in youtube I was getting zomato ads. I know probabily all Indians are seeing(facing) zomato's ad on youtube. That's what spark the idea of making this project.
 
