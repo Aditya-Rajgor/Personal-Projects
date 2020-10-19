@@ -1,7 +1,7 @@
 
 [![Gmail][Gmail-shield]][Gmail-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[<img src="https://www.analyticsvidhya.com/wp-content/uploads/2015/06/kaggle-logo-transparent-300.png" width="60" height="30"/>][kaggle-url]
+
 
 ## About The Project
 ZOMATO ZOMATO ZOMATO
@@ -18,10 +18,11 @@ This Project includes **Some-Business Questions** like **In Particular area of V
 * [Brief Overview](#brief-overview)
   * [Web Scrapping n' Cleaning](#web-scrapping-n-cleaning)
   * [Data Analysis by Vizualization](#data-analysis-by-vizualization)
+  * [Questions](questions)
 * [Dependencies](#dependencies)
   * [Libraries](#libraries)
   * [Used Notebook and Softwares](#used-notebook-and-softwares)
-* [Libraries used in Jupyter Notebook](#libraries-used-in-jupyter-notebook)
+
 
 
 ## Brief-Overview
@@ -86,6 +87,20 @@ I used **dummy date, month and year** to change these columns into **date-time**
 
 <img src='Images/8am.png' height=280> <img src='Images/9am.png' height=280>
 
+## Questions
+1. Which Cousine Restaurent has most counts in all restaurents?
+2. Which cousine type restaurent is rare?
+3. Which Cousine's restaurents has most counts (in pair) from all restaurents?
+4. Which Area has most number of zomato restaurents?
+5. Which area is famous for which cousine type?
+6. Which cousine is most popular in Whole vadodara?
+7. which cousine type restaurents is cheap for 2 persons?
+8. Which cousine type you recommend someone to order who's not fimiliar to vadodara's best?
+9. Which cousine type restaurent is cheaper or costly in Alkapuri Area? And which restaurent to choose if you are in Alkapuri Area?
+10. In specific area at specific time which restaurent is best and what are the other options?
+
+**Check the Notebook for these anwers**
+
 **This plot shows that when time is 7:00 am there is only one restaurent open in Alkapuri(Chaa ni Lari) and when time is 8:00 am there is lots of restaurents being opened but we are seeing the result of top 5 restaurents. Pretty cool right!**
 
 
@@ -106,6 +121,10 @@ There is tons of intresting plots in Notebook. But Here I want to put one **usel
 * Jupyter Notebook
 * PyCharm
 * Chrome browser
+
+
+**Until Next Time, Order on ZOMATO**
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
