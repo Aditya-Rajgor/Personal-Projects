@@ -16,11 +16,11 @@ This Project includes **Some-Business Questions** like **In Particular area of V
 
 * [About the Project](#about-the-project)
 * [Brief Overview](#brief-overview)
-  * []
-  * []
-  * []
-* [How much your car worth?](#how-much-your-car-worth)
-* [Deployment Dependencies](#deployment-dependencies)
+  * [Web Scrapping n' Cleaning](#web-scrapping-n-cleaning)
+  * [Data Analysis by Vizualization](#data-analysis-by-vizualization)
+* [Dependencies](#dependencies)
+  * [Libraries](#libraries)
+  * [Used Notebook and Softwares](#used-notebook-and-softwares)
 * [Libraries used in Jupyter Notebook](#libraries-used-in-jupyter-notebook)
 
 
@@ -28,8 +28,15 @@ This Project includes **Some-Business Questions** like **In Particular area of V
 Welcome to ZOMATO's Start-to-End Project! 
 The Project is devided into 3 parts Web Scrapping, Data Cleaning and Data Analysis by vizualizations. All three parts has separte jupyter notebook. In the notebook I put all the tiny details, so make sure to check out. And also I've uploaded both csv file one which I scrapped from website and oter one is cleaned csv file. You are free to use these files. 
 
-### Web Scrapping n' Cleaning
- I've done webscrapping for the first time and to be honest it was frustrating. If someone is using BeautifulSoup for the first time I bet he/she will stuck between **find** and **find_all**. After some try and error it's fine. One of the probelem I faced was passing Null value on Ratings and Delivery Ratings.
+## Web Scrapping n' Cleaning
+ I've done webscrapping for the first time and to be honest it was frustrating. If someone is using BeautifulSoup for the first time I bet he/she will stuck between **find** and **find_all**. After some try and error it's fine. 
+**NOTE:All the rights of the data set is reserved by zomato company I used this dataset for fair use**
+[Zomato bot permission page](https://www.zomato.com/robots.txt)
+
+![](Images/zomato_permissions.png)
+
+ 
+One of the probelem I faced was passing Null value on Ratings and Delivery Ratings.
  
 **The restaurents I wanted**
 
@@ -75,8 +82,30 @@ I used **dummy date, month and year** to change these columns into **date-time**
 
 <img src='Images/price_pop.png'>
 
-**This plot shows restaurents popularity in red line and each bar shows price of two person's in different cousines 
+**This plot shows all the restaurents popularity in red line and each bar shows price of two person's in different cousines. From this we can see that Gujarati Restaurent are not only popular but comes with reasonable price**
 
+<img src='Images/8am.png' height=280> <img src='Images/9am.png' height=280>
+
+**This plot shows that when time is 7:00 am there is only one restaurent open in Alkapuri(Chaa ni Lari) and when time is 8:00 am there is lots of restaurents being opened but we are seeing the result of top 5 restaurents. Pretty cool right!**
+
+
+There is tons of intresting plots in Notebook. But Here I want to put one **useless chart**, which I made to find relationship between opening time and Area. I'm putting it just because I think its cool.
+
+<img src = 'Images/robot_plot.png'>
+
+# Dependencies
+## Libraries
+* Pandas
+* Matplotlib
+* Seaborn
+* Plotly
+* Requests
+* BeautifulSoup
+
+## Used Notebook and Softwares
+* Jupyter Notebook
+* PyCharm
+* Chrome browser
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
