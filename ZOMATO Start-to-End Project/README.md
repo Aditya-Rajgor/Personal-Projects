@@ -99,7 +99,7 @@ I used **dummy date, month and year** to change these columns into **date-time**
 9. Which cousine type restaurent is cheaper or costly in Alkapuri Area? And which restaurent to choose if you are in Alkapuri Area?
 10. In specific area at specific time which restaurent is best and what are the other options?
 
-**Check the Notebook for these anwers**
+**Check the Notebook for these anwers Reload 2 or 3 times if its not open**
 
 **This plot shows that when time is 7:00 am there is only one restaurent open in Alkapuri(Chaa ni Lari) and when time is 8:00 am there is lots of restaurents being opened but we are seeing the result of top 5 restaurents. Pretty cool right!**
 
