@@ -104,7 +104,7 @@ I used **dummy date, month and year** to change these columns into **date-time**
 **This plot shows that when time is 7:00 am there is only one restaurent open in Alkapuri(Chaa ni Lari) and when time is 8:00 am there is lots of restaurents being opened but we are seeing the result of top 5 restaurents. Pretty cool right!**
 
 
-There is tons of intresting plots to put. But lemme just put one **useless chart**, which I made to find relationship between **opening time** and **Area**. This project was quite long, I enjoyed it alot. Next time maybe I'll compare Zomato with Swiggy.
+There is tons of intresting plots to put. But lemme just put one **useless chart**, which I made to find relationship between **opening time** and **Area**.It somewhat looks like **Robot**. This project was quite long, I enjoyed it alot. Next time maybe I'll compare Zomato with Swiggy.
 
 <img src = 'Images/robot_plot.png'>
 
