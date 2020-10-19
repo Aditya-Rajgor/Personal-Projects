@@ -1,0 +1,552 @@
+Restaurant,Cousines,Rating,Rating_counts,Delivery_rating,Delivery_rating_counts,Area,Adress,Price_for_2,Open_time
+Jassi De Parathe,North Indian,4.7,"(1,634)",4.2,(18.5K),Alkapuri,"R.C Dutt Road, Near Kalaniketan, Alkapuri, Vadodara",₹600,11am – 11:30pm (Mon-Sun)
+Marwari Food Corner,"North Indian, Rajasthani, Fast Food, Chinese",4.3,"(1,505)",3.8,(29.2K),Karelibaug,"Shop No. 21 & 22 Ratri-bazaar, Mangal Pandey Rd, Karelibaugh, Karelibagh, Vadodara, Gujarat 390002",₹250,4pm – 2am (Mon-Sun)
+KFC,"Burger, Fast Food, Finger Food, Beverages",4.2,"(1,003)",4.3,(16.8K),"Vadodara Central, Alkapuri","19, Ground Floor, Vadodara Central Mall, Near Genda Circle, Wadi Road, Alkapuri, Vadodara",₹450,1pm – 9:30pm (Mon-Sun)
+Shree Kathiyawadi Khadki,"Gujarati, Desserts, Beverages",4.3,(731),4.3,(29.2K),Mandvi,"Navrang Cinema Road, Near Tower Four Ways, Raopura, Mandvi, Vadodara",₹300,"11am – 3:30pm, 7pm – 11pm (Mon-Sun)"
+Yo Frankie,Fast Food,4.5,(963),4.3,(55.4K),Alkapuri,"Bombay Shopping Centre, RC Dutt Rd, Race Course, Vadiwadi, Vadodara, Gujarat",₹250,9am – 12midnight (Mon-Sun)
+Old School Eatery,"North Indian, Chinese, Street Food, Sandwich, South Indian, Desserts, Beverages",4.9,(783),4.4,"(4,809)",Alkapuri,"17/B, Nutan Bharat Society, Opposite Relience Fresh, Alkapuri, Vadodara",₹900,"12noon – 3pm, 7pm – 11pm (Mon-Sun)"
+Tasty Vadapav,Street Food,4.6,(993),4.4,(33.3K),Nizampura,"1st Floor, Braj Complex, Nizampura Main Road, Opposite Ghelani Petrol Pump, Nizampura, Vadodara",₹150,10am – 9pm (Mon-Sun)
+Ustaad Miyaan,North Indian,4.4,(750),4.0,"(4,855)",Alkapuri,"13 Alkapuri shopping center, opposite vishwas colony, Alkapuri, vadodara, Alkapuri, Vadodara",₹600,10am – 2am (Mon-Sun)
+Munchane,"Pizza, Fast Food",,,3.9,(27.4K Reviews),Alkapuri,"50, First Floor, Sampatrao Colony, Alkapuri, Vadodara",₹400,24 Hours (Mon-Sun)
+Amritsari Kulcha,Street Food,4.6,(846),4.3,"(9,133)",Nizampura,"02, Devdeep Complex, Near ICICI Bank, Nizampura Main Road, Nizampura, Vadodara",₹200,"11am – 3pm, 7pm – 10pm (Mon-Sun)"
+22nd Parallel,South Indian,4.9,"(1,080)",4.2,(13.4K),Alkapuri,"1st Floor, Tapan Complex, Besides M Cube Mall, Alkapuri, Vadodara",₹400,8am – 10pm (Mon-Sun)
+Hariyali Restaurant,North Indian,4.4,(818),4.3,(17.4K),Kendranagar,"Vrundavan Heights, Near Parivar Char Rasta, Waghodia, Kendranagar, Vadodara",₹400,"11am – 3pm, 6pm – 11pm (Mon-Sun)"
+La Pino'z Pizza,"Pizza, Italian, Fast Food, Desserts, Beverages",4.5,(738),4.2,"(6,408)",Vadiwadi,"Shop 1-4, Arundeep Complex, Opposite Adarsh Hospital, Near Chakli Circle, Race Course Road, Vadiwadi, Vadodara",₹800,11am – 10:30pm (Mon-Sun)
+Jagdish Foods Pvt. Ltd.,"Fast Food, Mithai",4.4,(617),4.4,(29.7K),Vadiwadi,"Sakar Complex, Malhar Point, Haribhakti Extension, Old Padra Road, Vadodara",₹200,8:30am – 9:30pm (Mon-Sun)
+Domino's Pizza,"Pizza, Fast Food",4.2,(845),4.3,"(8,425)",Kendranagar,"B-33, Ground Floor & 1st Floor, Uma Colony, Housing Society Limited, Waghodia Road, Kendranagar, Vadodara",₹400,10:57am – 11pm (Mon-Sun)
+Meraki,"North Indian, Continental, Italian, Asian, Beverages, Desserts",4.4,"(1,072)",3.7,"(6,697)",Alkapuri,"F-39, 1st Floor, India Bull Mega Mall, Near Jetalpur Flyover Bridge, Alkapuri, Vadodara",₹700,11am – 11pm (Mon-Sun)
+Lazzate Nayab,"North Indian, Mughlai, Biryani",4.1,(381),3.9,(13.9K),Akota,"Shop 29-32, Saptgiri Complex, Opposite Taj Residency, Padra Road, Akota, Vadodara",₹500,"11am – 3:30pm, 5:30pm – 12midnight (Mon-Sun)"
+Swad,"North Indian, Chinese",4.1,(505),3.7,(31.4K),Karelibaug,"G-3, Status Complex, Opposite Amrapali Complex, Karelibaug, Vadodara",₹250,9am – 4pm (Mon-Sun)
+The Secret Kitchen,Modern Indian,4.3,(738),4.6,(271),Alkapuri,"201-203, The Emerald, Near Chakli Circle, Race Course, Alkapuri, Vadodara","₹1,000","12:30pm – 3pm, 7pm – 10pm (Mon-Sun)"
+Ajay Hotel,North Indian,4.3,(691),4.1,(23K),Makarpura,"Near ONGC, Makarpura, Vadodara",₹500,11:30am – 11:30pm (Mon-Sun)
+21- A Rooftop Restaurant,"North Indian, Mughlai, Chinese",3.9,(491),3.8,"(8,732)",Alkapuri,"Shagun Hotel, Opposite Circuit House, R.C Dutt Road, Alkapuri, Vadodara",₹800,"11am – 3pm, 6pm – 11pm (Mon-Sun)"
+Pizza Da Dhaba,"Pizza, Fast Food",4.1,(574),4.2,(29K),Kendranagar,"Ground Floor, Kamal Plaza, Near Jasminee Mobile, Vrundavan, Waghodiya Road, Kendranagar, Vadodara",₹400,8am – 11pm (Mon-Sun)
+Jay Mahakali Sev Usal,Fast Food,4.5,(764),4.3,"(8,843)",Mandvi,"14 & 15, Prathmesh Plazza, Behind Nehru Bhavan, Near Kirti Stambh, Rajmahal Road, Mandvi, Vadodara",₹150,8:30am – 9pm (Mon-Sun)
+Pizza Hut,"Pizza, Fast Food, Finger Food, American",4.0,(755),3.8,"(7,520)",Vadiwadi,"51,Akashganga Complex,Race Course Road, Vadiwadi, Vadodara",₹600,11am – 11pm (Mon-Sun)
+Bombay Sandwich,Sandwich,4.5,(517),4.3,(27.5K),Alkapuri,"B-4 Kamla Park, Opposite Dena Bank, Behind National Plaza, RC Dutt Road, Alkapuri, Vadodara",₹350,11am – 11pm (Mon-Sun)
+Wok On Fire,"Chinese, Asian, Street Food",4.1,(687),4.2,"(5,219)",Diwalipura,"1, Olive Complex, Old Padra Road, Opposite ABS Tower, Diwalipura, Vadodara",₹500,12noon – 11:45pm (Mon-Sun)
+Kansaar Gujarati Thali,Gujarati,4.2,(450),3.6,"(9,669)",Sayajigunj,"101, Unique Trade Centre, Sayajigunj, Vadodara",₹500,"11am – 3:15pm, 7pm – 10:15pm (Mon-Sun)"
+Foodies - The Food Court,"Chinese, Sandwich, North Indian, Italian, Beverages",3.9,(290),3.8,(14.6K),Karelibaug,"VIP Complex, Urjita Hospital, VIP Road, Karelibaug, Vadodara",₹350,11am – 11pm (Mon-Sun)
+Vibes - The Bistro,"Mexican, Italian, Continental, Thai, Chinese",4.5,(530),4.1,"(2,057)",Diwalipura,"GF 101, Aries Pavillion, Shobhnanagar Society, Vasna Road, Diwalipura, Vadodara",₹800,9am – 12midnight (Mon-Sun)
+Canara Coffee House,South Indian,4.4,(593),3.8,(13.8K),Mandvi,"Beside Premanand Hall, Opposite Lakdi Pool, Dandia Bazar, Mandvi, Vadodara",₹150,7am – 10pm (Mon-Sun)
+Flavor Restaurant,"Gujarati, North Indian",4.2,(507),4.0,(15.9K),Alkapuri,"B1, Mangaldhara Complex, 83/Sampatrao Colony, Opposite Milton South Corner, Alkapuri, Vadodara",₹250,"11am – 4pm, 7pm – 10pm (Mon-Sat),Closed (Sun)"
+Retro Bistro,"North Indian, Lebanese, Moroccan, Italian, Chinese, Continental, Mexican",4.5,(626),3.9,"(1,632)",Vadiwadi,"The Emerald Building, Chakli Circle, Near BSNL Office, Vadiwadi, Vadodara",₹950,11:30am – 10:30pm (Mon-Sun)
+Eggxotica,"North Indian, Chinese, Fast Food, Beverages",3.8,(402),3.9,(17.4K),Diwalipura,"Shagun Residency, Opposite Avishkar Complex, OP Road, Diwalipura, Vadodara",₹800,"8am – 3pm, 6pm – 11pm (Mon-Sun)"
+Spicenation,"North Indian, Chinese, Continental",4.1,(516),4.2,(17.6K),Makarpura,"Opposite Bhavans School, Makarpura Road, Makarpura, Vadodara",₹800,"11am – 3pm, 6:30pm – 10:30pm (Mon-Sun)"
+That Place,"Italian, Mexican, Continental",4.4,(553),3.8,(951),Alkapuri,"33, Sampatrao Colony, Alkapuri, Vadodara","₹1,500",11am – 10pm (Mon-Sun)
+After Hours,"North Indian, Chinese, Biryani, Desserts, Beverages",,,3.5,(10.7K Reviews),Karelibaug,Delivery Only,₹350,10am – 4am (Mon-Sun)
+Thyme & Whisk,"Italian, Lebanese, Healthy Food, Mongolian",4.3,(474),3.8,"(2,249)",Vadiwadi,"Shop 3, Ground Floor, Emerald Building, Chakli Circle, Race Course Road, Vadiwadi, Vadodara","₹1,400","11am – 11:30pm (Mon-Fri),11am – 12midnight..."
+Pizza On The Rock,"Pizza, Italian",4.5,(602),4.1,"(3,976)",Diwalipura,"Maryland Complex, Opposite Gauri Sarees, Old Padra Road, Vadodara",₹500,11am – 11:30pm (Mon-Sun)
+Sasumaa Gujarati Thali,Gujarati,4.4,(590),3.8,"(2,768)",Alkapuri,"1/2, Ground Floor, Gokulesh Complex, Near Ivory Terrace, Alkapuri, Vadodara",₹500,"11:30am – 3:30pm, 7pm – 10:30pm (Mon-Sun)"
+Santushti Shakes & More,"Beverages, Ice Cream",4.5,(777),4.4,(24.2K),Fatehgunj,"4, Ashok Apartments, Fatehgunj Main Road, Opposite Sadar Bazar, Fatehgunj, Vadodara",₹300,10am – 10pm (Mon-Sun)
+Hungry Birds,"Biryani, Chinese, North Indian",4.0,(484),4.0,(13.4K),Karelibaug,"41/42, SB-11, Ground Floor, Amarpali Complex, Karelibaug, Vadodara",₹550,10am – 10pm (Mon-Sun)
+Day Night Vada Pav & Dabeli,Fast Food,4.4,"(1,193)",4.3,(26.1K),Kendranagar,Shop no.9 syam rasicum plazza near SBI Bank . parivar char rasta wagodiya road.vadodra.,₹200,9am – 10pm (Mon-Sun)
+Amaya - Fern Residency Vadodara,"Fast Food, Bakery, North Indian",4.4,(432),3.6,"(5,255)",Sayajigunj,"Near Central Bus Depot, Station Road, Sayajigunj, Vadodara",₹500,8am – 11pm (Mon-Sun)
+Frigtemp,Fast Food,4.4,(484),4.2,"(9,586)",Fatehgunj,"Dak Bungalow, Fatehgunj Main Road, Fatehgunj, Vadodara",₹300,9:15am – 11pm (Mon-Sun)
+Saladific,"Healthy Food, Salad",4.2,(587),4.1,(11.5K),Alkapuri,"The Emerald, Near Chakli Circle, Alkapuri, Vadodara",₹550,9am – 1am (Mon-Sun)
+Raat Na Chataka,"North Indian, Biryani, Fast Food, Chinese, Pizza, Desserts, Beverages",3.8,(338),3.4,(11.1K),Karelibaug,"65, Buddhdev Colony, Near M.I.G Falt, Karelibaug, Vadodara",₹300,8am – 8pm (Mon-Sun)
+Jashn-E-Paratha,"North Indian, Chinese",4.5,(393),4.3,"(7,049)",Diwalipura,"8, Lions Hall Road, Haribhakti Extension, Krishna Society, Diwalipura, Vadodara",₹350,"10am – 4pm, 6pm – 12midnight (Mon-Sun)"
+Cafe Fitoor,"Cafe, North Indian, Italian",4.8,(441),4.2,"(1,210)",Vadiwadi,"SB 1-3, Landmark Complex, Race Course Road, Vadiwadi, Vadodara","₹1,000","Closed (Mon),12noon – 3pm, 7pm – 10:30pm (Tue-Sun)"
+Gayatri Bhavan,"Gujarati, North Indian",3.1,(274),3.9,(14.4K),Sayajigunj,"Near Central Bus Station, Station Road, Sayajigunj, Vadodara",₹300,8am – 11pm (Mon-Sun)
+Biryaniwala,"North Indian, Biryani",4.3,(470),4.1,(18.7K),Manjalpur,"10, Susen Tarsali Ring Road, Vihad Nagar, GIDC Industrial Area, Manjalpur, Vadodara",₹400,10am – 12:30am (Mon-Sun)
+Momoman,"Tibetan, Thai, Momos, Chinese",3.9,(346),4.0,"(7,826)",Fatehgunj,"Shop 3, Royal Hub Complex, Near 7 Seas Mall, Fatehgunj, Vadodara",₹600,11am – 2am (Mon-Sun)
+Infi Pizzeria,Pizza,4.6,(662 Reviews),,,Gotri,"GF-9, Lotus Elite, Gotri-Sevasi Road, Gotri, Vadodara",₹400,"Closed (Mon),12noon – 11pm (Tue-Sun)"
+Keshav Restaurant,"North Indian, Gujarati",4.4,(455),4.2,(21.6K),Kendranagar,"Shantinagar Society, Beside Jasmine Mobile, Vrundavan Char Rasta, Waghodia Dabhoi Ring Road, Kendranagar, Vadodara",₹500,"11am – 3:30pm, 6pm – 10:30pm (Mon, Tue, Wed..."
+Pepperazzi -The Diner,"North Indian, Italian, Mexican, Thai, Chinese",4.2,(412),3.5,"(1,767)",Diwalipura,"207 Maryland Complex, Near Kapil Tower, OP Road, Diwalipura, Vadodara",₹900,12noon – 11pm (Mon-Sun)
+Bhagyodaya Restaurant,"North Indian, Biryani, Chinese, Beverages",4.3,(425),4.2,(19.4K),Fatehgunj,"Campus Corner, Narhari Hospital Circle, Fatehgunj, Vadodara",₹500,"11am – 3pm, 7pm – 11pm (Mon-Sun)"
+Vishal Sandwich,Fast Food,4.5,(544),4.4,"(7,133)",Alkapuri,"E11, Kashivishweshwar Township, Jetalpur Road, Vadodara",₹200,"10am – 8:30pm (Mon-Sat),Closed (Sun)"
+Snappy Pizza,"Pizza, Fast Food",4.5,(417),4.0,(12.4K),Akota,"Shop G01, India Bulls Mega Mall, Old Ambica Mill Compound, Near Dinesh Mill, Akota Road, Vadodara, Akota, Vadodara",₹300,9am – 10:30pm (Mon-Sun)
+The Cafe Baraco,"Cafe, Mexican, Italian, Continental, Chinese",4.0,(520),3.1,(741),Alkapuri,"6, The Emerald, Race Course, Near Chakli Circle, Alkapuri, Vadodara",₹500,11am – 12:30am (Mon-Sun)
+Mr Toasties,"Cafe, Italian, Fast Food, Beverages, Desserts",3.9,(394),3.8,(11.9K),Vadiwadi,"2/8, MIG Flats, Opposite Indraprastha Complex, Near LG Showroom, Inox Road, Ellora Park, Vadiwadi, Vadodara",₹800,12noon – 12midnight (Mon-Sun)
+Tomato's,"North Indian, Mughlai, Mexican, Thai",4.3,(640),4.2,(709),Alkapuri,"1st Floor, Aditi Plaza, Race Course Road, Beside IDBI Bank, Alkapuri, Vadodara","₹1,200","12:30pm – 3pm, 7pm – 11pm (Mon-Sun)"
+Coffee Culture,"Cafe, Coffee, Continental, Italian",3.9,(613),3.5,"(1,179)",Vadiwadi,"1-8, Opposite INOX Multiplex, Sharnam Fortune, Ellorapark, Vadiwadi, Vadodara",₹600,11am – 12midnight (Mon-Sun)
+Tea Villa Café,"Fast Food, Tea, Cafe, Italian",4.4,(653),4.1,"(1,059)",Subhanpura,"Atlantis Heights, Near Genda Circle, Subhanpura, Vadodara","₹1,000",9am – 2am (Mon-Sun)
+Cafe Madrid,Cafe,4.2,(461 Reviews),,,Diwalipura,"Club Madrid, Madrid County, Bhayli Vasna Road, Near Swaminarayan Temple, Bhayli Road, Diwalipura, Vadodara",₹600,1pm – 11pm (Mon-Sun)
+The Dhaba,North Indian,4.7,(555),3.7,"(3,904)",Alkapuri,"1, Savoy Complex 63, Ground Floor, Haribhakti Extension, Old Padra Road, Alkapuri, Vadodara",₹500,"12noon – 3pm, 7pm – 11pm (Mon-Sun)"
+Barbeque Nation,"Mughlai, North Indian",4.7,(449),3.9,(41),Vadiwadi,"3rd Floor, Cine Mall, Near Natubhai Circle, Race Course Road, Vadiwadi, Vadodara, Gujarat","₹1,500","12noon – 3pm, 7pm – 11pm (Mon-Sun)"
+La Benito,"Italian, Mexican, Continental, Lebanese, Beverages",4.4,(382),4.2,(923),Vadiwadi,"1st Floor, Shantanam, Opposite Yes Bank, Inox Road, Race course","₹1,000","11am – 3pm, 6:30pm – 10:30pm (Mon-Sun)"
+Nukkad Pe,"Cafe, Fast Food",4.2,(381),4.1,"(2,117)",Akota,Nukkadpe  Opp akota dmart Akota road  Vadodara,₹300,9:30am – 12midnight (Mon-Sun)
+Spice Cottage,"North Indian, Chinese, Street Food",,,4.1,(14.2K Reviews),Gorwa,"Khodabhai Patel Farm, Near Fatima Park, Gorwa, Vadodara",₹400,6:30pm – 12midnight (Mon-Sun)
+The Belgian Waffle Co.,"Desserts, Ice Cream, Fast Food",4.4,(484),4.3,"(5,698)",Vadiwadi,"31, Race Course Road, Arundeep Complex, Haribhakti Extension, Abhishek Colony, Vadiwadi, Vadodara",₹300,11am – 9pm (Mon-Sun)
+Biryaniz,"Biryani, North Indian, Chinese, Rolls, Beverages",4.0,(345),3.6,(14.7K),Vadiwadi,"Shop 7, Ground Floor, Indraprastha Complex, Opposite Vegetable Market, Inox Road, Ellora Park, Vadiwadi, Vadodara",₹600,10:30am – 10:30pm (Mon-Sun)
+Havmor Restaurant,"North Indian, Chinese, Fast Food",4.4,(504),4.1,"(2,628)",Sayajigunj,"Yash Kamal Building, Sayajigunj, Vadodara","₹1,200",12noon – 11pm (Mon-Sun)
+Dawat Pure Veg Restaurant,"North Indian, Chinese, South Indian",4.0,(415),4.1,"(6,456)",Manjalpur,"Opposite Shreyesh Vidhyalay, Manjalpur, Vadodara",₹600,"11am – 3:30pm, 6:30pm – 10:30pm (Mon-Sun)"
+Italian Affair,Italian,4.5,(410),3.5,(648),Alkapuri,"36, Alkapuri Society, Behind HDFC Bank, Alkapuri, Vadodara","₹1,000","12noon – 3pm, 7pm – 11pm (Mon-Sun)"
+Behrouz Biryani,"Biryani, North Indian, Mughlai",,,4.1,"(5,875 Reviews)",Subhanpura,Delivery Only,₹700,10am – 1am (Mon-Sun)
+Stuff's Food,North Indian,4.4,(416),4.2,"(4,052)",Karelibaug,"Bricklane Mall, Opposite Ratri Bazaar, Karelibaug, Vadodara",₹400,"11:30am – 3:30pm, 7pm – 11pm (Mon-Sun)"
+Mirch Masala,North Indian,4.3,(447),4.1,"(4,147)",Alkapuri,"Meghdhanush Complex, Gotri Road, Near Race Course Circle, Alkapuri, Vadodara",₹800,"12noon – 3pm, 7pm – 10:45pm (Mon-Sun)"
+Mainland China,"Chinese, Asian, Sushi, Momos, Japanese, Thai",4.2,(371),4.1,"(1,070)",Alkapuri,"Second Floor, Bell-E-Vista Complex, Chakli Circle, Race Course, Opposite GST Bhavan, Above RADO Showroom, Alkapuri, Vadodara","₹1,400","12noon – 3:30pm, 7pm – 10pm (Mon-Sun)"
+Pirates of Paneer,"North Indian, Chinese",,,3.5,"(5,392 Reviews)",Vadiwadi,Delivery Only,₹600,6pm – 3am (Mon-Sun)
+Offside Lounge,"North Indian, Chinese, Continental, Pizza",4.2,(449),3.6,"(1,191)",Vadiwadi,"1st Floor, Kanchanganga Apartments, Near Bird Circle, Race Course Road, Vadiwadi, Vadodara",₹800,"12noon – 3pm, 6pm – 11pm (Mon-Sun)"
+Baroda Sandwich,"Sandwich, Pizza, Fast Food",3.8,(362),4.2,(17.1K),Karelibaug,"Near Bright Day School, Vir Nagar Society, VIP Road, Karelibaug, Vadodara",₹350,11am – 12midnight (Mon-Sun)
+Hariyali Gujrati Thali & Banquet,Gujarati,4.1,(358),4.2,(13K),Kendranagar,"Vrundavan Heights, Near Parivar Char Rasta, Waghodia, Kendranagar, Vadodara",₹500,"11am – 3pm, 7pm – 10:30pm (Mon-Sun)"
+The Spot,Fast Food,4.3,(468),4.4,"(6,463)",Mandvi,"1, Bhandra Kacheri Road, Syedwada, Chhipwad, Mandvi, Vadodara",₹250,"11am – 11pm (Mon, Tue, Wed, Thu, Sat, Sun), 2:30pm..."
+Mummys Pizza,"Italian, Pizza, Fast Food",4.2,(575),3.4,"(2,441)",Sayajigunj,"101, Above Samarat Super Store, Opposite Orbit Hotel, Under Jetalpur Bridge, Sayajigunj, Vadodara",₹500,8am – 12:30am (Mon-Sun)
+Sainath Fast Food,Fast Food,4.3,(337),4.2,"(5,192)",Sayajigunj,"4/5, Dhanvantri Complex, Opposite Sardar Patel Statue, Dairy Den Circle, Sayajigunj, Vadodara",₹150,10am – 11:30pm (Mon-Sun)
+Kali Mirch Cafe And Restaurant,"North Indian, Seafood, Lucknowi",4.4,(402),4.1,"(6,721)",Fatehgunj,"Manu Smriti Complex, Near Navrachna School, GIPCL Circle, Karelibaug, Fatehgunj, Vadodara",₹600,"10:30am – 3pm, 6pm – 11pm (Mon-Sun)"
+New Freeze Land,"Wraps, Sandwich, Fast Food, Street Food, Finger Food, Pizza, Beverages",4.2,(291),4.0,"(6,935)",Diwalipura,"GF 2, Sampat Square, Opposite R.K.Plaza, New Court Road, Diwalipura, Vadodara",₹600,11am – 11pm (Mon-Sun)
+Alif Peri Peri Chicken,North Indian,4.1,(318),4.0,"(5,726)",Diwalipura,"Shop S1, Royal Green, Near Basil School, Tandalja Road, Diwalipura, Vadodara",₹400,11am – 1am (Mon-Sun)
+The Blue Oven,"Pizza, Italian",4.3,(266),3.9,"(1,468)",Vadiwadi,"Near Natubhai Circle, Race Course Road, Vadiwadi, Vadodara",₹600,11am – 11pm (Mon-Sun)
+Gayatri Bhavan,"North Indian, Gujarati",3.8,(162),3.3,(10.7K),Alkapuri,"Depo Road, Central Lodge, Opposite Railway Station, Alkapuri, Vadodara",₹300,9am – 12midnight (Mon-Sun)
+Bhai Bhai Dabeliwala (Panigate Wala),"Gujarati, Fast Food",,,4.3,(10.9K Reviews),Mandvi,"B-10, Sahajanand Apartment, Ayurvedic 3 Rasta, Outside Panigate, Mandvi, Vadodara",₹150,9:30am – 6pm (Mon-Sun)
+AB's - Absolute Barbecue,"European, Mediterranean, North Indian",4.5,(619 Reviews),,,Vadiwadi,"3rd Floor, Monalisa Centrum, Race Course Rd, Hari Nagar, Vadiwadi, Vadodara","₹1,200","11:30am – 3:30pm, 6pm – 10pm (Mon-Sun)"
+Status Restaurant & Banquet,"Chinese, North Indian, Italian, Mexican",4.1,(282),3.7,"(5,825)",Diwalipura,"10, Ground Floor, Urban One Complex, Near Panchmukhi Hanumaanji Temple, Vasna-Bhayli, Diwalipura, Vadodara",₹500,"12noon – 3pm, 5pm – 10:30pm (Mon-Sun)"
+Le Privé,"North Indian, Chinese, Italian, Bakery",4.7,(295),4.4,"(1,056)",Alkapuri,"17/B, 1st Floor, Nutan Bharat Society, Opposite Relience Fresh, Alkapuri, Vadodara","₹1,100","12noon – 3pm, 7pm – 11pm (Mon-Sun)"
+Cafe Appetito,Fast Food,4.1,(220),4.1,"(4,933)",Diwalipura,"Gajanad Complex, Old Padra Road, Diwalipura, Vadodara",₹400,11am – 11pm (Mon-Sun)
+Faasos,"Fast Food, North Indian, Biryani, Rolls, Wraps",,,3.9,"(8,144 Reviews)",Vadiwadi,"Shop 1 - 2, Patriot Complex, Inox Road, Vadiwadi, Vadodara",₹300,8am – 1am (Mon-Sun)
+Wat A Burger - India Ka Burger,"Burger, Fast Food, Beverages, Sandwich, Wraps",4.1,(279),4.1,"(6,960)",Diwalipura,"Shop 1 Ground Floor, Sampat Square, 17 Sampat Park, Near Utkarsh School, Opposite RK Plaza, Sainath Marg, Diwalipura, Vadodara",₹400,11am – 10pm (Mon-Sun)
+Zesty Treat,"North Indian, Chinese",4.0,(405),4.3,"(6,172)",Subhanpura,"1st Floor, S Square, Ellora Park, Subhanpura Main Road, Vadodara, Subhanpura, Vadodara",₹600,"11am – 3pm, 7pm – 10:30pm (Mon-Sun)"
+Jay Ambe Smoothies & Shakes,"Beverages, Fast Food",4.4,(469),4.1,"(5,341)",Akota,"Opposite Hotel Gateway, Akota, Vadodara",₹300,8am – 9pm (Mon-Sun)
+La Belleza - The Cake Mall,Bakery,3.9,(280),4.1,"(6,535)",Fatehgunj,"Ground Floor, Mahi Complex, Near Fatehgunj Petrol Pump, Fatehgunj, Vadodara",₹350,9:30am – 11:45pm (Mon-Sun)
+Spice House,"Chinese, North Indian",4.2,(377),4.1,(18.3K),Kendranagar,"Shop 10, Paramanand Complex, Parivar Char Rasta, Waghodia Dabhoi Ring Road, Kendranagar, Vadodara",₹450,11:30am – 11pm (Mon-Sun)
+Sky Dine,"Chinese, North Indian, Italian, Lebanese, Mexican, Mughlai",3.9,(334),4.0,(134),Diwalipura,"2nd floor Zorba Complex, Near Reliance Mall, Akshar Chowk, Diwalipura, Vadodara",₹800,11:30am – 9:30pm (Mon-Sun)
+The Baking Couture,"Cafe, Bakery",3.9,(254),4.0,(197),Alkapuri,"201-203, The Emerald, Near Chakli Circle, Race Course, Alkapuri, Vadodara",₹550,12:30pm – 10pm (Mon-Sun)
+The Shimla Cafe,North Indian,3.9,(292),3.7,"(6,681)",Alkapuri,"Shop 10, Atlantis K10, Near Genda Circle, Sarabhai Road, Alkapuri, Vadodara",₹400,11:30am – 11pm (Mon-Sun)
+Cakeolates by Shweta,Bakery,,,4.3,(897 Reviews),Karelibaug,"L5 Vaikunth 2 Bungalow, New Vip Road, Karelibaug, Vadodara",₹200,8am – 12midnight (Mon-Sun)
+Goodies Cafeteria,"North Indian, Chinese, Fast Food",3.9,(276),3.6,"(8,639)",Sayajigunj,"Surya Palace Road, Near Post Office, Sayajigunj, Vadodara",₹700,11am – 1am (Mon-Sun)
+Frankie Station,Fast Food,4.1,(339),4.2,"(7,604)",Karelibaug,"B-5, Veer Nagar Society, Opposite SBI Bank,Besides Jain Derasar,VIP Road, Karelibaug, Vadodara.",₹400,11am – 11pm (Mon-Sun)
+Milton's South Corner,South Indian,4.3,(269),3.8,"(2,834)",Akota,"9 Pratham Plaza, Near The Gateway Hotel, Akota, Vadodara",₹500,"8am – 3pm, 6pm – 10:45pm (Mon-Sun)"
+Mum's Cafe,"Cafe, Fast Food, Beverages, Burger, Desserts, Pizza, Sandwich",3.6,(206),3.7,(674),Alkapuri,"8, Anand Nagar Society, Opp. Mahadev Temple Lane, Jetalpur Road, Alkapuri, Vadodara",₹400,11am – 11pm (Mon-Sun)
+Prem China Town-Chinese Fast Food,Chinese,4.0,(270),3.9,(12K),Alkapuri,"FF-107, Trivia opp, Natubhai Circle, Rascorse road, gotri , vadodara",₹400,12noon – 3am (Mon-Sun)
+Maji & Sons Omlet,"Fast Food, Street Food",4.0,(247),4.2,"(7,252)",Akota,"Ashwamegh-3, Opposite Aditya Imaging Center, Mujmahuda, Akota, Vadodara",₹300,8am – 4am (Mon-Sun)
+Baroda Bakers - The Cake Shoppe,Bakery,4.0,(176),4.1,"(2,348)",Fatehgunj,"21, Ground Floor ,The Emperor, Jayesh Colony, Fatehgunj Main Road, Fatehgunj, Vadodara",₹200,10am – 9pm (Mon-Sun)
+Kabir Kitchen,"North Indian, Chinese",3.8,(336 Reviews),,,Alkapuri,"R.C. Dutt Road,Opposite Concord Building, Alkapuri, Vadodara",₹600,11am – 11pm (Mon-Sun)
+Moneez,"Fast Food, Street Food",4.2,(271),3.8,"(4,284)",Alkapuri,"G-10, Shiv Shakti, Opp San's Sizzlers, Diagonal to Chhanppanbhog, Alkapuri, Vadodara",₹300,10am – 12midnight (Mon-Sun)
+The Morsel,"North Indian, Chinese, Fast Food",4.1,(284),3.7,"(1,703)",Vadiwadi,"Atlantis Heritage, Sarabhai Main Road, Vadiwadi, Vadodara",₹800,"12noon – 3pm, 6pm – 11pm (Mon-Sun)"
+The Pancake Story,"Desserts, Beverages",4.3,(278),3.9,"(2,004)",Akota,"B/2, Praful Society 2, Opposite D Mart Galleria Mall, Sir Sayajinagar Gruh Auditorium, Akota, Vadodara",₹350,11am – 12midnight (Mon-Sun)
+Miloo Ki Biryani,Biryani,4.3,(311),4.3,"(3,203)",Diwalipura,"SB 3, Rajvi Tower, Beside UBE Company, OP Road, Diwalipura, Vadodara",₹300,7pm – 11pm (Mon-Sun)
+Shree Kismat Kathiyawadi Restaurant,"North Indian, Gujarati",4.2,(221),4.1,"(7,674)",Gotri,"115, 116, Lotus Elite Building, Besides Collabera Office Building, Near Gotri Lake, Gotri, Vadodara",₹300,"11am – 4pm, 7pm – 12midnight (Mon-Sun)"
+Millennium Restaurant,"Mughlai, North Indian",4.1,(278),4.0,"(4,576)",Fatehgunj,"Fatehgunj Main Road, Jayesh Colony, Opposite Methodist Church, Fatehgunj, Vadodara",₹500,12noon – 10pm (Mon-Sun)
+Bombay Sandwich,Sandwich,4.0,(211),4.2,(13.2K),Kendranagar,"Opposite Shreeji Villa Complex, Shivam Bungalow, Waghodia, Kendranagar, Vadodara",₹250,8:30am – 12midnight (Mon-Sun)
+Cheese & Chips,"Fast Food, Beverages",3.7,(163),3.7,"(2,079)",Sayajigunj,"Ground Floor - 5, Manubhai Tower, Opposite Faculty Of Arts, Sayajigunj, Vadodara",₹200,9am – 10:30pm (Mon-Sun)
+The Chocolate Room,Cafe,4.0,(285),4.1,"(2,474)",Alkapuri,"1st Floor, Dreamland Building, Jetalpur Road, Alkapuri, Vadodara",₹500,10am – 10pm (Mon-Sun)
+Taste Of Punjab,North Indian,3.6,(243),3.8,"(5,131)",Sayajigunj,"Gayatri Building, Dairy Den Circle, Sayajigunj, Vadodara",₹500,11:30am – 11:30pm (Mon-Sun)
+Da Pizza Planet,Pizza,3.8,(229),3.9,"(5,731)",Akota,"102, Pancham Highstreet, Near Avishkar Complex, O.P Road, Akota, Vadodara",₹500,11am – 11pm (Mon-Sun)
+Lalabhai Sevusal Raopurawala,Fast Food,4.1,(380),4.2,"(6,457)",Mandvi,"Raopura Tower, Char Rasta, Mandvi, Vadodara",₹150,8am – 9pm (Mon-Sun)
+The Rotlo,Gujarati,4.2,(244),4.3,"(4,485)",Bhayli,"Vasna Bhayli Road, Near Calisto Complex, Bhayli, Vadodara",₹700,"11am – 3pm, 7pm – 11pm (Mon-Sun)"
+The Sugar Fancies,"Bakery, Desserts",4.3,(227),4.4,"(1,194)",Alkapuri,"4-5, Corner Point, Jetalpur Road, Alkapuri, Vadodara",₹400,11am – 8pm (Mon-Sun)
+Hot Bite,"Fast Food, North Indian",3.8,(177),4.2,"(3,285)",Sayajigunj,"Near Manubhai Towers, Opposite MS University, Sayajigunj, Vadodara",₹300,9am – 1am (Mon-Sun)
+Ph Se Food,"North Indian, Continental, Burmese, Mexican, Italian",4.5,(852),3.9,(467),Vadiwadi,"103, 1st Floor, The Emrald Complex, Near Chakli Circle, Race Course Road, Vadiwadi, Vadodara",₹900,"12noon – 12midnight (Mon-Sat),11:30am – 11pm (Sun)"
+Nylon Pav Bhaji,"Fast Food, South Indian, Chinese",4.0,(283),4.3,"(9,075)",Karelibaug,"Mahalaxmi Complex, Muktanand Karoli Bag, Karelibaug, Vadodara",₹400,12noon – 11pm (Mon-Sun)
+Mahavir Ice Cream,"Ice Cream, Beverages",4.2,(315),4.2,(13.6K),Karelibaug,"GF 9, Vardan Complex, V I P Road Karelibaug, Near Amit Nagar Circle, Karelibaug, Vadodara",₹200,"10am – 11pm (Mon-Wed),10:30am – 11pm (Thu-Sun)"
+White Potato,"North Indian, Bakery, South Indian, Continental, Fast Food, Chinese",3.7,(311),4.1,"(1,715)",Akota,"4, Rajnagar Society, Opposite Ajitnagar G.E.B. Road, Shernik Char Rasta, Akota, Vadodara",₹700,"11am – 3pm, 6pm – 10pm (Mon-Sun)"
+Elysian: The Indo-Continental,"Italian, Cafe, Continental, Mediterranean, North Indian, Beverages",4.1,(244),4.1,(888),Gotri,"GF 7 Samanvay Zillion, Opposite Shaishav School, Gotri Road, Gotri,","₹1,000","12noon – 3pm, 7pm – 11pm (Mon-Sun)"
+Yaadgar Omlet Center,"Street Food, Fast Food",4.4,(213),4.4,"(3,038)",Diwalipura,"Shop 143, Old Padra Road, Suryakiran Complex, Opposite Avishkar Complex, Sukrutinagar, Diwalipura, Vadodara",₹250,6pm – 10:30pm (Mon-Sun)
+Santosh Pav Bhaji,Street Food,4.0,(282),4.0,"(8,336)",Subhanpura,"5-6, Shivalik Complex, Opposite Bharucha Hospital, Subhanpura, Vadodara",₹200,11am – 11pm (Mon-Sun)
+Bendys Kitchen,Biryani,4.6,(243),4.4,"(1,725)",Gotri,"A-7, Vishakha Park, Opposite Nene Clinic, Rajesh Tower Road, Gotri, Vadodara",₹600,"11am – 3pm, 5pm – 10pm (Mon-Sun)"
+Sasumaa's,Gujarati,4.1,(279),4.3,"(4,333)",Kendranagar,"GF 1/2/3 Vrundavan Mall, Near Vrundavan Crossing, Waghodia - Dabhoi Ring Road, Kendranagar, Vadodara",₹600,"11:30am – 3:30pm, 7pm – 10:30pm (Mon-Sun)"
+Bong Flavours,"Bengali, Chinese, North Indian",4.2,(275),3.7,"(6,268)",Gotri,"Shop 104 & 105, Nilambar Primero, Near Yes Bank, Vasna Gotri Road, Gotri, Vadodara",₹300,8am – 7pm (Mon-Sun)
+Maji Sainik Omlet Centre,Fast Food,4.0,(242),4.1,"(4,623)",Akota,"Shop 14-16 Saptagiri Duplex, Akota, Vadodara",₹400,12noon – 11pm (Mon-Sun)
+Chicken Mamna Center,"Fast Food, Biryani",4.0,(228),3.9,"(6,153)",Akota,"GF-1, Dulah Sheth, New Shopping Center, Akota Bridge, Akota, Vadodara",₹400,"11am – 3pm, 6pm – 1am (Mon-Sun)"
+Rabdiwala Corner,"Desserts, Ice Cream",4.3,(228),4.4,"(2,568)",Karelibaug,"Q3, VIP Complex, Opposite Dash Continental Hotel,VIP Road, Karelibaug, Vadodara",₹150,6pm – 10:30pm (Mon-Sun)
+Vishal Dalvada Centre,"Fast Food, Street Food",4.3,(266),4.3,"(6,015)",Alkapuri,"Race Course Circle, Opposite GEB, Alkapuri, Vadodara",₹100,"8am – 8pm (Mon-Sat),8am – 3pm (Sun)"
+Ashish Restaurant,"North Indian, Chinese, Fast Food",4.1,(274),4.0,"(8,919)",Karelibaug,"Vrundavan Township, Tower-D, 1st Floor, Opposite Nageshwar Temple, Karelibaug, Vadodara",₹500,"11am – 3pm, 6:30pm – 11pm (Mon-Sun)"
+Kulchas & More,North Indian,4.2,(180),4.2,"(2,988)","Inorbit Mall, Subhanpura","S22, 2nd Floor, Inorbit Mall, Subhanpura, Vadodara",₹300,11am – 11pm (Mon-Sun)
+Sahyog Restaurant,"North Indian, Continental, Chinese",3.9,(240),4.2,"(6,095)",Fatehgunj,"Soha House, High Mask Circle, Fatehgunj Main Road, Vadodara",₹600,"11am – 3:30pm, 6:30pm – 10:45pm (Mon-Sun)"
+UBQ by Barbeque Nation,"North Indian, Mughlai, BBQ, Biryani",,,3.5,"(4,796 Reviews)",Vadiwadi,Delivery Only,₹550,"12noon – 3:30pm, 7pm – 10:30pm (Mon-Sun)"
+99 Pancakes,"Desserts, Beverages, Cafe, Ice Cream, Healthy Food",4.2,(208),4.2,"(1,827)",Sayajigunj,"Shop 3, Amin Nivas, Opposite Sardar Patel Statue, Sayajigunj, Vadodara",₹300,12noon – 12midnight (Mon-Sun)
+Surya Prakash,"North Indian, South Indian, Fast Food",3.9,(176),4.0,"(5,136)",Mandvi,"Raopura Main Road, Near Raopura Tower, Mandvi, Vadodara",₹400,8am – 11pm (Mon-Sun)
+Pizza Bite,"Pizza, Italian, Beverages, Ice Cream",4.2,(439),3.3,"(3,052)",Karelibaug,"B-1, Kapilakunj Apartment, Near Water Tank, Karelibaug, Vadodara",₹300,9am – 4am (Mon-Sun)
+New Swagat Corner,"North Indian, Gujarati",4.1,(236),4.1,"(6,274)",Nizampura,"B/31, Maruti Complex, Opportunity Swaminarayan nagar, Nizampura Main Road, Nizampura, Vadodara",₹200,11am – 8pm (Mon-Sun)
+Madina Restaurant,"North Indian, Chinese",4.0,(250),4.2,"(3,169)",Diwalipura,"A-1, Amjad Park Society, Opposite SBI Bank, Tandalja-Vasna Road, Vadodara",₹400,11am – 11pm (Mon-Sun)
+Pizza Village,"Fast Food, Italian, Pizza, Beverages, Ice Cream",,,3.6,"(2,954 Reviews)",Vadiwadi,"Flat 38, Block 7, MIG Flat, Opposite Indraprash Complex, Inox Road, Vadiwadi, Vadodara",₹200,9am – 4am (Mon-Sun)
+Shakti The Sandwich Shop,Fast Food,4.1,(311),4.2,"(4,024)",Karelibaug,"Ground Floor-11, Bricklane 1964, L & T Circle, Opposite Ratri Bazar, Karelibaug, Vadodara",₹300,11:05am – 12midnight (Mon-Sun)
+Raju Omlet Centre - ROC,"Street Food, Healthy Food, Fast Food",,,4.2,"(7,363 Reviews)",Karelibaug,"G2, Indraprasth Complex, VIP Road, Next To Urjita Hospital, Karelibaug, Vadodara",₹300,11am – 11pm (Mon-Sun)
+Sheesh Mahal Multi Cuisine Restaurant,"Chinese, Desserts, Italian, North Indian, Pizza",4.2,(243),4.2,(807),Vadiwadi,"GF-08, Atlantis Heights, Shree Vikram Sarabhai Marg, Near Genda Circle, Vadiwadi, Vadodara","₹1,100","11am – 3pm, 7pm – 11pm (Mon-Sun)"
+Aadi Ityaadi,"Gujarati, Rajasthani, Fast Food",3.5,(141),3.9,"(1,314)",Alkapuri,"1, Ground Floor, Bihari Appartments, Next ITC Welcome Hotel, Alkapuri, Vadodara",₹600,11am – 11pm (Mon-Sun)
+Kaphi Pibama,"Cafe, Mexican, Italian, Fast Food",3.9,(238),3.7,(124),Alkapuri,"18-A, Nutan Bharat, SOC 002-Yogeshwar Apartment, Near Reliance Fresh, Alkapuri, Vadodara",₹500,11am – 10pm (Mon-Sun)
+Subway,"Sandwich, Wraps, Fast Food",4.1,(344),3.9,"(8,162)",Karelibaug,"Ground Floor, Goverdhan Apartment, Near Utkarsh Petrol Pump, Muktanand, Karelibaug, Vadodara",₹200,9am – 10pm (Mon-Sun)
+Amrit Food Junction,"North Indian, Biryani",,,3.9,"(7,523 Reviews)",Subhanpura,"Ground Floor 21, S-Square Mall, Subhanpura, Vadodara",₹350,"12:01am – 3am, 11am – 12midnight (Mon, Sun)..."
+Kaka Ni Pav Bhaji,Fast Food,4.1,(289),4.1,"(4,564)",Karelibaug,"Amit Nagar Circle, Karelibaug, Vadodara",₹400,"12noon – 3:30pm, 6pm – 11pm (Mon-Sun)"
+Blue Lagoon,"North Indian, Chinese",3.9,(282),4.0,"(4,670)",Akota,"Abhishek Complex, Akshar Chowk, Old Padra Road, Akota, Vadodara",₹700,"11am – 3pm, 7pm – 10:30pm (Mon-Sun)"
+Maji Sainik Egg Recipies,Fast Food,3.9,(163),4.2,"(6,286)",Akota,"GF-2, Dulah Sheth, New Shopping Center, Akota Bridge, Akota, Vadodara",₹300,11:30am – 10:30pm (Mon-Sun)
+San Sizzler's,North Indian,3.7,(333 Reviews),,,Alkapuri,"83, Samaptrao Colony, Mangaldhara Complex, Alkapuri, Vadodara","₹1,000","Closed (Mon),6pm – 11pm (Tue-Sun)"
+L'amour Patisserie,"Bakery, Desserts",4.3,(234 Reviews),,,Vadiwadi,"23/133, Ellora Park, Near Inox, Vadiwadi, Vadodara",₹400,12noon – 11pm (Mon-Sun)
+The Grand Thakar,"Gujarati, North Indian, Chinese",4.3,(217),4.2,"(4,493)",Alkapuri,"3rd Floor, Shreem Shalini Mall, Opposite Concourd Building, RC Dutt Main Road, Alkapuri, Vadodara",₹700,"11am – 3:30pm, 7pm – 9pm (Mon-Sun)"
+Flames Restaurant,"Mughlai, Chinese, Biryani",4.1,(260),4.1,"(8,561)",Diwalipura,"Opposite Patrakar Colony, Near JP Police Station, Tandalja, Old Padra Road, Diwalipura, Vadodara",₹600,6pm – 12midnight (Mon-Sun)
+Kulcha.com,"North Indian, Fast Food, Beverages",4.0,(242),3.3,"(5,486)",Manjalpur,"1, Ground Floor, Sai Arcade Complex, Opposite Reliance Circle, Rajnikant Jani Marg, ShreePalli Society, Manjalpur, Vadodara",₹200,8am – 12midnight (Mon-Sun)
+Cake Connection - Live Cake,"Bakery, Desserts",4.1,(223),4.3,"(1,729)",Manjalpur,"GF 7, Padmavati Complex, Near Suncity Circle, Manjalpur, Vadodara",₹200,9am – 8pm (Mon-Sun)
+Legacies Of Punjab,North Indian,3.7,(321),4.1,(646),Alkapuri,"1, Ground Floor, PTSI Building, Near Genda Circle, Alkapuri, Vadodara",₹700,"12noon – 3pm, 7pm – 11pm (Mon-Sun)"
+What The Feast!,"North Indian, Chinese",,,3.9,(10.5K Reviews),Diwalipura,"146 & 147, Paris Nagar Society, Gadapura, Diwalipura, Vadodara",₹200,"12midnight – 3am, 11am – 3pm, 7pm – 12midnight..."
+Humptee Dumptee,"North Indian, Chinese",4.2,(192),4.2,"(9,075)",Gotri,"120 & 121, First Floor, Lotus Elite, Opposite Satyanarayan Farm, Gotri Road,near Jagdish Farshan Gotri, Vadodara",₹350,"11am – 3pm, 6pm – 12:30am (Mon-Sun)"
+Real Punjabi,"North Indian, Chinese",,,3.8,(11.9K Reviews),Nizampura,"Devdeep Complex, Nizampura, Vadodara",₹300,11am – 11pm (Mon-Sun)
+Shree Krishna Restaurant,Street Food,3.9,(169),4.3,"(4,073)",Akota,"GF-2, Silver House Complex, Rockstar Circle, Opposite GEB School, Akota-Dmart Road, Vadodara",₹250,"8am – 8:30pm (Mon, Tue, Thu, Fri, Sat, Sun)..."
+Awesome!,"North Indian, Fast Food",,,4.1,"(4,114 Reviews)",Subhanpura,"21, Ground Floor, Viswmohini Complex, Subhanpura, Vadodara",₹300,11am – 4am (Mon-Sun)
+Silver Restaurant,"North Indian, Chinese",4.2,(288),4.4,"(5,226)",Manjalpur,"Silver Coine Complex, Opposite Bhavan School, Teen Rasta, Manjalpur, Vadodara",₹600,"11am – 3pm, 6pm – 10:30pm (Mon-Sun)"
+Red Dot Nation,"North Indian, Biryani, Chinese, Desserts, Beverages",3.8,(219),4.0,"(6,717)",Suryanagar,"Vinyak Heights, Beside Bharat Petrol Pump, Waghodia Dabhoi Ring Road, Suryanagar",₹600,"11:30am – 3pm, 7pm – 11pm (Mon-Sun)"
+Cafe Appetito,"Fast Food, Beverages",3.6,(255),4.2,(536),Fatehgunj,"Shop 10, Saffron Complex, Fatehgunj, Vadodara",₹550,11am – 11pm (Mon-Sun)
+Cafe Appetito,"Fast Food, Beverages",3.6,(255),4.2,(536),Fatehgunj,"Shop 10, Saffron Complex, Fatehgunj, Vadodara",₹550,11am – 11pm (Mon-Sun)
+Coffee Clan,"Cafe, Fast Food",4.0,(182),4.3,(298),Akota,"4&5, Shivang Complex, Malhar Point Lane, Opposite Gails Ground, Punit Nagar, Akota, Vadodara",₹400,11am – 11pm (Mon-Sun)
+Azure - Grand Mercure Vadodara Surya Palace,"North Indian, Chinese, Continental, Thai",4.3,(257),3.2,(105),Sayajigunj,"Surya Palace Hotel, Opposite Parsi Agrayi, Sayajigunj, Vadodara","₹1,200","7:30am – 10am, 12:30pm – 3pm, 7:30pm – 11pm..."
+Lazeez,"Mughlai, North Indian",3.9,(256),4.1,(986),Alkapuri,"B-1/234, Alkapuri Vishal Chamber, Vishwas Colony, Alkapuri, Vadodara",₹600,"12noon – 3pm, 7pm – 10:45pm (Mon-Sun)"
+Anmol Catering & Events,"North Indian, Chinese",,,4.0,(10.7K Reviews),Sayajipura,"C-18, Road 1, Sardar Estate, Ajwa Road, Sayajipura, Vadodara",₹350,"11am – 3:30pm, 6:15pm – 10:30pm (Mon-Sun)"
+My Recipe,"North Indian, Chinese",3.7,(226),4.0,(10.5K),Kendranagar,"Shop 5, 6 & 7, Shreeji Villa Complex, Near D Mart, Shivam Crossing, Waghodia Road, Kendranagar, Vadodara",₹450,11am – 10pm (Mon-Sun)
+Mehfil Restaurant,"North Indian, Mughlai, Chinese",3.7,(211),3.7,"(4,883)",Akota,"Ground Floor Dulabhai Complex, Akota Bridge Char Rasta, Akota, Vadodara",₹600,"11am – 3pm, 6:30pm – 12midnight (Mon-Sun)"
+Tasty Vada Pav,Street Food,4.2,(463 Reviews),,,Fatehgunj,"Beside Anjali Memorial Hospital, Fatehgunj, Vadodara",₹150,10am – 9pm (Mon-Sun)
+Rule The Rolls,"Rolls, Mughlai, Burger",4.2,(313),4.1,"(1,513)",Diwalipura,"GF-5, 1st Floor, Siddharth Upscale, Opposite White House, Binanagar Vasna Road, Diwalipura, Vadodara",₹300,12noon – 12midnight (Mon-Sun)
+Edison's Experiments With Milk,Beverages,4.0,(173),4.2,(963),Diwalipura,"Shop 6, Shipra Complex, Old Padra Road, Near Marvans, Diwalipura, Vadodara",₹300,9am – 2am (Mon-Sun)
+The Offshore Lounge,"Cafe, Fast Food, Desserts",4.0,(153),3.9,"(1,754)",Sama,"A4/103, Anand Vihar Flats, B/H Kailashdham Society, Opp. Ramdev Hardware. Nr. Abhilasha Char Rasta, New Sama Road, Vadodara",₹400,11am – 11:30pm (Mon-Sun)
+Carryout Restaurant,"North Indian, Chinese, Biryani",,,3.8,"(5,262 Reviews)",Subhanpura,"Shop F-6, First Floor, S Square Mall, Subhanpura Main Road, Subhanpura, Vadodara",₹200,11am – 12midnight (Mon-Sun)
+Times Cafe,Cafe,3.9,(151),4.3,(404),Fatehgunj,"Times Square Building, Harshadrai Mehta Marg, Fatehgunj, Vadodara",₹200,9am – 11:10pm (Mon-Sun)
+Al Makka Restaurant,"North Indian, Mughlai",3.7,(149),3.6,"(6,535)",Diwalipura,"Near JP Police Station Char Rasta, Opposite Patrakar Colony, Tandalja, Diwalipura, Vadodara",₹450,10am – 11:30pm (Mon-Sun)
+Raju Omlet,Fast Food,4.0,(238),4.4,"(3,615)",Karelibaug,"Mahalaxmi Apartment, Opposite B O B, Karoli Bag, Karelibaug, Vadodara",₹300,8am – 12midnight (Mon-Sun)
+Zaafran,North Indian,3.9,(189),3.9,"(3,031)",Fatehgunj,"Ground Floor, Amaan Tower, Beside Check Mate, Fatehgunj, Vadodara",₹700,11am – 10pm (Mon-Sun)
+Juvenas Bakery,"Bakery, Desserts",4.6,(202 Reviews),,,Vadiwadi,"3rd Floor ,Shaalin Apartments, 52, Hari Bhakti Colony Near Baroda Heart Hospital, Vadiwadi, Vadodara",₹400,"9:30am – 6:30pm (Mon, Wed, Thu, Fri, Sat, Sun)..."
+Monika Pizza,Fast Food,,,4.4,"(5,659 Reviews)",Kendranagar,"Waghodiya, Kendranagar, Vadodara",₹250,11am – 11pm (Mon-Sun)
+Jagdish Farshan Pvt. Ltd.,"Mithai, Gujarati",4.1,(260),4.4,"(9,786)",Karelibaug,"A-151, Shri Krishna Kunj Society-2,  New VIP Road, Vadodara, 320022",₹300,8am – 10pm (Mon-Sun)
+Pinnacle Food Court,"North Indian, Biryani",3.9,(211),3.7,"(8,288)",Makarpura,"G 11, Amrapali Complex, Air Force Road, Makarpura GIDC, Makarpura, Vadodara",₹250,9am – 11pm (Mon-Sun)
+Wooddy Jhone’s Pizza,"Pizza, Fast Food",3.2,(245),3.5,"(3,723)",Akota,"1 & 2, Earth Complex, Beside Hyundai Showroom, Old Padra Road, Punit Nagar, Akota, Vadodara",₹500,9am – 12midnight (Mon-Sun)
+Messy Bowl - Maggevala,"Street Food, Fast Food",3.8,(207),3.4,"(1,156)",Fatehgunj,"Fatehgunj Main Road, Fatehgunj, Vadodara",₹150,10am – 10pm (Mon-Sun)
+Sai Krupa Punjabi Khana,"North Indian, Chinese",4.1,(138),4.0,"(2,624)",Karelibaug,"5023-5024, Vaikunth 2 Shopping Center, Khodiyar Nagar Char Rasta, New VIP Road, Karelibaug, Vadodara",₹400,11am – 11pm (Mon-Sun)
+Punjabi Corner,North Indian,4.1,(135),3.9,"(7,143)",Akota,"1, Berry's Corner, Opposite Radha Krishna Society, P F Office Road, Akota, Vadodara",₹300,"11am – 3pm, 5:30pm – 10:30pm (Mon-Sun)"
+Aavkar Restaurant,"North Indian, Fast Food, Chinese",3.9,(208),4.0,"(7,540)",Manjalpur,"6 Shantinagar,Opp. Pinnacle Business Centre, Tulsitham,Manjalpur,Vadodara.",₹250,11am – 11pm (Mon-Sun)
+Elysian: The Middle-Eastern,"North Indian, Awadhi, Lucknowi, Mughlai, Arabian, Turkish, Afghan",3.9,(221),4.1,(682),Vadiwadi,"FF 108, Golden Icon, Opposite BSNL, Chakli Circle, Vasiwadi, Vadodara","₹2,000","11am – 3pm, 7pm – 11pm (Mon-Sun)"
+Wok My Way,"Chinese, Thai",4.0,(156),3.5,"(2,407)",Alkapuri,"1/1, Vishwas Colony, Alkapuri Shopping Centre, Alkapuri, Vadodara",₹650,11am – 11pm (Mon-Sun)
+China Town Chinese Food,Chinese,3.4,(119),3.7,"(6,641)",Diwalipura,"Opposite Sarkari Nursing College, Diwalipura, Vadodara",₹200,4:30pm – 11:30pm (Mon-Sun)
+Mahesh Omlet Egg Restaurant,Street Food,4.0,(222),4.1,(12.8K),Suryanagar,"GF-23/24, Venu Tower, Vrundavan Heights, Near Essar Pump, Parivar Char Rasta, Waghodia-Dabhoi Ring Road, Suryanagar, Vadodara",₹200,11am – 11pm (Mon-Sun)
+Marhaba Restaurant,"Biryani, Chinese",4.0,(211),4.0,"(1,069)",Karelibaug,"Near Sharda Mandir School, Machhipith Naka, Salatwada Road, Karelibaug, Vadodara",₹800,1pm – 11pm (Mon-Sun)
+Keshav Kutir Restaurant,North Indian,4.0,(213),4.3,"(8,934)",Suryanagar,"B-16, Parichay Park, Opposite Rajiv Gandhi Swimming Pool, Waghodia Road, Suryanagar, Vadodara",₹400,5pm – 10:30pm (Mon-Sun)
+Dosa Wala,South Indian,4.1,(205),3.7,"(7,680)",Akota,"2, Welcome Flat, Dinesh Mill Road, Near Varaimata Mandir, Akota, Vadodara",₹200,"8am – 2pm, 6pm – 11pm (Mon-Sun)"
+Chula Dosa,"South Indian, Chinese",4.0,(218),3.9,"(6,061)",Manjalpur,"B-20, Dhanlaxmi Complex, Near Saraswati Complex, Manjalpur, Vadodara",₹300,8am – 11pm (Mon-Sun)
+Orizon Restaurant,"North Indian, Chinese",3.9,(321),4.2,"(6,251)",Akota,"Near Krishna Shanti Society, Mujmahuda Road, Akota, Vadodara",₹700,"11am – 3:30pm, 6:30pm – 11pm (Mon-Sun)"
+Club Offshore,"Cafe, Chinese, Fast Food",3.9,(146),4.4,(380),Diwalipura,"143, Suryakiran Complex, Old Padra Road, Sukrutinagar, Opposite Avishkar Complex, Diwalipura, Vadodara",₹600,11am – 11pm (Mon-Sun)
+Olives Pizza & Sizzlers,Italian,2.8,(186),3.5,(619),Alkapuri,"104, Emerald, Race Course Circle, Alkapuri, Vadodara",₹800,11am – 11pm (Mon-Sun)
+Night 2 Night,North Indian,,,3.9,"(6,017 Reviews)",Karelibaug,"1,B Nanjibhai Chember, Bahucharaji Road, Karelibaug, Vadodara",₹300,7pm – 4am (Mon-Sun)
+Ghani Khamma,"Rajasthani, North Indian, Mughlai",4.1,(252),3.9,(47),Alkapuri,"FF- 4/5/6, CAPRY HOUSE-2, SUDHANAGAR JETALPUR ROAD, VADODARA- 390007",₹900,"12noon – 2:30pm, 7pm – 9:30pm (Mon-Sun)"
+Gazebo Garden Restaurant,North Indian,4.0,(214 Reviews),,,Panchvati,"Opposite FGI, Near Iscon Harmony, Sevasi-Bhimpura Road, Near Panchvati, Vadodara","₹1,000",7pm – 1am (Mon-Sun)
+Ready Platter,"Chinese, North Indian",,,3.9,"(6,183 Reviews)",Diwalipura,"Shop 1, Trinity Complex, Opposite Vasna Jakatnaka, Vasna Bhayli Main Road, Diwalipura, Vadodara",₹300,"11am – 3pm, 6:30pm – 11pm (Mon-Sun)"
+Chatkazz,"Fast Food, North Indian",3.7,(145),4.2,"(6,273)",Manjalpur,"15/G, Sun Plaza 1, Near Vadsar Bridge, Manjalpur, Vadodara",₹300,"10am – 10:30pm (Mon, Tue, Wed, Fri), 11am –..."
+Octant Pizza,"Italian, Pizza",3.5,(211),3.8,"(1,715)",Diwalipura,"Golden Nest, Opposite Shobhna Nagar, Diwalipura, Vadodara",₹700,11am – 11pm (Mon-Sun)
+Juggernaut,"North Indian, Mediterranean, Continental, Italian",4.2,(182),4.1,(120),Bhayli,"Near Vihaan Hospital, Vasna-Bhayili Road, Bhayli, Vadodara",₹600,12noon – 10:45pm (Mon-Sun)
+Aroma Delicacy,North Indian,4.2,(246),4.1,"(8,184)",Diwalipura,"GF-20, Earth Artica, Vasna Bhayil Road, Diwalipura, Vadodara",₹300,"11am – 3pm, 7pm – 11pm (Mon-Sun)"
+Sardar Pav Bhaji & Punjabi Khana,North Indian,4.0,(182),3.8,"(8,896)",Karelibaug,"Amardeep Heritage, Ajwaroad, Karelibaug, Vadodara",₹300,"11am – 4pm, 6pm – 12midnight (Mon-Sun)"
+Farki,"Ice Cream, Desserts",4.2,(360),3.9,(47),Karelibaug,"GF, Opposite Vuda Builduing, Besides Dwarkesh Hospital, Karelibaug, Vadodara",₹200,11am – 10:30pm (Mon-Sun)
+Biryani aur Baatein,"Biryani, Mughlai, Chinese",3.9,(180),3.8,"(3,460)",Alkapuri,"Shop 14, Atlantis K-10, A Wing, Genda Circle Road, Alkapuri, Vadodara",₹500,"11:30am – 3:30pm, 7:30pm – 1am (Mon-Sun)"
+Geeta lodge,"Gujarati, Street Food",4.1,(227),4.3,"(1,602)",Alkapuri,"Shop 11, Ground Floor, Atlantis K-10, Tower A, Opposite Vadodara Central Mall, Sarabhai Road, Genda Circle, Alkapuri, Vadodara",₹250,"10:30am – 3:30pm, 6pm – 8:30pm (Mon-Sun)"
+Spicy Restaurant,North Indian,3.6,(134),4.1,"(4,818)",Karelibaug,"Shree Krishna Apartment, Near Bank Of Baroda, Sangam Char Rasta, Karelibaug, Vadodara",₹300,11am – 10:30pm (Mon-Sun)
+Mishri Sweets,"Mishti, Street Food",4.0,(174),4.4,"(9,065)",Diwalipura,"Shop 1 & 2, Earth Complex, Akshar Chowk, Diwalipura, Vadodara",₹200,9am – 9pm (Mon-Sun)
+Apsara Ice Creams,"Ice Cream, Desserts",4.3,(233),4.5,"(1,403)",Vadiwadi,"Shop 2, Ajanta Society, Leader House, Behind Trident Complex, Ellora Park, Vadiwadi, Vadodara",₹200,12:30pm – 12midnight (Mon-Sun)
+La Pizza Treno,"Pizza, Italian",3.4,(250),3.5,(607),Alkapuri,"2nd Floor, Race Course Road, Above Bata Showroom, Alkapuri, Vadodara",₹800,11am – 11pm (Mon-Sun)
+Hilton China,Chinese,3.9,(201),3.8,"(6,902)",Manjalpur,"3rd Floor, Food Court, Eva Mall, Manjalpur, Vadodara",₹400,11am – 10:30pm (Mon-Sun)
+The Kitchen Express,Mughlai,3.9,(132),3.8,"(4,308)",Sayajipura,"8, Silver Point, Ajwa Road, Near IOCL Petrol Pump, Sayajipura, Vadodara",₹300,11:30am – 2:30am (Mon-Sun)
+Arabian Grill,"Arabian, Mughlai",4.1,(189),3.9,"(2,385)",Diwalipura,"Shop 18, Fazila Avenue, Vasna Tandalja Road, Diwalipura, Vadodara",₹500,4pm – 11pm (Mon-Sun)
+Baroda Sandwich,Sandwich,3.8,(193),3.9,(12.1K),Manjalpur,"1, Bhagirath Complex, Darbar Chowkdi, Manjalpur, Vadodara",₹200,10am – 8pm (Mon-Sun)
+The Hunger Box,"North Indian, Fast Food",3.6,(114),3.9,"(3,345)",Alkapuri,"3, Tower 1, Kashivishveshwar Complex, Jetalpur Road, Alkapuri, Vadodara",₹500,"10:15am – 3:30pm, 6pm – 10:30pm (Mon-Sun)"
+Gordhan Thal,Gujarati,4.1,(220),4.1,"(1,520)",Alkapuri,"Dreamland Building, Jetalpur Road, Alkapuri, Vadodara",₹600,"11:30am – 3:30pm, 7:30pm – 10:30pm (Mon-Sun)"
+Real Kathiyawadi Restaurant,"Chinese, Gujarati, North Indian",4.0,(179),4.1,"(6,081)",Sayajipura,"E-11, Sardar Estate, Sayaji Park Society, New VIP Ring Road, Sayajipura, Vadodara",₹300,"11am – 3pm, 6:45pm – 11pm (Mon-Sun)"
+Bhai Bhai Dabeli,Gujarati,4.1,(194),4.4,"(3,606)",Karelibaug,"Shop 6 & 7, Charbhuja Complex, Near Petrol Pump, Ambalal Park, Pani Tanki Road, Karelibaug, Vadodara",₹150,12noon – 10pm (Mon-Sun)
+Once More-Bombay Sandwich,Fast Food,3.6,(108),4.2,"(3,659)",Alkapuri,"SB/6, Center Point, Alkapuri, Vadodara",₹250,8:30am – 9:30pm (Mon-Sun)
+Shagun Hotel,"North Indian, Mughlai, Chinese, Fast Food",3.5,(100),4.1,"(9,335)",Alkapuri,"Offtel Towers, RC Dutt Road, Opposite Circuit House, Alkapuri, Vadodara",₹600,"11am – 3pm, 6pm – 11pm (Mon-Sun)"
+The Cravings Restaurant,"North Indian, Fast Food, Continental, Chinese, Thai, Asian, Seafood",4.1,(132 Reviews),,,"Sayaji Hotel, Sayajiganj","Near Bhimnath Bridge, Opposite Parsi Agryari, Sayajigunj, Vadodara","₹1,500","7am – 10:30am, 12:30pm – 3:30pm, 7pm – 11pm..."
+Da Pizza Planet,Pizza,3.8,(156),3.6,"(4,065)",Diwalipura,"Ground Floor,  Ojus Avenue, Vasna - Bhayli Road, Diwalipura, Vadodara",₹600,11am – 11pm (Mon-Sun)
+Soul Brew Coffee,Cafe,3.9,(186 Reviews),,,Vadiwadi,"Arundeep Complex, Race Course Circle, Vadiwadi, Vadodara",₹500,10am – 12midnight (Mon-Sun)
+New Sonu Punjabi,North Indian,3.8,(194),3.2,"(5,945)",Mandvi,"Laxmi Nivas, Near Ideal Coaching Classes, Babaji Pura Dandiya Bazar, Mandvi, Vadodara",₹250,"11am – 4am (Mon, Wed, Thu, Fri, Sat, Sun), 8am –..."
+Foodista Restaurant,North Indian,4.2,(308 Reviews),,,Gorwa,"30, Gorwa Road, Jai Jalaram Nagar, Ajay Nagar, Undera, Vadodara",₹700,"11:30am – 3:30pm, 6:30pm – 10:30pm (Mon-Sun)"
+Shree Radhika Restaurant,"North Indian, South Indian",3.2,(110),3.4,"(4,637)",Vadiwadi,"1/3, C.C Patel Square, Ellora Park, Vadiwadi, Vadodara",₹500,11am – 11pm (Mon-Sun)
+Grill Kitchen,"Italian, Mexican",3.8,(144),3.5,(35),Vadiwadi,"3rd Floor, CC Patel Square, Behind Trident Complex, Vadiwadi, Vadodara",₹800,"12noon – 3pm, 7pm – 11pm (Mon-Fri),12noon –..."
+Jashan,"Awadhi, North Indian, Chinese, Mughlai, Biryani, Italian, Ice Cream, Beverages",4.0,(179),3.8,(643),"Lilleria Food Court, Vadiwadi","1st FLoor, Lilleria Food Court, Near Natu Bhai Circle, Vadiwadi, Vadodara","₹1,000",12noon – 11pm (Mon-Sun)
+Frankiee Junction,"Fast Food, Pizza, Burger, Sandwich",3.2,(108),3.7,"(3,915)",Alkapuri,"E/5, Ground Floor, Tower 2, Kashivishweshvar Complex, Jetalpur Road, Alkapuri, Vadodara",₹200,10am – 11pm (Mon-Sun)
+Pizza Bell,"Pizza, Italian, Fast Food",4.0,(188),4.3,"(1,032)",Alkapuri,"Jetalpur Road, Alkapuri, Vadodara",₹900,10:30am – 10:30pm (Mon-Sun)
+0265 Burgers & Pizzas,"Fast Food, Burger, Pizza",4.2,(167),4.0,(601),Alkapuri,"Shop 17, Alkapuri Shopping Centre, Vishwas Colony, Alkapuri, Vadodara",₹300,3:30pm – 10:45pm (Mon-Sun)
+Al Madina,Mughlai,4.0,(244),4.1,"(2,436)",Diwalipura,"11, Patrakar Colony, Tandalja, Diwalipura, Vadodara",₹600,11am – 11pm (Mon-Sun)
+Yes Frankie,"Fast Food, Rolls",4.0,(207),4.0,"(5,668)",Subhanpura,"Cash and Carry Building, Near Ellora Park Milk Center, Subhanpura, Vadodara",₹200,11am – 10:30pm (Mon-Sun)
+Yes Frankie,"Fast Food, Rolls",4.0,(207),4.0,"(5,668)",Subhanpura,"Cash and Carry Building, Near Ellora Park Milk Center, Subhanpura, Vadodara",₹200,11am – 10:30pm (Mon-Sun)
+Rangoli Restaurant,"North Indian, Chinese, Seafood",3.7,(190),4.2,"(1,381)",Fatehgunj,"Fatehgunj Main Road, Near Red Church, Fatehgunj, Vadodara",₹800,12noon – 7pm (Mon-Sun)
+Shree Vadlo Kathiyawadi Thali,Gujarati,4.0,(148),3.7,"(3,683)",Sama,"1st Floor, Sukan Hub, Sama Savli Road, Sama Road, Vadodara",₹400,"11am – 3pm, 7pm – 10:45pm (Mon-Sun)"
+Delicacy Restaurant & Banquet,"Chinese, North Indian",4.0,(185),4.0,"(1,658)",Diwalipura,"1st Floor, Siddharth Upscale, Opposite Bina Nagar, Vasana Road, Diwalipura, Vadodara",₹500,"11am – 3pm, 7pm – 10:30pm (Mon-Sun)"
+New Bombay Vadapav,Fast Food,,,4.1,"(3,379 Reviews)",Alkapuri,"E-20, Kashivishweshwar Township, Jetalpur Road, Chikuwadi, Alkapuri, Vadodara",₹100,10am – 8:30pm (Mon-Sun)
+Honest,"North Indian, Fast Food, Chinese, Pizza",2.6,(241),4.2,"(3,413)",Alkapuri,"Beside Vadodara Central Mall, Alkapuri, Vadodara",₹300,11am – 12midnight (Mon-Sun)
+Hyderabadi's,"Mughlai, Biryani",3.8,(171),3.6,(474),Fatehgunj,"4, Shreyas Apartments, Near Akash Medical, Fatehgunj, Vadodara",₹500,11:30am – 10:30pm (Mon-Sun)
+Aamhi Marathi,"Maharashtrian, Malwani",3.8,(165),4.0,"(2,268)",Manjalpur,"2nd Floor, Sairutu Complex, Near Tulsidham Cross Road, Manjalpur, Vadodara","₹1,200","8am – 11pm (Mon),11am – 3pm, 7pm – 11pm (Tue-Sun)"
+Zeste - The Fern,"North Indian, Continental",4.1,(175),4.5,(252),Akota,"B/H Dinesh Mills Ltd, Akota, Vadodara","₹1,200","11am – 3pm, 7pm – 10:30pm (Mon-Sun)"
+Sankalp,"South Indian, Beverages",4.0,(221),3.9,"(1,111)",Vadiwadi,"101/102, Spentha Complex, Opposite Axis Bank, Race Course Road, Vadiwadi, Vadodara",₹750,11am – 11pm (Mon-Sun)
+Shyam Sundar Restaurant,"North Indian, Chinese, South Indian",3.9,(133),3.9,"(9,772)",Karelibaug,"Gf15, sai complex, opposite upwan heritage, khodiyarnagar, Vadodara",₹400,"11am – 5pm, 6pm – 1am (Mon-Sun)"
+Curry Country BBQ,"Mughlai, North Indian, Chinese, Italian",,,3.6,"(1,956 Reviews)",Diwalipura,"FF 101, Ojas Avenue, Vasna Jakat Naka, Vasna Road, Diwalipura, Vadodara",₹500,"12noon – 3pm, 6:30pm – 11pm (Mon, Tue, Wed, Fri..."
+Pizzini Pizza,Pizza,3.7,(224),4.0,"(4,932)",Kendranagar,"1st Floor, Vrundavan Heights, Near Parivar Char Rasta, Waghodia, Kendranagar, Vadodara",₹500,11am – 11pm (Mon-Sun)
+Salad Republic,"Healthy Food, Continental, Salad",4.0,(118),4.3,"(2,143)",Diwalipura,"12, Rk Plaza, Near New Court, Sainath Marg, Diwalipura, Vadodara",₹400,7am – 11pm (Mon-Sun)
+Udupi Restaurant,"South Indian, North Indian, Chinese",4.0,(184),4.0,"(1,107)",Fatehgunj,"Mangal Kirti Apartment, Ground Floor, Fatehgunj, Vadodara",₹400,7am – 10pm (Mon-Sun)
+Aamantran,Gujarati,3.8,(185),4.2,"(2,386)",Alkapuri,"38, Sampatrao Colony, Alkapuri, Vadodara",₹500,"11am – 3pm, 7pm – 10:30pm (Mon-Sun)"
+Sarvottam Restaurant,"North Indian, Fast Food",3.8,(194),4.1,"(2,269)",Nizampura,"Daksha Colony Road, Nizampura, Vadodara",₹600,11am – 10pm (Mon-Sun)
+Rajasthan Ice Cream and Kulfi,"Ice Cream, Beverages",3.8,(170),4.1,"(8,393)",Subhanpura,"33, Bajrang Society, Opposite Sitaram Complex, Subhanpura, Vadodara",₹150,11am – 7pm (Mon-Sun)
+Hungry Birds - Express,"North Indian, Fast Food",4.1,(203),3.8,"(3,650)",Subhanpura,"S Square Mall, Ellora Park, Subhanpura Main Road, Subhanpura, Vadodara",₹550,11am – 11pm (Mon-Sun)
+Shree Raj Rajeshwari Juice & Ice-cream,"Juices, Ice Cream",4.2,(221),4.2,"(1,694)",Fatehgunj,"21, Eastern Society, Fatehgunj Main Road, Fatehgunj, Vadodara",₹250,9:30am – 12midnight (Mon-Sun)
+Ramdev's Khana Khazana,"North Indian, Chinese",3.8,(120),3.9,"(3,568)",Subhanpura,"C/82, Ground Floor, Maa Ashapuri Hub, Near Bharucha Hospital, Opposite Jeevan Jyot Children Hospital, Subhanpura, Vadodara",₹300,11am – 10:30pm (Mon-Sun)
+Velvet Bakers,"Cafe, Fast Food, Coffee, Pizza, Beverages",3.6,(126),3.4,(749),Alkapuri,"31, Chandralok Society, Dr Rustom Cama Marg, Near Maruti Courier, Alkapuri, Vadodara",₹500,11am – 11pm (Mon-Sun)
+Gaylord Tea  Coffee Snacks,South Indian,4.0,(192),3.7,"(4,748)",Sayajigunj,"Opposite Railway Station, Sayajigunj, Vadodara",₹200,5am – 12midnight (Mon-Sun)
+ANNAPURNA CORNER,Fast Food,3.9,(174),4.0,"(3,453)",Makarpura,"Susen, Tarsali Ring Road, Makarpura, Vadodara",₹400,10am – 10pm (Mon-Sun)
+Chaa Ne Lari,"Cafe, Fast Food",3.7,(105),3.8,"(4,430)",Alkapuri,"Opposite Rajkot Nagrik Sahkari Bank, Back side Basement, Near Reliance Fresh, CH Jewelers Road, Alkapuri, vadodara",₹200,7am – 11:30pm (Mon-Sun)
+Real Paprika,"Pizza, Fast Food, Chinese",3.7,(153),3.4,"(2,697)",Nizampura,"J K Avenue, Opposite Axis Bank, Nizampura Main Road, Nizampura, Vadodara",₹500,"11am – 3:30pm, 6pm – 11:30pm (Mon-Sun)"
+New Alka Restaurant,"North Indian, South Indian, Chinese, Beverages",3.8,(215),4.1,"(7,050)",Diwalipura,"Vraj Square, Manisha Circle, Old Padra Road, Diwalipura, Vadodara",₹800,9am – 11pm (Mon-Sun)
+Nimantran Restaurant,"North Indian, Gujarati",3.9,(167),3.9,"(7,775)",Tarsali,"Susen Tarsali Ring Road, Tarsali, Vadodara",₹500,"11am – 3pm, 7pm – 11pm (Mon-Sun)"
+Starbucks Coffee,"Cafe, Coffee, Tea, Beverages, Desserts",4.1,(214),4.3,(145),Alkapuri,"Center Square Mall, Sayaji Path, Near Genda Circle, Alkapuri, Vadodara",₹700,8am – 11pm (Mon-Sun)
+Cafe Madras,"South Indian, North Indian",3.8,(127),3.6,"(1,320)",Sayajigunj,"Station Road, Sayajigunj, Vadodara",₹200,"8:30am – 10:30pm (Mon, Wed, Thu, Fri, Sat, Sun)..."
+Famous Neelkanth Juice,Beverages,3.6,(90),4.1,"(5,829)",Alkapuri,"E-9, Kashivishweshwar Township Complex, Jetalpur Road, Alkapuri, Vadodara",₹100,10:30am – 12:30am (Mon-Sun)
+Hotel Sudha,South Indian,4.2,(203),4.4,"(4,051)",Subhanpura,"Opp Ellora Milk Center, Subhanpura Main Road, Ellora Park, Subhanpura, Vadodara",₹150,"8am – 3pm, 6pm – 11pm (Mon-Sun)"
+US Pizza,"Pizza, Fast Food",3.9,(166),3.6,"(4,199)",Kendranagar,"4A, Ground Floor, Dhananjay Complex, Gajanan Park, Waghodia Road, Uma Char Rasta, Kendranagar, Vadodara",₹500,11am – 11pm (Mon-Sun)
+Apna Punjab,North Indian,4.0,(168),4.3,"(2,110)",Karelibaug,"B - 23, B H Complex, Karelibaug Road, Near Utkarsh Petrol Pump, Jay Santhoshi Nagar, Karelibaug, Vadodara",₹500,"11am – 3pm, 5pm – 11pm (Mon-Sun)"
+The Food Express,North Indian,3.6,(123),3.7,"(3,135)",Sayajipura,"8, Silver Point, Ajwa Road, Opposite IOCL Petrol Pump, Sayajipura, Vadodara",₹800,"11:30am – 3pm, 6:30pm – 11:30pm (Mon-Sun)"
+Aangan Restaurant,"Chinese, North Indian",3.9,(133),4.1,"(1,768)",Fatehgunj,"1-Basement, R K Centre, Fatehgunj Main Road, Opposite Saffron Tower, Fatehgunj, Vadodara",₹600,"11am – 3pm, 7pm – 10pm (Mon-Sun)"
+The Good Bowl,"Asian, North Indian, Biryani, Chinese, Desserts",3.5,(90),3.7,"(2,397)",Vadiwadi,"Shop 1, 2, Patriot Complex INOX Road, Ellora Park, Vadiwadi, Vadodara",₹500,10am – 1am (Mon-Sun)
+Pyarelal Kachori Wala,Fast Food,4.1,(292 Reviews),,,Mandvi,"Padmawati Chogan, Mangal Nagar, Vadodara, Mandvi, Vadodara",₹100,10am – 9:30pm (Mon-Sun)
+Raju Bhai Chhole Kulche,Fast Food,4.1,(178),4.3,"(4,896)",Alkapuri,"Chakli Circle, Near Gold Icon, Jetalpur Road, Alkapuri, Vadodara",₹200,11am – 11pm (Mon-Sun)
+Italian Willage,"Pizza, Fast Food",3.4,(140),3.6,(177),Alkapuri,"SB 13-16, Panorama Complex, RC Butt Road, Alkapuri, Vadodara",₹450,11am – 11pm (Mon-Sun)
+Mehfil-E-Paratha,North Indian,4.0,(166),4.2,"(2,343)",Kendranagar,"Uma Char Rasta, Jay Ranchod Society 3, Prabhat Nagar, Waghodia, Near Kendranagar, Vadodara",₹350,1:30pm – 11pm (Mon-Sun)
+Selfieccino,"Cafe, Fast Food",3.8,(148),3.6,(167),Fatehgunj,"Shop G3, Rosette Apartment, Opposite 7 Seas Mall, Fatehgunj, Vadodara",₹500,10am – 8pm (Mon-Sun)
+Singh's Delight,"North Indian, Mughlai",3.7,(108),3.8,"(2,212)",Fatehgunj,"Shop 4, Aman Squre, Behind Blue Diamond Complex, Near Fatehgunj Petrol Pump, Fatehgunj, Vadodara.",₹500,11am – 11pm (Mon-Sun)
+Sizzante- Sizzlers & More,Continental,3.8,(237),3.8,(53),Alkapuri,"Indraprastha Complex, 17- Urmi Society, Near Urmi Circle, Alkapuri, Vadodara",₹900,"12noon – 3pm, 7pm – 11pm (Mon-Sun)"
+The Honeyed Tale,"Healthy Food, Continental, Fast Food, Pizza, Desserts, Beverages",4.0,(80),3.5,(442),Alkapuri,"28, Ground Floor, Atlantis K 10 B, Sayaji Path, Near Genda Circle, Alkapuri, Vadodara",₹600,12noon – 12:30am (Mon-Sun)
+YammY's Kebabs & Curries,North Indian,3.5,(120),4.1,"(4,202)",Makarpura,"7A, Amish Park Shopping Center, Tarsali Ring Road, Makarpura, Vadodara",₹400,"10am – 3pm, 6pm – 11pm (Mon-Sun)"
+Fusion Dosa n More,South Indian,3.8,(140),3.8,"(1,733)",Akota,"Shop 213, Radhakrishna Shopping Centre, Near Radhakrishna Char Rasta, Akota, Vadodara",₹200,"12noon – 3pm, 6:30pm – 10:30pm (Mon-Fri),6:30pm..."
+Falafel Lovers,"Lebanese, Italian, Pizza, Mexican, Fast Food, Beverages",4.0,(173),4.2,(775),Diwalipura,"Shop 5, Benisun Commercial Complex, Near Chakli Circle, Old Padra Road, Diwalipura, Vadodara",₹600,11am – 11pm (Mon-Sun)
+Egg Station,Fast Food,3.5,(122),4.0,"(4,929)","M Cube Mall, Vadiwadi","9F, Satyam Arts, Beside Narayan Jewellers, Jetalpur Road, Alkapuri, Vadodara",₹300,8am – 12midnight (Mon-Sun)
+L'll Hideout Cafe,"Cafe, Fast Food",3.1,(112),3.9,(61),Diwalipura,"Prafulla Complex, Old Padra Road, Haribhakti Extension, Paris Nagar, Diwalipura, Vadodara",₹500,11am – 10pm (Mon-Sun)
+Hotel Durga,South Indian,4.0,(179),4.1,"(4,069)",Makarpura,"Opposite Panasonic Energy, Makarpura Road, Makarpura, Vadodara",₹500,"9am – 3pm, 6pm – 9:30pm (Mon-Sun)"
+Daily Dose Cafe,"Cafe, Beverages",3.8,(131 Reviews),,,Akota,"5/6 Sundervan Society, Besides Akota Stadium, Akota, Vadodara",₹250,11:30am – 11pm (Mon-Sun)
+Chai Bike,"Tea, Fast Food",,,4.0,"(4,383 Reviews)",Vadiwadi,"2/8, MIG Flats, Opposite Indraprastha Complex, Near LG Showroom, Inox Road, Ellora Park, Vadiwadi, Vadodara",₹200,"8am – 12midnight (Mon),1pm – 1am (Tue-Sun)"
+My Restaurant,North Indian,4.0,(231),4.1,(109),Diwalipura,"Soliter Complex, Near Manisha Char Rasta, Old Padra Road, Diwalipura, Vadodara",₹700,"11:20am – 3:10pm, 7pm – 11pm (Mon, Wed, Thu..."
+Baba Kitchen,"North Indian, Mughlai, Biryani, Chinese",,,3.4,"(3,244 Reviews)",Sayajigunj,"Joshi baxipaga, B/h. Pooja show room,NR. Mahesh printer, Sansthavsahat raopura,sayajigunj,vadodara.",₹200,11am – 4am (Mon-Sun)
+Pinxx - Royal Orchid Central,"North Indian, Continental, Odia, Gujarati",3.6,(136),3.5,"(1,698)",Akota,"Royal Orchid Central, Mujmahuda, Akota, Vadodara","₹1,200",10am – 10:30pm (Mon-Sun)
+Spiicy Biites,"Chinese, Pizza",3.0,(132),4.1,"(8,881)",Kendranagar,"22/A, Prabhat Colony, Opposite Cosmos Co-operative Bank Ltd, Waghodia Road, Kendranagar, Vadodara",₹300,11am – 11pm (Mon-Sun)
+Swad,"North Indian, Chinese",3.9,(150),4.1,"(1,374)",Alkapuri,"Hotel Shavshanti Towers, Opposite Curcuit House, R C Dutt Road, Alkapuri, Vadodara",₹800,"11am – 2:30pm, 7pm – 10:30pm (Mon-Sun)"
+Pendawala Duliram Ratanlal,Desserts,4.3,(263 Reviews),,,Mandvi,"Raopura 1 School, Mandvi, Vadodara",₹150,7am – 9pm (Mon-Sun)
+Oak Leaf,"North Indian, Chinese, Continental",3.7,(196),4.1,"(2,091)",Sama,"1st Floor, Siddharth Annexe Complex, Opposite Prasang Party Plot,  Sama-Savli Road, Sama, Vadodara",₹800,"11am – 3pm, 7pm – 11pm (Mon-Sun)"
+The VJ Cafe & Khichdi,"Cafe, North Indian, Fast Food, Beverages",4.0,(129),4.3,(870),Kendranagar,"07, Ground Floor, Aditya Square, Below Mehta Girls Hostel, Near Vrundavan Char Rasta, Kendranagar, Vadodara",₹400,"12midnight – 1am, 11am – 12midnight (Mon-Sun)"
+Rainbow Vada Pav,Fast Food,4.0,(146),4.2,"(3,343)",Mandvi,"Opposite Siddhivinayak Mandir, Near Bumia Butter, Dandia Bazar Road, Mandvi, Vadodara",₹100,10am – 9pm (Mon-Sun)
+Sam's Pizza,"Pizza, Italian",2.8,(145),4.0,"(1,327)",Alkapuri,"Opposite Circuit House, Alkapuri, Vadodara",₹500,11am – 11pm (Mon-Sun)
+Sach Me South Express,South Indian,3.9,(128),4.1,"(4,883)",Nizampura,"Opposite Radhika Farshan, Nizampura Char Rasta, Sardar Nagar, Nizampura, Vadodara",₹300,8am – 2am (Mon-Sun)
+Bombay Sandwich,Sandwich,,,4.4,(963 Reviews),Makarpura,"Dairy Circle, Near Baroda Dairy, Makarpura, Vadodara",₹150,10am – 11pm (Mon-Sun)
+Caffein cafe,Cafe,3.8,(138),4.3,(709),Diwalipura,"6,Gokul Society, Near Old Vasna Jakatnaka, Bhayli Road, Vadodara, Diwalipura, Vadodara",₹600,10am – 10:30pm (Mon-Sun)
+Manmohan Samosa,Fast Food,,,4.5,"(2,779 Reviews)",Fatehgunj,"Koti Char Rasta,  Fatehgunj, Vadodara",₹150,9am – 9pm (Mon-Sun)
+Fat Burgers,"Burger, Fast Food",,,3.4,"(1,540 Reviews)",Sayajigunj,"GF-12, Samanvay Silicon, Opp Goodies Cafeteria, Sayajigunj, Vadodara",₹300,"12:05am – 4am, 10am – 11:58pm (Mon),12:05am –..."
+Moti Mahal,"North Indian, Beverages",4.0,(104),4.2,(430),Vadiwadi,"Ground Floor 4, The Emerald, Haribhakti Colony, Race Course Circle, Vadiwadi, Vadodara","₹1,200","11am – 3pm, 7pm – 10pm (Mon-Sun)"
+Pizza Crust,"Pizza, Fast Food",4.0,(267),3.3,(756),Karelibaug,"B-1, Kapilakunj Apartment, Near Water Tank, Karelibaug, Vadodara",₹250,8am – 12:30am (Mon-Sun)
+Balubhai's Khaman,"Fast Food, Street Food, Gujarati",4.0,(187),4.4,"(4,947)",Diwalipura,"4-F, Anmol Plaza, Old Padra Road, Sukrutinagar, Near Diwalipura, Vadodara",₹400,8:45am – 8:15pm (Mon-Sun)
+Rolls Mania,"Rolls, Fast Food",3.9,(108),4.0,"(1,930)",Sayajigunj,"Shop 19, Samanvay Silicon, Opposite Kalyan Hotel, Sayajigunj, Vadodara",₹300,"Closed (Mon),1pm – 12midnight (Tue-Sun)"
+So South,South Indian,2.3,(142),3.9,(891),Diwalipura,"101, Sapphire Complex, Near Tube Company, Old Padra Road, Diwalipura, Vadodara",₹400,12noon – 11pm (Mon-Sun)
+Gypsy Grand,"North Indian, Chinese, Italian",3.8,(146),4.0,"(2,573)",Makarpura,"101/102, Pancham Avenue, Susen-Tarsali Ring Road, Near Essar Petrol Pump Makarpura, Vadodara",₹600,8am – 11pm (Mon-Sun)
+Dairy Den,"Ice Cream, Fast Food",4.0,(186),4.4,(195),Sayajigunj,"Near Sardar Patel Statue, Sayajigunj, Vadodara",₹350,10am – 12midnight (Mon-Sun)
+Dairy Den,"Ice Cream, Fast Food",4.0,(186),4.4,(195),Sayajigunj,"Near Sardar Patel Statue, Sayajigunj, Vadodara",₹350,10am – 12midnight (Mon-Sun)
+Regal Restaurant,North Indian,4.0,(217),4.5,(262),Alkapuri,"Ground Floor 1&2, Siddhivinayak Complex, Opposite Railway Station West, Alkapuri, Vadodara",₹600,11am – 1am (Mon-Sun)
+Hungry Birds,Fast Food,3.8,(154),3.9,"(2,803)",Vadiwadi,"5, Patriot Complex, Near Inox Race Course Circle, Vadiwadi, Vadodara",₹500,11am – 11pm (Mon-Sun)
+Freshco's - The Health Cafe,"Cafe, Healthy Food, Coffee",3.8,(121),4.3,"(3,194)",Vadiwadi,"Next to Subway, Near Citi Bank, Race Course Road, Vadiwadi, Vadodara",₹600,7am – 11pm (Mon-Sun)
+Veera De Kulche,North Indian,,,4.0,"(2,086 Reviews)",Karelibaug,"4- Veer Nagar, V I P Road, Karelibaug, Vadodara",₹350,"12midnight – 12:01am, 12:02pm – 12midnight..."
+Nanking Chinese,Chinese,4.0,(227 Reviews),,,Karelibaug,"Shop 19 & 20, NBCC Plaza, Near Vooda Circle, Utkarsh Petrol Pump, Karelibaugh, Vadodara",₹200,7pm – 11pm (Mon-Sun)
+Punjabi Rasoi - The Food Factory,North Indian,3.6,(100),3.8,"(2,171)",Alkapuri,"E9, Kashivishweshwar Township, Jetalpur Road, Alkapuri, Vadodara",₹550,11am – 11pm (Mon-Sun)
+World of Waffles,Desserts,3.7,(108),4.5,(465),"Inorbit Mall, Subhanpura","2nd Floor,Food Court, Inorbit Mall, Alembic Gowra Road, Subhanpura, Vadodara",₹250,11am – 11pm (Mon-Sun)
+Kheteshwar Sweet & Farsan Mart,"Mithai, Desserts",,,4.3,"(5,572 Reviews)",Subhanpura,"G-1/2, Vardhman Complex, Near Jain Derasar, Main Road, Subhanpura, Vadodara",₹100,7am – 9pm (Mon-Sun)
+Rolling Cones,"Ice Cream, Desserts",3.7,(120),4.1,(345),Vadiwadi,"Leader House, Behind Trident Complex, Ellora Park, Vadiwadi, Vadodara",₹250,1pm – 12:30am (Mon-Sun)
+Gwalia Sweets,"Mithai, North Indian, Chinese, Fast Food, Beverages",3.6,(93),3.7,"(1,156)",Alkapuri,"Shop 1, Emerald Building, Near Bird Circle, Vadodara",₹300,10am – 10pm (Mon-Sun)
+Versatile Bakers,Bakery,3.4,(77),3.6,"(1,593)",Subhanpura,"Park Plaza Complex, Samta, Subhanpura, Vadodara",₹400,"9am – 11:55pm (Mon-Sat),9am – 10pm (Sun)"
+Hari Om Dalbati,Rajasthani,4.0,(106),4.5,"(2,267)",Sama,"GF-27/28, Siddharth Annexe 2, Opposite Indian Petrol Pump, Sama Savli Road, Sama, Vadodara",₹300,"11am – 3:30pm, 6:30pm – 11pm (Mon-Sun)"
+Red China,"Chinese, Fast Food",3.7,(99),3.9,"(4,080)",Karelibaug,"Shesh Narayan Complex, New VIP Road, Karelibaug, Vadodara",₹200,"11:14pm – 11:55pm (Mon),12midnight – 2am, 1pm..."
+C.N. Bumiya,Mithai,,,4.2,"(2,357 Reviews)",Mandvi,"Dandiya Bazar Main Road,",₹200,8am – 7pm (Mon-Sun)
+The Pizza Box,"Italian, Pizza",3.6,(102),4.2,"(1,619)",Diwalipura,"Gf 3, Siddharth excellence,  Opposite subway, near D-Mart, Vasna Road, Diwalipura, Vadodara",₹600,11:30am – 10:30pm (Mon-Sun)
+The Cake Love,"Desserts, Bakery",,,3.6,(85 Reviews),Manjalpur,Delivery Only,₹400,9am – 9pm (Mon-Sun)
+Baroda Food Express,"Chinese, North Indian, Mughlai",3.9,(120),3.7,"(2,735)",Sayajipura,"GF-4, Amber Complex, Near Mahavir Hall Cross Road, Ajwa Road",₹600,"11am – 4pm, 6:30pm – 1am (Mon-Sun)"
+Havmor - The Eatery,"Pizza, Sandwich, Fast Food, Street Food",4.1,(211 Reviews),,,Diwalipura,"56, Punit Nagar Society, Old Padra Road, Diwalipura Crossing, Vadodara",₹600,11am – 11pm (Mon-Sun)
+Cravers,North Indian,,,3.7,"(2,959 Reviews)",Fatehgunj,"A44, Suhvas Nagar Colony, Near Convent School, Fatehgunj, Vadodara",₹500,"12midnight – 4am, 8pm – 12midnight (Mon-Sun)"
+Cheelizza- India Ka Pizza,"Italian, Pizza, Fast Food",4.1,(103),4.5,"(1,369)",Fatehgunj,"Ground Floor, Sai Prasad Building, Opposite Methodist Church, Abbas Tayabji Road, Fatehgunj, Vadodara",₹600,"10am – 11pm (Mon-Fri),10am – 12midnight (Sat-Sun)"
+Swad Quality Food,"North Indian, Biryani",,,3.8,"(3,720 Reviews)",Kendranagar,"Shop 1, Dex Plaza, Near Zaver Nagar Bus Stand, Waghodia Road, Kendranagar, Vadodara",₹200,"11:30am – 4pm, 7:30pm – 10pm (Mon-Sat),11:30am..."
+Sabir Omlet Center,Street Food,4.1,(161),4.2,"(3,220)",Sayajipura,"Shop 4, Amber Complex, Ajwa Road, Sayajipura, Vadodara",₹200,5pm – 12midnight (Mon-Sun)
+Hotel Shyam Sundar,North Indian,3.6,(63),3.5,"(4,452)",Mandvi,"Shop 100, Padmavathi Shopping Complex, Behind New Larilappa, Lehripura, Mandvi, Vadodara",₹400,10am – 12midnight (Mon-Sun)
+The Bombay Kitchn & Sanjha Chula,"Chinese, Malwani, North Indian",3.9,(110 Reviews),,,Gotri,"Ankodia Road, Khanpur, Near Sewasi Police Chowki, Behind Sears Tower, Gotri, Vadodara","₹1,100",7pm – 11pm (Mon-Sun)
+Chatoree,"Street Food, North Indian, Chinese",3.9,(111),3.8,"(1,266)","Inorbit Mall, Subhanpura","2nd Floor, Inorbit Mall, Subhanpura, Vadodara",₹300,11am – 11pm (Mon-Sun)
+Bali's cafe,"Cafe, Fast Food, Sandwich, Chinese",3.7,(111),4.1,"(1,318)",Vadiwadi,"Atlantis Heritage, Sarabhai Main Road, Vadiwadi, Vadodara",₹500,"11am – 1am (Mon),11am – 11pm (Tue-Sun)"
+Bombay Vadapav,Street Food,3.8,(133),4.1,"(3,801)",Akota,"G-7, Siddharth Patel Square, Malhar Point, O P Road, Akota, Vadodara",₹100,"11am – 8pm (Mon-Sat),Closed (Sun)"
+Bakers & Brewers Co.,"Cafe, Pizza, Sandwich, Fast Food, Coffee, Beverages",3.8,(95),4.2,"(2,178)",Gotri,"GF 13, Darsanam Arise, opposite brands factory, Gotri Sevasi Raod, Gotri, Vadodara",₹600,"12:30pm – 12midnight (Mon, Tue, Wed, Thu, Fri..."
+24 Carats - Hotel Express Towers,"North Indian, Chinese, Continental",3.8,(106),3.6,(106),"Hotel Express Towers, Alkapuri","Hotel Express Towers, R.C. Dutt Road, Alkapuri, Vadodara",₹800,7:30am – 8:30pm (Mon-Sun)
+Brown Grill Foods,"Burger, Pizza, Sandwich, Beverages",,,4.2,"(2,821 Reviews)",Sayajigunj,"SB/12, Bluechip Complex, Sayajigunj, Vadodara",₹300,11am – 2am (Mon-Sun)
+William John's Pizza,Pizza,3.8,(195),4.3,(294),Manjalpur,10.11.12 SAI RUTU COMPLEX,₹500,11am – 11pm (Mon-Sun)
+Aryan Restaurant,"North Indian, Chinese, Biryani",3.6,(103),3.5,"(4,098)",Nizampura,"Aryan Restaurant & Fitness Gym Police Station, 86, Jaitoon Nagar, Old Chhani Road, Vadodara",₹450,11am – 11pm (Mon-Sun)
+Dakshin Brahmins,South Indian,4.0,(218),4.2,"(1,370)",Karelibaug,"Shop 13 & 14, Ground Floor, Bricklane Complex, Opposite Ratri Bazar, Karelibaug, Vadodara",₹600,"9am – 3pm, 6:30pm – 11pm (Mon-Sun)"
+Pizza Land,"Pizza, Beverages",,,3.8,(983 Reviews),Vadiwadi,Delivery Only,₹500,8am – 4am (Mon-Sun)
+Premvati,"South Indian, Italian, Chinese, Indian, Gujarati",4.2,(224 Reviews),,,Akota,"F-14/35, Padra Road, Narayanwadi, Atladara, Akota, Vadodara",₹400,8:30am – 10:30pm (Mon-Sun)
+Marcos Da Pizza,"Pizza, Italian",,,4.0,"(2,809 Reviews)",Alkapuri,"Ground Floor, 04, Shagun Exotica, 57, Alkapuri Society, Alkapuri, Vadodara",₹400,"12midnight – 3am, 11am – 12midnight (Mon-Sun)"
+Green City Family Restaurant,"North Indian, Chinese",3.8,(107),4.1,"(2,426)",Nizampura,"1, Natasha Park, Opposite State Bank, Near Chhani Jakatnak, Nizampura, Vadodara",₹600,10am – 9pm (Mon-Sun)
+RSVP - The Lounge,"Chinese, Mexican, Fast Food",3.3,(131 Reviews),,,Vadiwadi,"B/18, Suryanagar Society, Rameshwar Temple Road, Ellora Park, Subhanpura Vadodara",₹600,"11am – 3pm, 7pm – 11pm (Mon-Sun)"
+Mamu's Infusion,"North Indian, Italian, Continental",4.1,(101),4.3,"(1,150)",Diwalipura,"C M Patel Plaza, Opposite Collabera, B/H Audi Showroom, Kalali Main Road, Diwalipura, Vadodara",₹900,11am – 11pm (Mon-Sun)
+Froozo,"Fast Food, Desserts, Beverages",3.9,(116),3.5,"(1,175)",Vadiwadi,"2nd floor,MIG flates Behind Mr Toasties, Near Inox, Race Course Road, Vadoodara",₹600,11:30am – 4am (Mon-Sun)
+SSR South Corner,Fast Food,3.8,(111),4.1,"(1,817)",Akota,"Near Akota Garden, Akota, Vadodara",₹350,"7am – 3pm, 6pm – 11pm (Mon-Sun)"
+Tadka Punjab Ka,North Indian,,,3.7,"(4,524 Reviews)",Diwalipura,Delivery Only,₹400,11:30am – 11pm (Mon-Sun)
+Muffins - Hotel Express Towers,Bakery,,,4.3,"(1,193 Reviews)","Hotel Express Towers, Alkapuri","Hotel Express Towers, R.C. Dutt Road, Alkapuri, Vadodara",₹300,7:30am – 12:30am (Mon-Sun)
+DNS- Desserts N Shakes,"Ice Cream, Beverages",3.8,(77),4.3,"(2,044)",Fatehgunj,"8, Ground Floor, Saffron Complex, Fatehgunj, Vadodara",₹400,10:30am – 2am (Mon-Sun)
+Satyavijay Farsan,Fast Food,,,4.0,"(3,634 Reviews)",Mandvi,"Satyvijay Farsan, Rajmahal Road, Mandvi, Vadodara",₹200,8:30am – 9:30pm (Mon-Sun)
+Tandoori Flames,"North Indian, Chinese",3.9,(99),4.0,"(2,593)",Nizampura,"Siddharth Elegance, Above Zummerwala TVS Show Room, Chhani Main Road, Nizampura, Vadodara",₹400,"11am – 3pm, 6pm – 11pm (Mon-Sun)"
+Laajawab Punjabi Veg,North Indian,3.9,(116),4.3,"(1,398)",Navapura,"Sai Sagar Apartment, R. V. Desai Road, Near Reliance Petrol Pump, Navapura, Vadodara",₹500,10am – 9pm (Mon-Sun)
+Bismillah,"Desserts, Beverages",3.9,(156),4.3,"(2,187)",Diwalipura,"1, Shivdarshan Society Vasna Road, Vasna, Diwalipura, Vadodara",₹250,"12noon – 11:45pm, 12midnight – 12:30am (Mon-Sun)"
+Aamhi Marathi,"Maharashtrian, Malwani",3.8,(165),4.0,"(2,268)",Manjalpur,"2nd Floor, Sairutu Complex, Near Tulsidham Cross Road, Manjalpur, Vadodara","₹1,200","8am – 11pm (Mon),11am – 3pm, 7pm – 11pm (Tue-Sun)"
+Citrus Cafe - Lemon Tree Hotel,"North Indian, Chinese, Gujarati, Continental",3.7,(104 Reviews),,,Sayajigunj,"Lemon Tree Hotel, Opposite Parsi Agyari, Sayajigunj, Vadodara","₹1,100",7am – 10:45pm (Mon-Sun)
+MS Food Point,South Indian,4.1,(158),3.6,(417),Bhayli,"FF/04, Petal Trillium, Before Navrachana International School, Bhayli, Gotri, Vadodara",₹350,9am – 9pm (Mon-Sun)
+The Shakes Factory,"Cafe, Italian, Beverages",,,3.8,"(1,132 Reviews)",Karelibaug,"Shop 3, Indraprasth Complex, VIP Road, Karelibaug, Vadodara",₹300,12:30pm – 10:30pm (Mon-Sun)
+New Milan Tawa Fry,North Indian,3.4,(86),3.5,"(3,852)",Diwalipura,"C-4, Aaisha Park 1, Opposite Patrakar Society, JP Police Station Road, Tandalja, Diwalipura, Vadodara",₹200,10am – 11pm (Mon-Sun)
+Maharashtra Restaurant,"Gujarati, North Indian",3.7,(94),4.4,"(1,755)",Mandvi,"Near Brahamapuri Vyayam Shala, Dandia Bazar, Mandvi, Vadodara",₹300,"10:30am – 3:30pm, 6:30pm – 10pm (Mon-Sun)"
+Bombay Sandwich Cafe,"Cafe, Fast Food, Street Food",3.7,(107),3.9,"(1,054)",Fatehgunj,"Fatehgunj Main Road, Fatehgunj, Vadodara",₹500,11am – 11pm (Mon-Sun)
+Famoso,"Fast Food, Pizza, Sandwich, Burger",3.9,(99),4.2,"(3,835)",Kendranagar,"Famoso Food Van, 105 Radha Krishna Flat Near Dmart Waghodia Road, Kendranagar, Vadodara",₹150,9am – 12midnight (Mon-Sun)
+Sam's Frankie,Fast Food,4.1,(129),4.5,"(3,406)",Subhanpura,"B4, Amit Complex, Opposite Panchratna, Subhanpura, Vadodara",₹300,10am – 11pm (Mon-Sun)
+Turban Tadka,North Indian,,,3.4,"(1,274 Reviews)",Alkapuri,"12 Mcube Mall, Near Vijay Sales, Jetalpur Road, Alkapuri, Vadodara",₹800,"11am – 3pm, 8pm – 12:30am (Mon-Sun)"
+Shaan-E-Punjab,North Indian,3.8,(89),3.7,"(2,493)",Karelibaug,"C 20, Dayal Nagar Society, Beside Modi Medical, Below Mannapuram Bank, Harni-Warasiya Ring Road, Karelibaug, Vadodara",₹400,12noon – 9pm (Mon-Sun)
+Paras Pan House,Paan,,,4.2,"(1,901 Reviews)",Alkapuri,"Windsor Plaza, RC Dutt Road, Alkapuri, Vadodara",₹100,10am – 12midnight (Mon-Sun)
+Kababish,"Mughlai, North Indian",3.7,(74),3.6,(57),Diwalipura,"G-8 Racecourse Towers, Opposite Citi Bank, Diwalipura, Vadodara",₹700,"11am – 3pm, 6pm – 1am (Mon-Sun)"
+Taste of Punjab,North Indian,3.6,(110),4.0,"(2,562)",Akota,"Gajanan Complex, Old Padra Road, Opposite Tube Company, Sheetal Nagar, Akota, Vadodara",₹200,"11am – 3pm, 6pm – 11pm (Mon-Sun)"
+Fountain Fast Food,"North Indian, Biryani, Chinese, Fast Food, Pizza",3.8,(109),3.5,"(4,583)",Nizampura,"A44 suvash colony near blue lagoon hotel fategunj main road, Fatehgunj, Vadodara",₹200,11am – 3am (Mon-Sun)
+Dhadoom,"Fast Food, Italian, Chinese",3.7,(89),3.9,(652),"Inorbit Mall, Subhanpura","2nd Floor, Inorbit Mall, Gorwa, Vadodara",₹400,11am – 11pm (Mon-Sun)
+Punjabi Khana Khazana,North Indian,3.8,(75),3.9,"(2,626)",Sayajigunj,"GF-05&06, Shreerang Plaza, Near Suraj Plaza, Kadak Bazar, Sayajigunj, Vadodara",₹200,"11am – 3:30pm, 7pm – 10:30pm (Mon-Sun)"
+Krishna Restaurant,"Chinese, North Indian",3.8,(119),4.2,"(2,506)",Kendranagar,"Parivar Char Rasta, Waghodia-Dabhoi Ring Road, Kendranagar, Vadodara",₹300,11am – 11pm (Mon-Sun)
+HanuRam Foods,"North Indian, Fast Food, Gujarati, Chinese, Mithai, South Indian",4.0,(141),4.1,"(1,391)",Makarpura,"464, G.I.D.C Industrial Estate, GCEL Main Road, Makarpura, Vadodara",₹300,9:30am – 7:30pm (Mon-Sun)
+Sugar N Spice,"North Indian, Chinese, South Indian",3.5,(106),4.0,(719),Karelibaug,"1st Floor, Narayan Elegance, Near Sangam Char Rasta, Harni Airport Road, Karelibaug, Vadodara",₹500,"11am – 3pm, 7pm – 10:30pm (Mon-Sun)"
+Delhi 6 Chaat Wala,"Street Food, Fast Food",3.5,(69),3.8,(775),Subhanpura,"Shop 13, Manhar Park, Opposite Sudhan Lakshmi Jain Society, Subhanpura, Vadodara",₹200,9am – 9pm (Mon-Sun)
+Saladify,"Fast Food, Sandwich, Salad",3.8,(110),3.8,(850),Akota,"Gajanand Complex, OP Road, Akota, Vadodara",₹200,"12:01am – 1am, 10am – 12midnight (Mon-Sun)"
+Vijay Shrikhand Samrat,Mithai,,,4.4,"(1,492 Reviews)",Mandvi,"Dandia Bazar, Piramitar Road Naka, Opposite Corporation Bank, Mandvi, Vadodara",₹200,9am – 9pm (Mon-Sun)
+Anjoy The Family Restaurant,"North Indian, Chinese, Maharashtrian",3.7,(106),4.2,(889),Alkapuri,"Jetalpur Road, Alkapuri, Vadodara",₹600,"11am – 3pm, 7pm – 10:30pm (Mon-Sun)"
+Indian Salt,"North Indian, Chinese, South Indian",4.1,(134),3.9,"(2,286)",L&T Knowledge City,"1st Floor, Taksh Galaxy Mall, NH 8, L&T Knowledge City, Vadodara",₹850,11am – 11pm (Mon-Sun)
+Charmant-The Heritage Café,"Cafe, Fast Food, Beverages",4.0,(66 Reviews),,,Alkapuri,"Contractor's Bungalow, Opposite Railway Booking Office, Faramji Road, Alkapuri, Vadodara",₹700,11am – 11pm (Mon-Sun)
+Elysian: The Bistro Lounge,"Asian, Burger, Cafe, Chinese, Fast Food, Italian, Mexican, Pizza",3.6,(98),4.2,(184),Vadiwadi,"FF 108, Golden Icon, Opposite BSNL, Chakli Circle, Vadiwadi, Vadodara",₹650,"11am – 3pm, 7pm – 11pm (Mon-Sun)"
+Jalaram Lassi Center And Khaman House,"Street Food, Beverages",4.1,(208),4.3,"(2,424)",Subhanpura,"4, National Flat, Ellora Park, Subhanpura, Vadodara",₹200,8am – 7pm (Mon-Sun)
+Jay Bhavani Punjabi Khana,North Indian,3.7,(88),3.5,"(3,939)",Gotri,"Shop 1, B Tower Signet Plaza, Kunal Char Rasta, Gotri, Vadodara",₹300,"11am – 3pm, 6pm – 11pm (Mon-Sun)"
+The Baking Company,"Bakery, Desserts",3.9,(88),3.9,(78),Diwalipura,"Shop 3, Pancham icon, Near Vasna D Mart, Diwalipura, Vadodara",₹200,"Closed (Mon),9am – 9pm (Tue-Sun)"
+Baskin Robbins,"Ice Cream, Desserts, Beverages",3.7,(59),4.4,"(1,666)",Alkapuri,"9F, Satyam Arts, Beside Narayan Jewellers, Jetalpur Road, Alkapuri, Vadodara",₹200,11am – 11pm (Mon-Sun)
+Yummy Frankie,Street Food,3.9,(175 Reviews),,,Fatehgunj,"Beside Anjali Restaurant, Fatehgunj, Vadodara",₹100,10am – 9pm (Mon-Sun)
+Honest,"North Indian, Street Food",2.7,(145),4.0,"(2,793)",Kendranagar,"Ground Flooe & First Floor, Diamond Complex, Near Vallabh Vidhya Mandir, Waghodia Ring Road, Kendranagar, Vadodara",₹500,11am – 12midnight (Mon-Sun)
+KGN Fast Food,"Street Food, Biryani, Chinese, Fast Food, North Indian, Mughlai",3.8,(115),3.4,(696),Alkapuri,"C 58, Atlantis K 10, Near Genda Circle, Alkapuri, Vadodara",₹350,11am – 10pm (Mon-Sun)
+Natural Juice,"Beverages, Juices",3.8,(51),3.8,"(2,003)",Alkapuri,"50, First Floor, Sampatrao Colony, Alkapuri, Vadodara",₹150,24 Hours (Mon-Sun)
+Taste Of Bombay Sandwich,"Sandwich, Fast Food, Beverages",3.8,(102),4.0,"(4,319)",Manjalpur,"GF-16, Silver Rock Complex, Behind Makarpura Police Station, Manjalpur, Vadodara",₹350,"12midnight – 2am, 12:02pm – 12midnight (Mon-Sun)"
+Rajasthan Ice Cream Parlour,"Ice Cream, Beverages",4.1,(124),4.3,"(2,068)",Navapura,"Shop 3, Aaram Complex, Opposite Polo Ground, Kirti Stambh, Navapura, Vadodara",₹200,11am – 11pm (Mon-Sun)
+Cafe 3' Trio,"Cafe, Pizza, Italian",3.5,(107),3.2,"(2,553)",Kendranagar,"103, Vraj Residency, Above A-One Sport Saloon, Near Gurukul Char Rasta, Dabhoi- Waghodia Ring Road, Kendranagar, Vadodara",₹450,12:01pm – 3am (Mon-Sun)
+Hotel Gurudev,South Indian,4.1,(172 Reviews),,,Mandvi,"Raopura, Dandia Bazaar, Mandvi, Vadodara",₹200,"8am – 10pm (Mon, Tue, Wed, Fri, Sat, Sun), Closed..."
+Jay Hind Restaurant,Fast Food,3.3,(46),4.2,"(2,465)",Mandvi,"Opposite Kumar Shala 1, Raopura, Mandvi, Vadodara",₹100,10am – 9pm (Mon-Sun)
+Chacha Bombay Wala,Street Food,3.8,(101),3.9,"(1,883)",Nizampura,"Bharati Nagar, Kanchan Studio Near Chhani Jakatnaka, Nizampura, Vadodara",₹400,7pm – 11pm (Mon-Sun)
+Rutu  Ice Cream,"Desserts, Ice Cream",3.8,(67),3.7,"(2,047)",Diwalipura,"G/1, MSA House, Near Manisha Society, Manisha Chokdi, Diwalipura, Vadodara",₹200,10am – 1am (Mon-Sun)
+Bombay Seekh Paratha,North Indian,3.9,(94),4.1,"(1,635)",Diwalipura,"KGN Shopping Centre, Tandalja Vasna Road, Opposite SBI Bank, Tandalja, Near Diwalipura, Vadodara",₹200,8am – 11pm (Mon-Sun)
+Khichdi Etc,"Healthy Food, Gujarati",3.7,(80),4.3,"(2,199)",Vadiwadi,"Shop 4, GF, Trivia Complex, Natubhai Circle, Vadiwadi, Vadodara",₹600,"11am – 4pm, 7pm – 11pm (Mon-Sun)"
+The Sandwich & Fast Food,"Sandwich, Fast Food",3.9,(88),4.2,"(3,289)",Sayajigunj,"3, Prestige Complex, Opposite Suraj Plaza, Sayajigunj, Vadodara",₹100,11am – 12midnight (Mon-Sun)
+Freshco's - The Health Cafe,"Cafe, Healthy Food, Coffee",3.8,(121),4.3,"(3,194)",Vadiwadi,"Next to Subway, Near Citi Bank, Race Course Road, Vadiwadi, Vadodara",₹600,7am – 11pm (Mon-Sun)
+Al Karimi Chicken Sawarma,Fast Food,3.8,(100),4.3,"(1,006)",Akota,"Shop no 6 ,Saptgiri Apartment Opp Taj Hotel, Akota Village, Akota, Vadodara",₹150,4pm – 11pm (Mon-Sun)
+Thakor Omlet Restaurant,Fast Food,3.7,(76),4.1,"(1,816)",Karelibaug,"Karelibaug Water Tank, Opposite Gunjan Sev Usal, Karelibaug, Vadodara",₹150,11am – 11pm (Mon-Sun)
+Shree Rajubhai Panjabi Dhaba,North Indian,3.7,(94),3.9,"(2,408)",Diwalipura,"Shop 15- 16, Mamta Shopping Centre, Opposite Meridian Hospital, Diwalipura, Vadodara",₹500,"11am – 4pm, 7pm – 12:30am (Mon-Sun)"
+Gateway All Day - The Gateway Hotel Vadodara,"Continental, European, North Indian, Chinese",4.2,(124 Reviews),,,"Vivanta Vadodara, Akota","The Taj Gateway Hotel, Akota Gardens, Near Old Gym, Productivity Road, Sheetal Nagar, Akota, Vadodara","₹2,500","7am – 10:30am, 12noon – 3pm, 7pm – 11pm (Mon-Sun)"
+Pizzo Matic,Fast Food,,,4.3,"(2,026 Reviews)",Akota,"GF-3, Giya Park Society, Sahajanand Road, Near Ward Number 06, Mujmahada Garden Road Side Munjmahuda, Vadodara",₹350,7pm – 5am (Mon-Sun)
+Cafe Royal,"North Indian, Chinese, Street Food, Sandwich, Rolls",4.0,(81),3.9,"(1,348)",Fatehgunj,"6, Ground Floor, Sai Vihar Apartments, Opposite Emperor Complex, Fatehgunj, Vadodara",₹500,11am – 9:30pm (Mon-Sun)
+Urban Brewery,Cafe,3.7,(67),3.9,(47),Diwalipura,"4, Mangal Murti Society, Shakti Nagar, Saiyed Vasna, Diwalipura, Vadodara",₹500,11am – 11pm (Mon-Sun)
+Amritsari Kulcha,"Fast Food, North Indian",3.2,(95),3.7,"(2,808)",Gotri,"Opposite Signet Plaza, Kunal Char Rasta, Gotri, Vadodara",₹200,"7pm – 11pm (Mon-Fri),12noon – 3pm, 7pm – 11pm..."
+De Courtyard,"North Indian, Italian, Chinese",3.8,(61),4.0,(327),Akota,"Pramukh Swami Park, Opposite Sandhesra Estate, Atladara, Near Akota, Vadodara","₹1,000","11am – 3pm, 6:30pm – 11pm (Mon-Sun)"
+Egg 8,Fast Food,3.7,(103),3.9,"(1,611)",Subhanpura,"D/301,vimalnath comlex Near Jain temple subhanpura, Vadodara",₹250,11am – 11pm (Mon-Sun)
+Shree Maruti Restaurant & Banquets,"Gujarati, Rajasthani, North Indian",3.8,(82),4.2,"(2,746)",Vadiwadi,"4A, Ajanta Society, Behind Trident Complex, Besides Central Bank, Ellora, Near Vadiwadi, Vadodara",₹600,"11am – 3pm, 7pm – 11pm (Mon-Sun)"
+Stellar Kitchen,North Indian,3.8,(112),4.4,(356),Karelibaug,"Mahakali Mandir Compound, Near Airport Circle, New VIP Road, Karelibaug, Vadodara",₹900,"11:30am – 3pm, 6:30pm – 11pm (Mon-Sun)"
+Kalaghoda- Effotel By Sayaji,"North Indian, Mughlai",3.9,(88 Reviews),,,Sayajigunj,"Effotel By Sayaji, Kalaghoda Circle, Sayajigunj, Vadodara","₹1,000",6:30am – 11pm (Mon-Sun)
+Bombay Sandwich Bites,Fast Food,4.0,(161 Reviews),,,Alkapuri,"SB-2, Centre Point, R.C. Dutt, Alkapuri, Vadodara",₹200,9am – 11pm (Mon-Sun)
+Mahakali Sev Usal,Fast Food,3.5,(79),4.0,"(4,810)",Manjalpur,"A/1, 4 Samanvay Saptarshi, Old More Mega Store, Manjalpur, Vadodara",₹100,8am – 10pm (Mon-Sun)
+The Peri-Peri Club,"Portuguese, Continental",3.9,(136),3.9,(479),Diwalipura,"Ground Floor, Shop No 1-2, Blanca Complex, Opposite Rajlaxmi Society, Old Padra Road, Diwalipura, Vadodara",₹500,11am – 1:45am (Mon-Sun)
+Kaffeine Express,"Beverages, Fast Food",3.8,(109),3.9,"(1,665)",Suryanagar,"10, Shreeji Villa Complex, Near D'Mart, Dabhoi Ring Road, Suryanagar, Vadodara",₹300,11am – 11pm (Mon-Sun)
+Whatta Waffle!,"Desserts, Fast Food, Pizza, Mexican, Ice Cream, Beverages",4.4,(128),4.3,"(1,064)",Alkapuri,"4, Meghdhanush Complex, Race Course Road, Near Mirch Masala Restaurant, Chakli Circle, Alkapuri, Vadodara",₹300,11am – 4am (Mon-Sun)
+Kalapi Sweet & Farsan,Mithai,,,4.4,"(4,323 Reviews)",Kendranagar,"Vallabh Complex, Near Kaladarshan Char Rasta, Mahanagar Society, Kendranagar, Vadodara",₹300,8am – 9pm (Mon-Sun)
+Assal Larilappa,"Ice Cream, Beverages",3.6,(86),4.4,"(2,768)",Mandvi,"131, Padmavathi Shopping Complex, MG Road, Near Nyay Mandir, Bajwada, Mandvi, Vadodara",₹250,10am – 10:30pm (Mon-Sun)
+Ziiro Restaurant & Cafe,"Fast Food, Beverages, Pizza, Sandwich",3.7,(98),3.9,"(2,050)",Kendranagar,"Uma Char Rasta, Waghodia Road, Kendranagar, Vadodara",₹500,9:20am – 9:45pm (Mon-Sun)
+Balli's Food Corner,"Chinese, Fast Food, North Indian",4.0,(125),3.7,(761),Diwalipura,"R K Plaza, Diwalipura, Sainath Marg, Diwalipura, Vadodara",₹350,8am – 10pm (Mon-Sun)
+Only Parathas,"North Indian, Chinese, South Indian",,,3.9,"(4,048 Reviews)",Alkapuri,"14, Sudha Nagar Society, Beside Gordhan Thal, Jetalpur Road, Alkapuri",₹600,10am – 2am (Mon-Sun)
+Cake Bakebon,Bakery,,,4.3,"(1,084 Reviews)",Nizampura,Delivery Only,₹350,"12midnight – 12:30am, 9:30am – 12midnight (Mon-Sun)"
+Pizza Meo,Pizza,3.7,(106),3.4,(140),Sayajigunj,"Kalyan Hotel, Sayajigunj, Vadodara",₹400,8am – 9:30pm (Mon-Sun)
+Cake Bonzer Bites,"Bakery, Desserts",,,4.1,"(2,248 Reviews)",Alkapuri,"9, 1st Floor, Ankur Apartment, Jetalpur Road, Beside Trisha Gallery, Alkapuri, Vadodara",₹500,8am – 2am (Mon-Sun)
+Lazeez Shawarma,Lebanese,4.1,(124),4.2,"(1,387)",Akota,"Opposite Taj Hotel, Productivity Road, Akota, Vadodara",₹200,6:30pm – 11pm (Mon-Sun)
+Cream & More,"Desserts, Ice Cream",3.7,(91),4.3,(516),Vadiwadi,"3, C.C Patel Square, Behind Trident Complex, Ellora Park, Vadiwadi, Vadodara",₹300,11am – 1am (Mon-Sun)
+Punjabi Junction,North Indian,3.6,(66),3.7,(914),Alkapuri,"Hotel GenX 7, Sampatrao Colony, Jetalpur Road, Alkapuri",₹700,11am – 11pm (Mon-Sun)
+South Bombay,"South Indian, Juices, Beverages",3.7,(64),3.8,"(1,226)","Inorbit Mall, Subhanpura","Shop 7, Inorbit Mall, 2nd Floor, Gorwa Road, Subhanpura, Vadodara",₹400,12noon – 8:30pm (Mon-Sun)
+Kalpit Chinese Food,"North Indian, Chinese",3.9,(76),3.9,"(1,089)",Mandvi,"Bajwada, Khatriwad, Opposite Vee Lights, Bajwada Main Road, Mandvi, Vadodara",₹300,"8am – 3:30am (Mon),8am – 11:55pm (Tue-Fri),8am..."
+Chhappanbhog Restaurant & Banquets,"Gujarati, North Indian, Pizza",3.5,(83),3.8,(402),Alkapuri,"88, Sampat Rao Colony, Productivity Road, Alkapuri, Vadodara",₹600,"11am – 3pm, 7pm – 10pm (Mon-Sun)"
+Hunger’s Place,"Fast Food, Burger, Rolls",3.6,(76),4.2,(355),Subhanpura,"Gf-1 Ganga Jamuna Society, Near Jain derasar High Tension Road, Subhanpura, Vadodara",₹300,5:30pm – 11pm (Mon-Sun)
+Khana 24*7,"North Indian, South Indian, Chinese",2.8,(54),4.0,"(2,795)",Akota,"Gajanan Complex, Old Padra Road, Opposite Tube Company, Sheetal Nagar, Akota, Vadodara",₹300,8am – 4am (Mon-Sun)
+Chatako Panipuri Cash'n'Carry & Fast Food,"Chinese, Fast Food, Street Food",3.9,(51),4.2,"(1,057)",Subhanpura,"Behind Ellora Milk Centre, Ellora Park, Subhanpura, Vadodara",₹200,10am – 9:30pm (Mon-Sun)
+Tarkari - A Banyan Paradise Kitchen,"North Indian, Chinese, Italian, Continental",3.9,(67),3.2,(31),Karelibaug,"Banyan Paradise Resort, Near Dumad Crossing, Vemali, Karelibaug, Vadodara","₹1,000",8am – 12midnight (Mon-Sun)
+Shriji Farali Center,Healthy Food,3.9,(178 Reviews),,,Alkapuri,"Shop 8, Ground Floor, Dwarkesh Complex, RC Dutt Road, Alkapuri, Vadodara",₹150,10am – 10pm (Mon-Sun)
+Patel Restaurant,"Gujarati, North Indian, Street Food",3.8,(89),4.2,"(1,538)",Nizampura,"Shop 10, Natasha Shopping Centre, Nizampura Chhani Road, Opposite Sainik Chatralay, Nizampura, Vadodara",₹400,"11am – 2:55pm, 6:30pm – 9:45pm (Mon, Tue, Wed..."
+Yours Deliciously,"Pizza, Chinese, Fast Food",4.0,(91),4.2,(270),Alkapuri,"E-1/110, Kashi Vishwesher Township, Jetal Pur Road, Alkapuri, Vadodara",₹300,"12noon – 3pm, 7pm – 12:45am (Mon, Tue, Thu, Fri..."
+Maharashtra Boarding House,Maharashtrian,3.9,(120),4.2,(86),Mandvi,"Brahmpuri, Dandia Bazar, Dandiyabajar, Vadodara",₹400,11am – 11pm (Mon-Sun)
+Honeybee Cake Shop,Bakery,,,4.3,(373 Reviews),Fatehgunj,"Shop 1, Popular Building, Old, RTO Road, Warasiya, Fatehgunj, Vadodara",₹600,11am – 10pm (Mon-Sun)
+The Grand Chef (TGC),"North Indian, Chinese, Continental, Mexican",3.8,(60),3.9,(344),Diwalipura,"Basement 6, Opposite Relience Mall, Near Akshar Chowk, Old Padra Road, Diwalipura, Vadodara",₹600,11am – 11pm (Mon-Sun)
+The Cake Alchemist,"Bakery, Desserts",,,4.3,(163 Reviews),Diwalipura,"2, Krishna Park, Makrand Desai Road, Near Tribhauvan Park, Gotri Vasna Road, Vadodara",₹400,11am – 11:30pm (Mon-Sun)
+City South Corner,South Indian,4.0,(105),4.3,(755),Karelibaug,"S-16, Mahalaxmi Complex, Karelibaug, Vadodara",₹300,7pm – 11pm (Mon-Sun)
+Mayur Fafda Wala,"Street Food, Mithai",3.8,(108),4.5,(937),Nizampura,"26/2, Devdeep Complex, Near Axis Bank, Mehsana Nagar Circle, Nizampura, Vadodara",₹100,7am – 2pm (Mon-Sun)
+Maharashtrian Kitchen,Maharashtrian,,,3.6,(787 Reviews),Sayajigunj,"A FF-105, Samanvay Silicon, Opposite Kalyan Hotel, Sayajigunj, Vadodara",₹300,11am – 12midnight (Mon-Sun)
+JSK Amritsari Kulcha & Stuffed Parathas,North Indian,3.9,(78 Reviews),,,Sama,"Opposite Food Homes Supermarket, Sama-Savli Road, Sama, Vadodara",₹300,"11:30am – 3pm, 6:30pm – 11pm (Mon-Sun)"
+Saideep Dabeli Corner,Street Food,3.9,(79),4.4,"(2,701)",Karelibaug,"Subhash Park, Arth Complex, Sangam Char Rasta, Karelibaug, Vadodara",₹100,10am – 8pm (Mon-Sun)
+Maji Sainik Egg Zone,Street Food,3.8,(79),3.9,"(2,935)",Diwalipura,"6, Ground Floor, Shyamal Complex, Opposite Gulab Vatika, Tandalja, O.P Road, Diwalipura, Vadodara",₹150,11am – 4am (Mon-Sun)
+Allied Confectionery,Desserts,,,4.3,(142 Reviews),Manjalpur,"Manjalpur, Vadodara",₹300,10am – 12midnight (Mon-Sun)
+Kutchi Food Hub,"Fast Food, North Indian, Gujarati",3.7,(71),4.3,"(1,249)",Manjalpur,"Shop 11, Sunrise Complex, Opposite Ambe School, Darbar Chokadi, Vadsar Bridge Road, Manjalpur, Vadodara",₹150,11am – 9:30pm (Mon-Sun)
+Shri Guruprasad Restaurant,"North Indian, Chinese, South Indian",3.9,(105),4.0,(299),Navapura,"4, Aram Complex, Opposite Polo Ground, Rajmahal Road, Navapura, Vadodara",₹300,11am – 11pm (Mon-Sun)
+Ashish Restaurant,"North Indian, Chinese",3.6,(126 Reviews),,,Gotri,"Varun Complex, Ganga Vihar Society, Harinagar Cross Road, Gotri, Vadodara",₹600,11am – 11pm (Mon-Sun)
+Aries Pan - Panditji Paratha House,North Indian,3.9,(64),4.0,"(2,892)",Alkapuri,"Shop B-11, 88, BPC Road, Samoatrao Colony, Alkapuri, Vadodara",₹150,8am – 9pm (Mon-Sun)
+Blue Lagoons,"Fast Food, Chinese, Continental, North Indian",3.7,(76),4.1,"(2,094)",Fatehgunj,"24, Near Convent School, Suvas Colony, Fatehgunj, Vadodara",₹600,"11:30am – 3pm, 7pm – 10:30pm (Mon-Sun)"
+Jay Jalaram Restaurant,"South Indian, North Indian",3.6,(66),3.1,(882),Sayajipura,"C/18, Ajwa Road, Lakulesh Nagar, Sayaji Park Society, Vadodara, Sayajipura, Vadodara",₹150,10am – 7pm (Mon-Sun)
+Table 42,"North Indian, Chinese",3.9,(72),4.2,(995),Akota,"B/2, Praful Colony, Opposite Dmart, Akota, Vadodara",₹300,11am – 11pm (Mon-Sun)
+My Restaurant,"North Indian, Chinese",3.6,(154 Reviews),,,Vadiwadi,"Ground Floor, Solitare Complex, Old Padra Road, Vadiwadi, Vadodara",₹800,11:30am – 12midnight (Mon-Sun)
+Raju Patti Samosa,Street Food,4.0,(174 Reviews),,,Mandvi,"Sursagar Road, Opposite Maharani School, Mandvi, Vadodara",₹100,"7am – 2pm (Mon),7am – 9pm (Tue-Sun)"
+Cold Press,"Juices, Salad, Healthy Food",3.8,(67),4.3,(486),Akota,"7-8, Shivang Complex, Malhar Point Lane, Opposite Gail, Akota, Vadodara",₹300,11am – 7pm (Mon-Sun)
+A1 Omlet Centre,Street Food,3.9,(98),4.5,(213),Diwalipura,"Alamin Complex, Opposite Basera Complex, Safamarva Complex, Tandalja, Diwalipura, Vadodara",₹350,6:30pm – 12midnight (Mon-Sun)
+Mahavir Ice Cream,"Ice Cream, Desserts",3.9,(159 Reviews),,,Sayajigunj,"35, Near D Mart, Waghodia Road, Sayajigunj, Vadodara",₹200,12noon – 11pm (Mon-Sun)
+Maratha Katta,Maharashtrian,4.0,(97 Reviews),,,Diwalipura,"GF-08, Urban One Complex, Near Panch Mukhi Hanuman Mandir, Vasna Bhayli Road, Diwalipura, Vadodara",₹600,"12noon – 3pm, 7pm – 11:30pm (Mon-Sun)"
+Bite Me,Fast Food,3.8,(85),4.3,"(1,193)",Karelibaug,11 chetanyadham society punit Nagar nearParam child care clinic chanakyapuri circle new sama Vadodara,₹200,8am – 11pm (Mon-Sun)
+Jay Ambe Smoothies & Shakes,"Desserts, Beverages, Fast Food",4.2,(150),4.5,"(1,002)",Gotri,"2, 3, 4, Ground Floor, Yash Complex, Gotri Main Road, Gotri, Vadodara",₹300,8am – 9pm (Mon-Sun)
+Maggevala-OP Road,Fast Food,3.7,(101),4.2,(566),Diwalipura,"O P Road, Shree Nagar Society, Purushottam Nagar, Diwalipura, Vadodara",₹300,11am – 9:30pm (Mon-Sun)
+Abhilasha Restaurant,"North Indian, Chinese",3.5,(80),3.7,(628),Nizampura,"New Sama Road, Gyan Kunj 1, Sama GSFC Complex, Nizampura, Vadodara",₹600,"11am – 3:30pm, 7pm – 11pm (Mon-Sun)"
+Patiyala's Chhole Bhature,"North Indian, Street Food",,,3.7,"(1,994 Reviews)",Mandvi,"F/43, Shukal Nagar, Behind Prabhat Society, Near Shrivastav Complex, Javer Nagar, Waghodia Road, Mandvi, Vadodara",₹200,8am – 2am (Mon-Sun)
+Jay Jalaram Sev Usal,Street Food,3.8,(103),4.3,"(4,710)",Kendranagar,"Near Police Chowki, Parivar Char Rasta, Waghodia Road, Kendranagar, Vadodara",₹100,10am – 10pm (Mon-Sun)
+Coffee Yard,Cafe,3.4,(70),3.3,(199),Akota,"Akota, Vadodara",₹400,9am – 8:30pm (Mon-Sun)
+Raj Chinese,Chinese,3.8,(92),4.2,"(1,874)",Sayajipura,"Shop 5, Abid Apartment, Near Gulistan Apartment, Ajwa Road, Sayajipura, Vadodara",₹150,"8am – 2pm, 6pm – 11pm (Mon-Sun)"
+Balle Balle Mini Punjab,North Indian,3.8,(91),4.4,(402),Mandvi,"Citi Plaza, Opposite Madhyavarti School, Dandiya Bazar, Mandvi, Vadodara",₹500,11am – 10pm (Mon-Sun)
+A1 Tandoori Restaurant,"North Indian, Chinese",2.9,(66),3.8,(782),Sama,"37, Ground Floor, Siddharth Annexe, Savali Road, Sama, Vadodara",₹400,"11am – 2pm, 6:30pm – 11pm (Mon-Sun)"
+Jai Mahakali Sev Usal,Fast Food,,,4.1,"(2,194 Reviews)",Nizampura,"Devdeep Complex, Nizampura, Vadodara",₹150,7:30am – 10pm (Mon-Sun)
+Sankalp,South Indian,2.7,(86),4.1,(635),Fatehgunj,"Plaza Complex, Opposite Saffron Building, Fatehgunj, Vadodara",₹600,11am – 11pm (Mon-Sun)
+Ambassador Sweet Mart,Mithai,4.1,(155 Reviews),,,Sayajigunj,"Near Railway Station, Below Hotel Ambassador, Sayajiganj, Vadodara",₹100,9am – 10pm (Mon-Sun)
+MN Paratha Plaza,North Indian,3.8,(101),4.2,"(5,210)",Diwalipura,"3, Signet Hub, Akshar Chowk, Old Padra Road, Vadodara, Diwalipura, Vadodara",₹300,"8am – 3pm, 6pm – 11pm (Mon-Sun)"
+Chilli Garlic Family Restaurant,"Chinese, North Indian",,,4.1,(685 Reviews),Fatehgunj,"Eagle Apartment, Abbas Tyabji Road, Jayesh Colony, Fatehgunj, Vadodara",₹350,"11am – 4pm, 7pm – 11pm (Mon-Sun)"
+Ice Cream Factory & Shahi Darbar,"Desserts, Ice Cream, Beverages",3.6,(91),3.9,(85),Gotri,"SB 1-4, Arundeep Complex, Race Course Circle, Gotri, Vadodara",₹300,11am – 1am (Mon-Sun)
+Bombay Pav Bhaji,Street Food,3.9,(102),3.5,"(1,052)",Karelibaug,"6, Radhe Complex, Sangam Char Rasta, Karelibaug, Vadodara",₹200,"11am – 3pm, 6pm – 11pm (Mon-Sun)"
+Dangee Dums,"Bakery, Desserts",3.8,(100 Reviews),,,Karelibaug,"GF 1/2, Shrushti Avenue, Opposite Amrapali Complex, Pani Tank Road, Karelibaug, Vadodara",₹350,10am – 11pm (Mon-Sun)
+Foods N Moods Dosa House,Street Food,3.2,(49),4.0,"(1,546)",Manjalpur,"Shop 4, Amar Krupa Flat, Near Sports Complex Darabar, Chokadi, Manjalpur, Vadodara",₹200,8am – 9pm (Mon-Sun)
+Sista's Kitchen,Maharashtrian,3.7,(56),3.6,"(1,766)",Mandvi,"Ganesh Khaman's Lane, Opposite Lalabhai Sev Usal, Chokhandi, Pratapnagar, Mandvi, Vadodara",₹300,8am – 11pm (Mon-Sun)
+Wraps N Fries,"Cafe, Fast Food, Mexican",3.7,(60),4.2,"(1,674)",Vadiwadi,"Shop 1, Akash Ganga Complex, Near Vanijya Bhavan Complex, Race Course, Vadiwadi, Vadodara",₹450,11am – 11pm (Mon-Sun)
+Egg Village,"Fast Food, North Indian",,,3.6,(901 Reviews),Alkapuri,"101 , above samrat store behind bheemnath temple under jetalpur bridge.  Sayajigunj  vadodara",₹200,11am – 4am (Mon-Sun)
+Hotel Yuvraj,North Indian,3.8,(63),3.9,(928),Sayajigunj,"Near Central Bus Depot, Station Road",₹600,"11am – 3:30pm, 7pm – 11pm (Mon-Sun)"
+Papa Cakes,"Bakery, Fast Food",3.5,(17),4.4,(90),Sayajipura,"Shop 2, Shree Siddheshwar Hub, Near Vainkunth 2, Khodiyar Nagar, Sayajipura, Vadodara",₹200,"10am – 12midnight (Mon-Sat),12noon – 12midnight..."
+Alpha Quality Meals,"North Indian, Fast Food",,,4.0,(786 Reviews),Yakutpura,"46, Nathalal Shopping Center, Near Shriji Hospital, Ayurvedic 3 Rasta, Outside Panigate, Yakutpura, Vadodara",₹300,11am – 11pm (Mon-Sun)
+Das Pendawala,Mithai,,,4.1,"(1,191 Reviews)",Subhanpura,"Gf-3, Spandan house, Ellora Park, Subhanpura, Vadodara",₹400,8am – 9pm (Mon-Sun)
+Raja Punjabi Restaurant,North Indian,3.8,(75),4.4,"(1,204)",Karelibaug,"6B, H Complex Basement, Near Utkarsh Petrol Pump, Karelibaug, Vadodara",₹500,11am – 7pm (Mon-Sun)
+Oven & Grill,"Burger, Pizza, Sandwich, Fast Food",,,3.4,(273 Reviews),Akota,Delivery Only,₹600,10am – 11pm (Mon-Sun)
+Neopolitan Pizza,"Pizza, Fast Food, Chinese",2.6,(67),3.8,"(1,197)","Seven Seas Mall, Fatehgunj","3rd Floor, Seven Seas Mall, Fatehgunj, Vadodara",₹600,11am – 11pm (Mon-Sun)
+The Royal Food,"North Indian, Fast Food, Chinese",3.6,(63),3.7,"(1,169)",Karelibaug,"Shop 35, Opposite SSD Mandir, Near Old RTO Office Circle, Warasiya Main Road, Warasiya, Vadodara",₹300,8am – 11pm (Mon-Sun)
+Farm House Europe,"Pizza, Fast Food",,,3.7,(554 Reviews),Fatehgunj,"SB-37, Blue Diamond Complex, Fatehgunj, Vadodara",₹200,9am – 10pm (Mon-Sun)
+Hotel KGN,North Indian,3.4,(58),3.5,"(2,725)",Diwalipura,"C/5, Ayesha Park, Tandalja Road, Diwalipura, Vadodara",₹500,"11:30am – 3pm, 6pm – 11pm (Mon-Sun)"
+Horizon Rooftop Restaurant,"North Indian, Fast Food, Chinese",3.4,(69 Reviews),,,"Sayaji Hotel, Sayajiganj","Near Bhimnath Bridge, Opposite Parsi Agryari, Sayajigunj, Vadodara","₹1,500",7pm – 11pm (Mon-Sun)
+Shree Rasanand,"Desserts, Fast Food",2.9,(39),4.3,(880),Alkapuri,"3, Sheetal Apartment, R.C. Dutt Road, Alkapuri, Vadodara",₹300,8:30am – 10:30pm (Mon-Sun)
+Firangi Frankie,Fast Food,3.7,(101),4.3,"(1,324)",Gotri,"GF 20, Kishan Complex, Beside Apollo Pharmacy, Main Road, Gotri, Vadodara",₹100,11am – 10:30pm (Mon-Sun)
+Avvento Sandwich Parlour,Fast Food,3.7,(60),4.2,"(2,686)",Karelibaug,"Desi Haat Food Court, Near Shiv Vatika, Warasiya Ring Road, Karelibaug, Vadodara",₹300,10am – 10:30pm (Mon-Sun)
+Pangaea Resto,"North Indian, Italian, Lebanese, Mexican",3.2,(36),3.9,(93),Gotri,"Shop 16, 17 Gangotri Icon, Opposite Gokul Party Plot, Near Nilamber Circle, Gotri, Vadodara",₹500,"11:30am – 3pm, 6:30pm – 11pm (Mon-Sun)"
+Shree Mahakali Sev Usal,Fast Food,3.6,(74),3.8,"(2,520)",Gotri,"SB 2, Ankur Avenue, Near Kishan Complex, Yash Complex Cross Road, Gotri Road, Vadodara",₹150,8am – 4pm (Mon-Sun)
+Puff Corner,Cafe,2.8,(42),4.1,(922),Manjalpur,"G-40, Sarswati Complex, Manjalpur, Vadodara",₹300,10:30am – 10pm (Mon-Sun)
+51 Rainbow Ice Creams,"Ice Cream, Desserts, Beverages",3.7,(63),3.2,(508),Fatehgunj,"Fatehgunj Bridge, Vadodara",₹300,12:15pm – 11:45pm (Mon-Sun)
+Mirchi Spice,"Rajasthani, Chinese, Fast Food, Gujarati, North Indian",2.7,(65),3.6,"(1,981)",Kendranagar,95/B Aman society near ajwa road navijivan bus stop near urban health centre vadodara,₹500,"12midnight – 1am, 11am – 12midnight (Mon-Sun)"
+Tummy Fillers,"Pizza, Burger, Sandwich, Fast Food",3.7,(54),3.5,"(1,287)",Diwalipura,"SF 11, Samanvay Status 2, Near Banco Product, Atladara Padra Road, Diwalipura, Vadodara",₹300,10:30am – 11:30pm (Mon-Sun)
+Kreative Foods,"Roast Chicken, Rolls, Kebab",,,4.0,(976 Reviews),Sayajipura,"26, Amber Complex, Ajwa Road, Sayajipura, Vadodara",₹300,11am – 11pm (Mon-Sun)
+Vijay Panjabi Khana,"North Indian, Fast Food, South Indian",3.3,(91),3.8,"(3,058)",Makarpura,"Wings Complex, Near Hanuman Tample, Makarpura Main Road, Makarpura, Vadodara",₹300,"11am – 3pm, 6pm – 11pm (Mon-Sun)"
+The Barbeque Pizza,Pizza,,,3.6,(194 Reviews),Alkapuri,"101 , above samrat store behind bheemnath temple under jetalpur bridge.  Sayajigunj  vadodara",₹400,11am – 9:15pm (Mon-Sun)
+The Square Meal- Ginger Hotel RCR,North Indian,3.7,(59),4.0,(174),Vadiwadi,"Ginger Hotel, Near Natubhai Circle, Race Course Road, Vadiwadi, Vadodara",₹600,8am – 11pm (Mon-Sun)
+Al-Arabi Chicken Shawarma,Mughlai,3.8,(122 Reviews),,,Mandvi,"Near Sardamandir School, Machhipith, Mandvi, Vadodara",₹150,5pm – 11pm (Mon-Sun)
+Crazy About China,Chinese,2.9,(55),3.4,"(1,050)","Seven Seas Mall, Fatehgunj","3rd Floor, Seven Seas Mall, Fatehgunj, Vadodara",₹400,11:30am – 10:30pm (Mon-Sun)
+Punjabi Paratha House,North Indian,3.5,(63),4.3,"(1,963)",Nizampura,"A102, Shreenathji Height, Near GPS School, Beside GSFC Bridge, Chhani, Nizampura, Vadodara",₹250,9:30am – 11pm (Mon-Sun)
+Krishna Restaurant,North Indian,3.2,(48),4.0,"(2,536)",Gotri,"High Tension Road, Near Amin Party Plot, Subhanpura, Gotri, Vadodara",₹200,9:30am – 10:45pm (Mon-Sun)
+Jumpstreet Cafe,"Italian, Mexican, Chinese",3.8,(68),3.9,(316),Akota,"1-2, Rajvi Complex, Opposite Akota Garden, Akota, Vadodara",₹500,7:30am – 11pm (Mon-Sun)
+Nirmal Chhole Kulche,Street Food,3.9,(88),4.1,(509),Diwalipura,"24A, Makrand Desai Road, Kalyan Nagar, Diwalipura, Vadodara",₹150,6pm – 11pm (Mon-Sun)
+Sudama Kathiyawadi Restaurant,Gujarati,4.0,(113 Reviews),,,Nizampura,"FF-29, Delux Society, Near Ratnakar Dresses, Nizampura, Vadodara",₹200,"11:30am – 2:30pm, 7:30pm – 10:30pm (Mon-Sun)"
+Gokulesh Ice Cream Parlour,"Ice Cream, Fast Food, Pizza",3.6,(64),4.3,"(2,633)",Kendranagar,"Shop 7, Sukhdham Residency, Waghodiya Dabhoi Ring Road, Opposite Tirth Tenament, Kendranagar, Vadodara",₹200,8am – 3am (Mon-Sun)
+Kolkata Street Kitchen,"Bengali, North Indian, Fast Food, Biryani",3.8,(50),4.0,"(1,375)",Fatehgunj,"104 Anand House, Phase 4, Mandir marg. Near EME Circle. Fatehgunj 390002",₹250,8am – 1am (Mon-Sun)
+Ashirwad Restaurant,North Indian,3.8,(113 Reviews),,,Nizampura,"1st Floor, Sakar Complex, Near Super Bakery, Sardar Estate, New VIP Road",₹500,"11am – 3pm, 6:30pm – 10:30pm (Mon-Sun)"
+Bharkadevi Ice Cream,"Desserts, Beverages",3.8,(81),4.1,"(2,767)",Kendranagar,"Ground Floor 15, Shreeji Villa, Besides D Mart, Waghodia Road, Kendranagar, Vadodara",₹200,8am – 1am (Mon-Sun)
+Brew13,"Cafe, Fast Food, Beverages",3.8,(67 Reviews),,,Akota,"6-A, Rajpath Society, Old Padra Road, Akota, Vadodara",₹500,9am – 10pm (Mon-Sun)
+Talk Of The Town,"Mughlai, North Indian, Biryani",,,4.3,(568 Reviews),Manjalpur,"C 31, Viral Park Society, GIDC, Vadsar Road, Manjalpur, Vadodara",₹300,5pm – 12midnight (Mon-Sun)
+Back to Kerala,South Indian,3.7,(103),4.1,(140),Gotri,"12, 13 & 14, 1st Floor, Darshanam Arise, Near Gotri Watertank, Gotri, Vadodara",₹350,"11am – 3pm, 6pm – 11:30pm (Mon-Sun)"
+Golgappa Street,Street Food,2.9,(73),3.9,(855),Manjalpur,"GF - 7, Aangan Tower, Near Bhavans School, Teen Rasta, Makarpura Road, Manjalpur, Vadodara",₹400,11am – 11pm (Mon-Sun)
+Govinda's,Gujarati,3.9,(112 Reviews),,,Gotri,"Iscon, Hare Krishna Land, Gotri Road",₹600,"11am – 3pm, 7pm – 10pm (Mon-Sun)"
+Ellora Milk Centre,Beverages,,,4.1,(573 Reviews),Subhanpura,"1, Ellora Park Shopping Centre, Ellora Park, Subhanpura road, Subhanpura, Vadodara",₹200,9am – 8:15pm (Mon-Sun)
+Cafe Appetito,"Cafe, Fast Food, Beverages",3.4,(66),4.3,(868),Akota,"Zex House, Opposite Galleria Mall, Shankheshwar Parshwanath Marg, Akota, Vadodara",₹400,11am – 2:30am (Mon-Sun)
+Nylon Pav Bhaji,Fast Food,3.7,(66),4.1,"(1,815)",Manjalpur,"Dorado Complex, G3, Kubereshwar Mahadev Marg, Shree Palli society, Manjalpur, Vadodara",₹250,5pm – 9pm (Mon-Sun)
+Dal Roti Food Service,"Gujarati, Maharashtrian",3.8,(60),3.6,(868),Karelibaug,"Khubharwada-1, Salatwada, Karelibaug, Vadodara",₹200,8am – 9pm (Mon-Sun)
+Champaklal Pavbhaji,Street Food,3.6,(60),4.1,"(1,203)",Subhanpura,"C 81, Nutan Maheshwari Nagar Society, Near Bharucha Hospital, Subhanpura, Vadodara",₹200,"11am – 3pm, 5pm – 11pm (Mon-Sun)"
