@@ -103,7 +103,7 @@ I used **dummy date, month and year** to change these columns into **date-time**
 9. Which cousine type restaurent is cheaper or costly in Alkapuri Area? And which restaurent to choose if you are in Alkapuri Area?
 10. In specific area at specific time which restaurent is best and what are the other options?
 
-**Check the Notebook for these anwers, Reload 2 or 3 times if it's not open**
+**Check the Notebook for these anwers**
 
 ## Notebooks
 Click below to directly open the Notebook
