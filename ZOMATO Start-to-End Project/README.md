@@ -106,11 +106,11 @@ I used **dummy date, month and year** to change these columns into **date-time**
 **Check the Notebook for these anwers, Reload 2 or 3 times if it's not open**
 
 ## Notebooks
-Click here to directly watch Notebook
+Click below to directly open the Notebook
 
-[Scrapping]()
-[Cleaning]()
-[Insights](https://nbviewer.jupyter.org/github/Aditya-Rajgor/Personal-Projects/blob/master/ZOMATO%20Start-to-End%20Project/Zomato%20Insights.ipynb)
+* [Scrapping](https://nbviewer.jupyter.org/github/Aditya-Rajgor/Personal-Projects/blob/master/ZOMATO%20Start-to-End%20Project/ZOMATO%20Web%20Scrapping.ipynb)
+* [Cleaning](https://nbviewer.jupyter.org/github/Aditya-Rajgor/Personal-Projects/blob/master/ZOMATO%20Start-to-End%20Project/ZOMATO%20Cleaning.ipynb)
+* [Insights](https://nbviewer.jupyter.org/github/Aditya-Rajgor/Personal-Projects/blob/master/ZOMATO%20Start-to-End%20Project/Zomato%20Insights.ipynb)
 
 There is tons of intresting plots to put. But lemme just put one **useless chart**, which I made to find relationship between **opening time** and **Area**.It somewhat looks like **Robot**. This project was quite long, I enjoyed it alot. Next time maybe I'll compare **Zomato** with **Swiggy**.
 
