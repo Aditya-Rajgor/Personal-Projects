@@ -6,9 +6,9 @@
 ## About The Project
 ----------------------------------------**ZOMATO ZOMATO ZOMATO**----------------------------------------
 
-I bet you definetly ordered online food from ZOMATO at least for once. Me and my hostel roommates, We used to order online when we were in Hostel. Hate to tell but this is corona time(Stay Home Stay between Data). Anyways, one day I was looking for an awesome data science project to work with and then in youtube I was getting zomato ads. I know probabily all Indians are seeing(facing) zomato's ad on youtube. That's what spark the idea of making this project.
+I bet you definetly ordered online food from ZOMATO at least for once. Me and my hostel roommates, We used to order online when we were in Hostel. Hate to tell but this is corona time(Stay Home Stay between Data). Anyways, one day I was looking for an awesome data science project to work with and then in youtube I was getting zomato ads. I know probabily all the Indians are seeing(facing) zomato's ad on youtube. That's what spark the idea of making this project.
 
-This Project includes **Some-Business Questions** like **In Particular area of Vadodara which cousine is most popular?** all the way to **At 7:00am in the morning If I am in Alkapuri which top 5 restaurents are open?**
+This Project includes **Some-Business type Questions** like **In Particular area of Vadodara which cousine is most popular?** all the way to **At 7:00am in the morning If I am in Alkapuri Area which top 5 restaurents are open?**
 
 ![zomato-image](Images/zomato.jpg)
 
@@ -27,17 +27,17 @@ This Project includes **Some-Business Questions** like **In Particular area of V
 
 ## Brief-Overview
 Welcome to ZOMATO's Start-to-End Project! 
-The Project is devided into 3 parts Web Scrapping, Data Cleaning and Data Analysis by vizualizations. All three parts has separte jupyter notebook. In the notebook I put all the tiny details, so make sure to check out. And also I've uploaded both csv file one which I scrapped from website and oter one is cleaned csv file. You are free to use these files. 
+     This Project is devided into 3 parts Web Scrapping, Data Cleaning and Data Analysis by vizualization. All three parts have separte jupyter notebooks. All the tiny details are mentioned in the their respective notebooks, So make sure to check those out. And also I've uploaded csv files, incase someone wants to dig further.
 
 ## Web Scrapping n' Cleaning
- I've done webscrapping for the first time and to be honest it was frustrating. If someone is using BeautifulSoup for the first time I bet he/she will stuck between **find** and **find_all**. After some try and error it's fine. 
-**NOTE:All the rights of the data set is reserved by zomato company I used this dataset for fair use**
+  I've done webscrapping for the first time and to be honest it was frustrating. If someone is using BeautifulSoup for the first time I bet he/she will stuck between **find** and **find_all**. After some try and error it's fine. 
+**NOTE:All the rights of the data set is reserved by zomato and I've used their information for fair use**
 [Zomato bot permission page](https://www.zomato.com/robots.txt)
 
 ![](Images/zomato_permissions.png)
 
  
-One of the probelem I faced was passing Null value on Ratings and Delivery Ratings.
+One of the probelem I faced was to pass Null Value when Restaurent Has Either Rating(and Counts) or Delivery Rating(and Counts).
  
 **The restaurents I wanted**
 
@@ -47,9 +47,9 @@ One of the probelem I faced was passing Null value on Ratings and Delivery Ratin
 
 <img src='Images/only_rating.png' height=195> <img src='Images/only_delivery_rating.png' height=195>
 
-Delivery rating and rating are only different from the color of star. It was really one of the most challenging problem.
+Delivery rating and Rating are only differ from the color of Their Star. 
 
-All the restaurents have **opening time and closing time**. So other challange was to change this opening hours time into **pandas date-time series**. This problem's aprroch was as easy as it looks complicated.
+All the restaurents have **opening time and closing time**. So other challange was to change this opening hours into **pandas date-time series**. This problem's solution was as easy as it looks complicated.
 
 ```
 In [998]:
@@ -68,24 +68,27 @@ df['1st_time_close']=pd.to_datetime(df['1st_time_close'])
 df['2nd_time_open']=pd.to_datetime(df['2nd_time_open'])
 df['2nd_time_close']=pd.to_datetime(df['2nd_time_close'])
 ```
-I used **dummy date, month and year** to change these columns into **date-time**. Now we'll be consider **Hours** only. BOOM! Again I point out lots of things inside of notebook.
+I used **dummy date, month and year** to change these columns into **date-time**. Now we can consider **Hours** only. BOOM! 
 
-## Data Analysis by Vizualization
+## Data Analysis by Vizualizations
 **Let's put life on this dataset**
 
 <img src='Images/sayajigunj.png' height=400>
 
-**Sayajigunj is the area where my hostel and college located. Therefore Most of the customers are students in that area, who order lunch and dinner. Because we are students we prefer Classic Gujarati dish above others.**
+**Sayajigunj is the area where my hostel and college located. Therefore Most of the customers are students in that area, who order lunch and dinner. Because As a students, we prefer Classic Gujarati dish above all.**
 
 <img src='Images/probability1.png'>
 
-**Both rating counts graphs are intresting, for me Rating counts follows left sided skewed normal distribution whereas Delivery rating counts follow exponential distribution. We can find probability of any given point with distribution's parameter**
+**Both rating counts graphs are intresting, for me Rating counts follows left sided skewed normal distribution whereas, Delivery rating counts follows exponential distribution. We can find the probability of any given point with distribution's parameters**
 
 <img src='Images/price_pop.png'>
 
-**This plot shows all the restaurents popularity in red line and each bar shows price of two person's in different cousines. From this we can see that Gujarati Restaurent are not only popular but comes with reasonable price**
+**This plot shows all the restaurents popularity in the Red line and each Bar shows Price(for two person's) By different cousines. From this we can see that Gujarati Restaurents are not only popular but comes with reasonable price**
 
 <img src='Images/8am.png' height=280> <img src='Images/9am.png' height=280>
+
+**This plot shows that when time is 7:00 am there is only one restaurent open in Alkapuri(Chaa ni Lari) and when time is 8:00 am there is lots of restaurents being opened but we are seeing the result of top 5 restaurents. Pretty cool right!**
+
 
 ## Questions
 1. Which Cousine Restaurent has most counts in all restaurents?
@@ -99,12 +102,11 @@ I used **dummy date, month and year** to change these columns into **date-time**
 9. Which cousine type restaurent is cheaper or costly in Alkapuri Area? And which restaurent to choose if you are in Alkapuri Area?
 10. In specific area at specific time which restaurent is best and what are the other options?
 
-**Check the Notebook for these anwers Reload 2 or 3 times if its not open**
-
-**This plot shows that when time is 7:00 am there is only one restaurent open in Alkapuri(Chaa ni Lari) and when time is 8:00 am there is lots of restaurents being opened but we are seeing the result of top 5 restaurents. Pretty cool right!**
+**Check the Notebook for these anwers, Reload 2 or 3 times if it's not open**
 
 
-There is tons of intresting plots to put. But lemme just put one **useless chart**, which I made to find relationship between **opening time** and **Area**.It somewhat looks like **Robot**. This project was quite long, I enjoyed it alot. Next time maybe I'll compare Zomato with Swiggy.
+
+There is tons of intresting plots to put. But lemme just put one **useless chart**, which I made to find relationship between **opening time** and **Area**.It somewhat looks like **Robot**. This project was quite long, I enjoyed it alot. Next time maybe I'll compare **Zomato** with **Swiggy**.
 
 <img src = 'Images/robot_plot.png'>
 
