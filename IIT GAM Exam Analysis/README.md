@@ -7,3 +7,12 @@
 
 ## After collecting and cleaning I just draw meaningful bar charts in deployed whole notebook on heroku platform. You can find different notebook for different work. It's in this order
 
+- IIT JAM
+- IIT INSIGHTS
+- IIT INSIGHTS DEPLOYMENT
+
+## Check The Results
+[<img src="https://cdn.worldvectorlogo.com/logos/heroku.svg" width="100" height="64" />][heroku-url]
+[heroku-url]: https://iitgaminsights.herokuapp.com/
+
+## END
