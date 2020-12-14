@@ -12,7 +12,6 @@
 - IIT INSIGHTS DEPLOYMENT
 
 ## Check The Results
-[<img src="https://cdn.worldvectorlogo.com/logos/heroku.svg" width="100" height="64" />][heroku-url]
-[heroku-url]: https://iitgaminsights.herokuapp.com/
+[<img src="https://cdn.worldvectorlogo.com/logos/heroku.svg" width="100" height="64" />](https://iitgaminsights.herokuapp.com/)
 
 ## END
