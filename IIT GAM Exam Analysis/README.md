@@ -7,7 +7,7 @@
 
 ## After collecting and cleaning I just draw meaningful bar charts and deployed whole notebook on heroku platform. You can find different notebook for different work above. It's in this order
 
-- IIT JAM
+- [IIT JAM](https://nbviewer.jupyter.org/github/Aditya-Rajgor/Personal-Projects/blob/master/IIT%20GAM%20Exam%20Analysis/IIT%20JAM.ipynb)
 - IIT INSIGHTS
 - IIT INSIGHTS DEPLOYMENT
 
