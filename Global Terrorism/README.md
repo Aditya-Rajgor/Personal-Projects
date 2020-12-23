@@ -6,7 +6,10 @@
 
    So, this project was originally my internship project, but it wasn't compulsory and also they provided me outdated data. Therefore I went to the original website for the latest data. Unfortunately latest data (1970 to 2019) was only available for commercial license holders on the moment. I reported this to my internship mentors but no help. So I had to go with (1970 to 2018) database. This is why I consider this my personal project, although one fellow intern helped me correcting my article's english. But that doesn't count as contribution. does it?
    
-   Anyway let's get to the business. The database is really huge (df.shape (191464,135)) Creators owns my respect. Even after doing my analysis I highly feels like there is lots of things to uncover. All I've done is very direct and specific.
+   Anyway let's get to the business. The database is really huge (df.shape (191464,135)) Creators owns my respect. Even after doing my analysis I highly feels like there is lots of things to uncover. All I've did is very direct and specific. 
+
+[<img src = 'images/medium_logo.png' height='59px' width='50px'>](https://adityarajgor.medium.com/inside-the-global-terrorism-database-967084386a16)
+ 
     
 ## Issues with current analysis
  1. All the graphs are made upon number of counts (This only shows how often they happents not acutual fatality those attacks caused)
@@ -32,5 +35,9 @@
  3. Not proper use of latitude and longitude
    * The plan was to make heat map of casualty for all years which have a "Play" button. By pressing it it will show all the casualty on geographical map               throughout all years.
    
+4. Comperision between two to five countries 
+   * I saw this type of chart somewhere recently, and it was incredible. it will be really great to see two or more countries side by side for any reason.
+   
+  
    
    
