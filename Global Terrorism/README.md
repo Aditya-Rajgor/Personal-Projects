@@ -12,7 +12,7 @@
  
     
 ## Issues with current analysis
- 1. All the graphs are made upon number of counts (This only shows how often they happents not acutual fatality those attacks caused)
+ 1. All the graphs are made upon number of counts (This only shows how often they occurs not acutual fatality those attacks caused)
     * Solution would be to make bar chart showing kills and Injured.
  2. In choropleth map countries are missing 
     * Actual countries 
@@ -35,7 +35,7 @@
  3. Not proper use of latitude and longitude
    * The plan was to make heat map of casualty for all years which have a "Play" button. By pressing it it will show all the casualty on geographical map               throughout all years.
    
-4. Comperision between two to five countries 
+4. Comparision between two to five countries 
    * I saw this type of chart somewhere recently, and it was incredible. it will be really great to see two or more countries side by side for any reason.
    
   
